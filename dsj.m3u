@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://epg.aptv.app/xml"
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰卫视中文台
 http://223.105.252.60:80/PLTV/3/224/3221228527/indindex.m3u8?icpid=3&from=1&hms_devid=6882
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰卫视中文台
@@ -2922,7 +2922,232 @@ http://159.75.85.63:35455/yy/1382736835
 http://159.75.85.63:35455/yy/1354930821
 #EXTINF:-1 tvg-name="电影轮播15" tvg-logo="https://live.fanmingming.com/tv/电影轮播15.png" group-title="电影轮播",电影轮播15
 http://159.75.85.63:35455/yy/1382735571
-
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_星爷
+http://120.77.28.4:8648/huya.php?id=11342412
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_英叔
+http://120.77.28.4:8648/huya.php?id=11342421
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_发哥
+http://120.77.28.4:8648/huya.php?id=11342387
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_成龙
+http://120.77.28.4:8648/huya.php?id=11342386
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_王晶
+http://120.77.28.4:8648/huya.php?id=11602058
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_沈腾
+http://120.77.28.4:8648/huya.php?id=11601968
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_黄渤
+http://120.77.28.4:8648/huya.php?id=11352876
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_强森
+http://120.77.28.4:8648/huya.php?id=21059581
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_宇宙
+http://120.77.28.4:8648/huya.php?id=11342428
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_怪兽
+http://120.77.28.4:8648/huya.php?id=21059577
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_武侠
+http://120.77.28.4:8648/huya.php?id=11342427
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_警匪
+http://120.77.28.4:8648/huya.php?id=11352886
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_罪犯
+http://120.77.28.4:8648/huya.php?id=11352962
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_枪战
+http://120.77.28.4:8648/huya.php?id=21059579
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_海盗
+http://120.77.28.4:8648/huya.php?id=21059595
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_赛车
+http://120.77.28.4:8648/huya.php?id=11279247
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_推荐
+http://120.77.28.4:8648/huya.php?id=11602041
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_救援
+http://120.77.28.4:8648/huya.php?id=21059594
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_热血
+http://120.77.28.4:8648/huya.php?id=11352934
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_盗墓
+http://120.77.28.4:8648/huya.php?id=21059552
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_贺岁
+http://120.77.28.4:8648/huya.php?id=11601971
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_玄幻
+http://120.77.28.4:8648/huya.php?id=11342414
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_谍战
+http://120.77.28.4:8648/huya.php?id=21059585
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_战争
+http://120.77.28.4:8648/huya.php?id=21059592
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_喜剧
+http://120.77.28.4:8648/huya.php?id=11352877
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_港片
+http://120.77.28.4:8648/huya.php?id=11602043
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_国产
+http://120.77.28.4:8648/huya.php?id=11352973
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_周星星
+http://120.77.28.4:8648/huya.php?id=11336587
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_李连杰
+http://120.77.28.4:8648/huya.php?id=11342390
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_洪金宝
+http://120.77.28.4:8648/huya.php?id=11279251
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_梁家辉
+http://120.77.28.4:8648/huya.php?id=11342429
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_刘德华
+http://120.77.28.4:8648/huya.php?id=11342424
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_斯坦森
+http://120.77.28.4:8648/huya.php?id=21059588
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_小鬼头
+http://120.77.28.4:8648/huya.php?id=11352963
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_八点档
+http://120.77.28.4:8648/huya.php?id=880261
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_贺岁片
+http://120.77.28.4:8648/huya.php?id=11601986
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_功夫片
+http://120.77.28.4:8648/huya.php?id=11352941
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_黑帮片
+http://120.77.28.4:8648/huya.php?id=11336719
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_丧尸片
+http://120.77.28.4:8648/huya.php?id=21059578
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_灾难片
+http://120.77.28.4:8648/huya.php?id=11602075
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_谍战片
+http://120.77.28.4:8648/huya.php?id=21059587
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_战争片
+http://120.77.28.4:8648/huya.php?id=21059574
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_犯罪片
+http://120.77.28.4:8648/huya.php?id=11352974
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_古装片
+http://120.77.28.4:8648/huya.php?id=11336590
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_高分动作
+http://120.77.28.4:8648/huya.php?id=11352884
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_动作电影
+http://120.77.28.4:8648/huya.php?id=11602077
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_搞笑喜剧
+http://120.77.28.4:8648/huya.php?id=11342423
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_喜剧专场
+http://120.77.28.4:8648/huya.php?id=11602044
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_欢笑影院
+http://120.77.28.4:8648/huya.php?id=11352894
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_不挤影院
+http://120.77.28.4:8648/huya.php?id=11352897
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_国产悬疑
+http://120.77.28.4:8648/huya.php?id=11342395
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_快意江湖
+http://120.77.28.4:8648/huya.php?id=11342435
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_黑帮斗争
+http://120.77.28.4:8648/huya.php?id=11342419
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_嫣然影厅
+http://120.77.28.4:8648/huya.php?id=11601977
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_许氏三杰
+http://120.77.28.4:8648/huya.php?id=11602033
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_经典港片
+http://120.77.28.4:8648/huya.php?id=11352965
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_镖行天下
+http://120.77.28.4:8648/huya.php?id=11352969
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_喜乐影院
+http://120.77.28.4:8648/huya.php?id=21059580
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_蘑菇影厅
+http://120.77.28.4:8648/huya.php?id=11601981
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_搞笑恐怖
+http://120.77.28.4:8648/huya.php?id=11601960
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_死神来了
+http://120.77.28.4:8648/huya.php?id=11352903
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_变形金刚
+http://120.77.28.4:8648/huya.php?id=21059596
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",电影_怪兽系列
+http://120.77.28.4:8648/huya.php?id=21059554
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",剧集_老三国
+http://120.77.28.4:8648/huya.php?id=11602081
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",剧集_新三国
+http://120.77.28.4:8648/huya.php?id=11352944
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",剧集_新水浒
+http://120.77.28.4:8648/huya.php?id=11342384
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",剧集_纪晓岚
+http://120.77.28.4:8648/huya.php?id=11342396
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",剧集_庆余年
+http://120.77.28.4:8648/huya.php?id=11352960
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",剧集_雍正王朝
+http://120.77.28.4:8648/huya.php?id=11342439
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",剧集_士兵突击
+http://120.77.28.4:8648/huya.php?id=11342430
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",剧集_爱情公寓
+http://120.77.28.4:8648/huya.php?id=11336726
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",剧集_武林外传
+http://120.77.28.4:8648/huya.php?id=21059598
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",剧集_地下交通站
+http://120.77.28.4:8648/huya.php?id=11342433
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",剧集_邻里一家亲
+http://120.77.28.4:8648/huya.php?id=11342426
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",搞笑_陈翔六点半
+http://120.77.28.4:8648/huya.php?id=11274154
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",解说_斌哥漫说
+http://120.77.28.4:8648/huya.php?id=18632116
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",解说_小川侃电影
+http://120.77.28.4:8648/huya.php?id=15870999
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",解说_阿良说剧
+http://120.77.28.4:8648/huya.php?id=20488841
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",解说_鱼丸电影
+http://120.77.28.4:8648/huya.php?id=16615910
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",解说_阿斗说电影
+http://120.77.28.4:8648/huya.php?id=13303478
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",解说_扁豆看电影
+http://120.77.28.4:8648/huya.php?id=16028551
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",解说_大象放映室
+http://120.77.28.4:8648/huya.php?id=21277391
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",解说_科幻梦工场
+http://120.77.28.4:8648/huya.php?id=15152155
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",解说_亮哥讲电影
+http://120.77.28.4:8648/huya.php?id=16144175
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",解说_越哥说电影
+http://120.77.28.4:8648/huya.php?id=15894162
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",许冠英
+http://120.77.28.4:8648/huya.php?id=11601972
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",五福星
+http://120.77.28.4:8648/huya.php?id=11282233
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",邱淑贞
+http://120.77.28.4:8648/huya.php?id=11352949
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",徐克
+http://120.77.28.4:8648/huya.php?id=11352909
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",斗罗大陆
+http://120.77.28.4:8648/huya.php?id=11352906
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",小马的直播间
+http://120.77.28.4:8648/huya.php?id=23749096
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",孙悟空
+http://120.77.28.4:8648/huya.php?id=23735126
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",张卫健版西游记
+http://120.77.28.4:8648/huya.php?id=23728660
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",楚汉骄雄
+http://120.77.28.4:8648/huya.php?id=23740156
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",鹿鼎记小春版
+http://120.77.28.4:8648/huya.php?id=23865080
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",天龙八部97版
+http://120.77.28.4:8648/huya.php?id=23903123
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",寻秦记
+http://120.77.28.4:8648/huya.php?id=23864973
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",法证先锋
+http://120.77.28.4:8648/huya.php?id=23863804
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",陀枪师姐
+http://120.77.28.4:8648/huya.php?id=23860039
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",洗冤录
+http://120.77.28.4:8648/huya.php?id=23903130
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",倚天屠龙记
+http://120.77.28.4:8648/huya.php?id=23734246
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",神雕侠侣
+http://120.77.28.4:8648/huya.php?id=23865171
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",鉴证实录
+http://120.77.28.4:8648/huya.php?id=23903183
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",创世纪
+http://120.77.28.4:8648/huya.php?id=23749083
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",使徒行者
+http://120.77.28.4:8648/huya.php?id=23734256
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",金枝欲孽
+http://120.77.28.4:8648/huya.php?id=23865036
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",大唐双龙传
+http://120.77.28.4:8648/huya.php?id=23728674
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",妙手仁心
+http://120.77.28.4:8648/huya.php?id=23829543
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",扫黄先锋
+http://120.77.28.4:8648/huya.php?id=23903196
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",笑看风云
+http://120.77.28.4:8648/huya.php?id=23865058
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",大时代
+http://120.77.28.4:8648/huya.php?id=23865161
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",梁朝伟版鹿鼎记
+http://120.77.28.4:8648/huya.php?id=23734183
+#EXTINF:-1 group-title="电影轮播2" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",野蛮亲家血腥对线
+http://120.77.28.4:8648/huya.php?id=23863796
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
 http://39.134.65.5/wh7f454c46tw1733608636_1684221022/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8?icpid=88888888&RTS=1554599506&from=1&hms_devid=4
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
