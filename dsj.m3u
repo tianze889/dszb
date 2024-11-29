@@ -212,13 +212,10 @@ http://37.27.111.214:8080/live/28/hls.m3u8
 #EXTINF:-1 tvg-name="CINEMA-频道" tvg-logo="https://live.fanmingming.com/tv/CINEMA-频道.png" group-title="港澳台频道",CINEMA-频道
 http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV1
-http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv1hd&app=org.jykds.tvlive&version=2.2.4&mac=fu:ck:92:92:ff&nwtime=1732881575&sign=1bdb6f821176d3e55eed5e4973ebb642&ev=20240918
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://39.134.64.179:6610/PLTV/88888888/224/3221226514/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV1
-http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=1&id=cctv1hd&app=org.jykds.tvlive&version=2.2.4&mac=fu:ck:92:92:ff&nwtime=1732879462&sign=36850173bbd40bce4aec4f9b909daa6c&ev=20240918
+http://58.48.5.186:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV1
-http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=0&id=cctv1hd&app=org.jykds.tvlive&version=2.2.4&mac=fu:ck:92:92:ff&nwtime=1732880677&sign=76c30d4780bc583fabf06bb079da6025&ev=20240918
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://60.4.229.212:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="📺央视频道",CCTV2
