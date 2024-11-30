@@ -687,7 +687,7 @@ http://jssztzn.synology.me:2020/udp/239.49.8.89:8000
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🛰卫视频道",东方卫视
 https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1732986004-5ccc012b8c2c4c8ca6d77db882b97a7b-0-86d17638d910a0dfe8ca0df7d0448733
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🛰卫视频道",东方卫视
-http://180.212.166.184:4022/udp/239.5.1.81:5000
+http://112.115.131.191:8005/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="🛰卫视频道",湖南卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221225610/index.m3u8?IASHttpSessionId=OTT3105520241102065642045403
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="🛰卫视频道",湖南卫视
@@ -4211,8 +4211,10 @@ http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="岳阳公共" tvg-logo="https://live.fanmingming.com/tv/岳阳公共.png" group-title="湖南频道",岳阳公共
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
-http://utuxx.91kds.cn/live1/bstv.m3u8?id=dfwshd&app=org.jykds.tvlive&version=2.2.4&mac=fu:ck:92:92:ff&nwtime=1732883532&sign=7f05cbdd5deafb04d63687dd12879938&ev=20240918
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🛰卫视频道",东方卫视
+https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1732986004-5ccc012b8c2c4c8ca6d77db882b97a7b-0-86d17638d910a0dfe8ca0df7d0448733
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🛰卫视频道",东方卫视
+http://112.115.131.191:8005/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星.png" group-title="上海频道",五星体育
 http://218.78.182.42:8888/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星.png" group-title="体育频道",五星体育
