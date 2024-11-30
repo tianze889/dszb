@@ -4220,7 +4220,7 @@ http://218.78.182.42:8888/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星.png" group-title="体育频道",五星体育
 http://223.167.77.191:4022/udp/239.45.3.112:5140
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上海.png" group-title="上海频道",上海新闻综合
-http://utuxx.91kds.cn/live1/bstv.m3u8?id=shxwhd&app=org.jykds.tvlive&version=2.2.4&mac=fu:ck:92:92:ff&nwtime=1732883742&sign=9e9dba91a2bf6595f73ddcc912a20812&ev=20240918
+https://hlszymgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/600/01.m3u8?msisdn=0f79f65c-4c3c-438a-a75e-07e054a34dd7&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20241130175038&Channel_ID=0131_10010001005&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=223.109.64.224&SecurityKey=20241130175038&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-7.11.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&conFee=0&mtv_session=09bc711ceceba475cd404a35e831b1f9&sv=10000&ct=h5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=513071f3e2b2859db982c4541b1df213
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="上海频道",上海纪实人文
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$4.0M_1080
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="上海频道",上海纪实人文
