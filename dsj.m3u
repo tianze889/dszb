@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰卫视中文台
 http://223.105.252.60:80/PLTV/3/224/3221228527/indindex.m3u8?icpid=3&from=1&hms_devid=6882
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰卫视中文台
@@ -21,10 +25,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://223.105.252.60:80/PLTV/3/224/3221228530/indindex.m3u8?icpid=3&from=1&hms_devid=6882
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰卫视香港台
 http://203.205.220.194/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="无限翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台频道",无限翡翠台
 http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="无限星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河台.png" group-title="港澳台频道",无限星河台
@@ -281,15 +281,8 @@ http://39.134.64.179:6610/PLTV/88888888/224/3221225603/index.m3u8?IASHttpSession
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="📺央视频道",CCTV6
 http://39.134.64.179:6610/PLTV/88888888/224/3221226010/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="📺央视频道",CCTV6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="📺央视频道",CCTV7
 http://39.134.64.179:6610/PLTV/88888888/224/3221225733/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="📺央视频道",CCTV8
-http://39.134.134.89/000000000001/PLTV/88888888/224/3221279786/index.m3u8?HlsProfileId=
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="📺央视频道",CCTV8
-http://39.134.135.125/000000000001/PLTV/88888888/224/3221279786/index.m3u8?HlsProfileId=
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="📺央视频道",CCTV8
-http://39.134.134.51/000000000001/PLTV/88888888/224/3221279786/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="📺央视频道",CCTV8
 http://39.134.134.51/000000000001/PLTV/88888888/224/3221279786/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="📺央视频道",CCTV8
