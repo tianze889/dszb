@@ -25,7 +25,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://223.105.252.60:80/PLTV/3/224/3221228530/indindex.m3u8?icpid=3&from=1&hms_devid=6882
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰卫视香港台
 http://203.205.220.194/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 tvg-name="无限翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台频道",无限翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台频道",翡翠台
 http://58.250.155.2:8180/TV00000000000000000032@HHZT
 #EXTINF:-1 tvg-name="无限星河台" tvg-logo="https://live.fanmingming.com/tv/TVB星河台.png" group-title="港澳台频道",无限星河台
 http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
