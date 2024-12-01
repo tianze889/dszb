@@ -743,16 +743,12 @@ http://113.140.86.162:8009/hls/35/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🛰卫视频道",天津卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🛰卫视频道",天津卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
-http://39.134.135.84/000000000001/PLTV/88888888/224/3221282949/index.m3u8?HlsProfileId=
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
-http://119.62.61.149:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
-http://39.134.134.83/000000000001/PLTV/88888888/224/3221282949/index.m3u8?HlsProfileId=
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
 http://116.128.243.121:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
-http://39.134.134.43/000000000001/PLTV/88888888/224/3221284682/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="🛰卫视频道",湖北卫视
 http://39.134.134.85/000000000001/PLTV/88888888/224/3221282951/index.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="🛰卫视频道",湖北卫视
