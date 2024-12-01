@@ -2217,17 +2217,9 @@ https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东频道",广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东频道",广东卫视
-http://39.134.134.83/000000000001/PLTV/88888888/224/3221280407/index.m3u8?HlsProfileId=
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东频道",广东卫视
 http://60.29.124.66:6080/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东频道",广东卫视
-http://110.72.35.95:808/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="广东频道",深圳卫视
 http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="广东频道",深圳卫视
-http://115.48.61.119:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="广东频道",深圳卫视
-https://sztv-live.sztv.com.cn/AxeFRth/500/o17Aoe0.m3u8?sign=3ca42701cc25d026d77091a4c46b582e&t=67350a85
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="广东频道",深圳卫视
 http://223.241.247.214:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道",大湾区卫视
@@ -2241,7 +2233,7 @@ http://58.254.14.35:808/hls/216/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东.png" group-title="广东频道",广东体育
 http://183.30.201.19:10002/udp/239.77.1.97:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
-http://113.118.206.224:8081/udp/239.20.0.64:3144
+http://hd1.91kds.cn/live1/udp.m3u8?ip=guangdong-dx&id=239.77.0.3:5146&app=com.kaixinhd.player&version=1.3.7&mac=fu:ck:92:92:ff&nwtime=1733069128&sign=2890796b9c07126f8c8c0defc250f955&ev=20240918
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
 http://113.119.24.252:58888/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
