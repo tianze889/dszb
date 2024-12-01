@@ -2290,13 +2290,11 @@ http://58.254.14.35:808/hls/216/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东.png" group-title="广东频道",广东体育
 http://183.30.201.19:10002/udp/239.77.1.97:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
-http://116.6.85.234:4022/udp/239.12.22.84:10001
+http://113.118.206.224:8081/udp/239.20.0.64:3144
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
+http://113.119.24.252:58888/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
 http://113.90.239.138:8888/udp/239.77.0.3:5146
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
-http://183.33.59.84:8686/udp/239.77.0.3:5146
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
-http://183.33.59.84:8686/udp/239.77.1.94:5146
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东.png" group-title="广东频道",广东新闻
 http://116.11.140.205:18181/tsfile/live/live_1023_1_26581257.ts?key=txiptv&key2=26581257
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东.png" group-title="广东频道",广东新闻
