@@ -973,7 +973,7 @@ http://221.198.177.123:8888/udp/225.1.1.110:5002
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 #EXTINF:-1 tvg-name="资源宝藏库" tvg-logo="https://live.fanmingming.com/tv/安徽影视频道.png" group-title="关于软件",资源宝藏库
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-#EXTINF:-1 tvg-name="店主开发" tvg-logo="https://live.fanmingming.com/tv/安徽综艺体育频道.png" group-title="关于软件",店主开发
+#EXTINF:-1 tvg-name="店主开发维护" tvg-logo="https://live.fanmingming.com/tv/安徽综艺体育频道.png" group-title="关于软件",店主开发维护
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 tvg-name="其他店均属盗版" tvg-logo="https://live.fanmingming.com/tv/璧山综合.png" group-title="关于软件",其他店均属盗版
 http://222.179.42.129:8181/hls1.m3u8?zzhongqd
