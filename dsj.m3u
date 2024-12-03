@@ -969,12 +969,14 @@ http://221.198.177.123:8888/udp/225.1.2.4:5002
 http://221.198.177.123:8888/udp/225.1.1.82:5002
 #EXTINF:-1 tvg-name="静海卫视" tvg-logo="https://live.fanmingming.com/tv/静海卫视.png" group-title="🛰卫视频道",静海卫视
 http://221.198.177.123:8888/udp/225.1.1.110:5002
-#EXTINF:-1 tvg-name="软件由闲鱼" tvg-logo="https://live.fanmingming.com/tv/感谢捐赠支持的朋友.png" group-title="关于软件",软件由闲鱼
+#EXTINF:-1 tvg-name="软件由闲鱼" tvg-logo="https://live.fanmingming.com/tv/感谢捐赠支持的朋友.png" group-title="关于软件",软件由闲鱼店铺
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 #EXTINF:-1 tvg-name="资源宝藏库" tvg-logo="https://live.fanmingming.com/tv/安徽影视频道.png" group-title="关于软件",资源宝藏库
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 #EXTINF:-1 tvg-name="店主开发" tvg-logo="https://live.fanmingming.com/tv/安徽综艺体育频道.png" group-title="关于软件",店主开发
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 tvg-name="其他店均属盗版" tvg-logo="https://live.fanmingming.com/tv/璧山综合.png" group-title="关于软件",其他店均属盗版
+http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 #EXTINF:-1 tvg-name="非本店购买" tvg-logo="https://live.fanmingming.com/tv/宝丰新闻综合频道.png" group-title="关于软件",非本店购买
 http://live.dxhmt.cn:9081/tv/10421-1.m3u8
 #EXTINF:-1 tvg-name="软件随时失效" tvg-logo="https://live.fanmingming.com/tv/保定二套公共频道.png" group-title="关于软件",软件随时失效
@@ -983,8 +985,6 @@ http://live.bdgdw.com/channel2/playlist.m3u8?_upt=7ea59f411724490175
 http://live.bdgdw.com/channel3/playlist.m3u8?_upt=0645c0b41724490181
 #EXTINF:-1 tvg-name="请支持正版" tvg-logo="https://live.fanmingming.com/tv/保定一套.png" group-title="关于软件",请支持正版
 http://live.bdgdw.com/channel1/playlist.m3u8?_upt=0276a52c1724490169
-#EXTINF:-1 tvg-name="璧山综合" tvg-logo="https://live.fanmingming.com/tv/璧山综合.png" group-title="关于软件",璧山综合
-http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 #EXTINF:-1 tvg-name="苍南新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/苍南新闻综合频道.png" group-title="关于软件",苍南新闻综合频道
 http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 #EXTINF:-1 tvg-name="沧州电视台二套" tvg-logo="https://live.fanmingming.com/tv/沧州电视台二套.png" group-title="关于软件",沧州电视台二套
