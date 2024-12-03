@@ -985,8 +985,8 @@ http://live.bdgdw.com/channel2/playlist.m3u8?_upt=7ea59f411724490175
 http://live.bdgdw.com/channel3/playlist.m3u8?_upt=0645c0b41724490181
 #EXTINF:-1 tvg-name="请支持正版！💪" tvg-logo="https://live.fanmingming.com/tv/保定一套.png" group-title="🔥关于软件",请支持正版！💪
 http://live.bdgdw.com/channel1/playlist.m3u8?_upt=0276a52c1724490169
-#EXTINF:-1 tvg-name="支持能做到更好🇨🇳" tvg-logo="https://live.fanmingming.com/tv/苍南新闻综合频道.png" group-title="🔥关于软件",支持能做到更好🇨🇳
-http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+#EXTINF:-1 tvg-name="支持能做到更好🇨🇳" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="🔥关于软件",支持能做到更好🇨🇳
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="沧州电视台二套" tvg-logo="https://live.fanmingming.com/tv/沧州电视台二套.png" group-title="🔥关于软件",沧州电视台二套
 http://czlive.czgd.tv:85/live/xnet.m3u8
 #EXTINF:-1 tvg-name="沧州电视台三套" tvg-logo="https://live.fanmingming.com/tv/沧州电视台三套.png" group-title="🔥关于软件",沧州电视台三套
@@ -1091,8 +1091,6 @@ http://113.57.20.158:9901/tsfile/live/1017_1.m3u8
 http://live.dxhmt.cn:9081/tv/10526-1.m3u8
 #EXTINF:-1 tvg-name="淮滨新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/淮滨新闻综合频道.png" group-title="🔥关于软件",淮滨新闻综合频道
 http://live.dxhmt.cn:9081/tv/11527-1.m3u8
-#EXTINF:-1 tvg-name="环球电视台" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="🔥关于软件",环球电视台
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="黄山新闻频道" tvg-logo="https://live.fanmingming.com/tv/黄山新闻频道.png" group-title="🔥关于软件",黄山新闻频道
 http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 #EXTINF:-1 tvg-name="潢川新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/潢川新闻综合频道.png" group-title="🔥关于软件",潢川新闻综合频道
