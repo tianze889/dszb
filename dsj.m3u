@@ -1969,9 +1969,7 @@ http://116.11.141.87:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="体育频道",北京体育休闲
 http://1.203.77.72:7788/udp/225.1.0.113:1025
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星.png" group-title="体育频道",五星体育
-http://218.78.182.42:8888/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星.png" group-title="体育频道",五星体育
-http://223.167.77.191:4022/udp/239.45.3.112:5140
+http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来.png" group-title="体育频道",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="体育频道",风云足球
@@ -2293,11 +2291,7 @@ http://58.254.14.35:808/hls/216/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东.png" group-title="广东频道",广东体育
 http://183.30.201.19:10002/udp/239.77.1.97:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
-http://cache.ott.hnbblive.itv.cmvideo.cn/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=7ba0eb7007858b063a7aef52e7df22d4&version=1.0&owaccmark=2000000003000000033&owchid=hnbblive&owsid=6332701733149447770&AuthInfo=wk5ROi5UieFwjFo8Z2MCYyO3YV3CigI6fTUyUOJp1K6B2MFPKZ17OWXjC%2BLRiE3NI8OKrp0JDdGLYg5T4XH98nodMPBGJIcmDlxBnmVYZZTjngJDe22F3vG2OQtNyNgp
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
-http://cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=25dfa8becba23a2fc1fefc92d1d53cbe&version=1.0&owaccmark=1000000004000011655&owchid=ystenlive&owsid=6515951733149570454&AuthInfo=zOtQWKKRCnaWzntTVmmIzrPafEyLrTauypYRqJ7CbNYW5EnwPMBHYlURS3O0Pf42t47en%2BspC%2BsG5PZ6ZblaIS1xISVgNfy9OEqOt2lrQJeDxzFu6rUVcCbIotd70jbL
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东.png" group-title="广东频道",广东新闻
-http://116.11.140.205:18181/tsfile/live/live_1023_1_26581257.ts?key=txiptv&key2=26581257
+http://27.41.245.2:9003/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东.png" group-title="广东频道",广东新闻
 http://113.101.119.94:8090/hls/106/index.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东.png" group-title="广东频道",广东新闻
@@ -3546,8 +3540,6 @@ http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 http://113.140.86.162:8009/hls/54/index.m3u8
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.com/tv/辽宁经济.png" group-title="辽宁频道",辽宁经济
 http://175.190.127.179:4949/hls/34/index.m3u8
-#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="https://live.fanmingming.com/tv/辽宁经济.png" group-title="辽宁频道",辽宁经济
-http://c.qrj.ink:8099/udp/232.0.0.225:9272
 #EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://live.fanmingming.com/tv/辽宁教育青少.png" group-title="辽宁频道",辽宁教育青少
 http://c.qrj.ink:8099/udp/232.0.0.230:9356
 #EXTINF:-1 tvg-name="德惠综合" tvg-logo="https://live.fanmingming.com/tv/德惠.png" group-title="辽宁频道",德惠综合
@@ -4395,11 +4387,9 @@ https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1732986004-5
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
 http://112.115.131.191:8005/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星.png" group-title="上海频道",五星体育
-http://218.78.182.42:8888/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星.png" group-title="体育频道",五星体育
-http://223.167.77.191:4022/udp/239.45.3.112:5140
+http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上海.png" group-title="上海频道",上海新闻综合
-https://bp-cdn-ali.bestv.cn/ch/bestvxwzh_4m.m3u8?auth_key=1733072404-5b53e9e1c9604725bd39379728792ecb-0-051d5c643056171fe971e26202b50e0c
+http://182.92.109.190:1668/72/72.php?id=shxwzh
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="上海频道",上海纪实人文
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$4.0M_1080
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="上海频道",上海纪实人文
