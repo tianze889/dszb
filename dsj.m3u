@@ -4594,15 +4594,10 @@ http://file.loulannews.cn/nmip-media/channellive/channel102433/playlist.m3u8
 http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 #EXTINF:-1 tvg-name="巴音郭楞州" tvg-logo="https://live.fanmingming.com/tv/巴音郭楞州.png" group-title="新疆频道",巴音郭楞州
 http://file.loulannews.cn/nmip-media/channellive/channel104199/playlist.m3u8
-
 #EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://live.fanmingming.com/tv/搞笑_陈翔六点半.png" group-title="💽电影解说",搞笑_陈翔六点半
 http://159.75.85.63:35455/huya/11274154
-#EXTINF:-1 tvg-name="解说_鹿哥电影" tvg-logo="https://live.fanmingming.com/tv/解说_鹿哥电影.png" group-title="💽电影解说",解说_鹿哥电影
-http://159.75.85.63:35455/huya/24396360
 #EXTINF:-1 tvg-name="解说_斌哥漫说" tvg-logo="https://live.fanmingming.com/tv/解说_斌哥漫说.png" group-title="💽电影解说",解说_斌哥漫说
 http://159.75.85.63:35455/huya/18632116
-#EXTINF:-1 tvg-name="解说_续哥说电影" tvg-logo="https://live.fanmingming.com/tv/解说_续哥说电影.png" group-title="💽电影解说",解说_续哥说电影
-http://159.75.85.63:35455/huya/24396472
 #EXTINF:-1 tvg-name="解说_小川侃电影" tvg-logo="https://live.fanmingming.com/tv/解说_小川侃电影.png" group-title="💽电影解说",解说_小川侃电影
 http://159.75.85.63:35455/huya/15870999
 #EXTINF:-1 tvg-name="解说_阿良说剧" tvg-logo="https://live.fanmingming.com/tv/解说_阿良说剧.png" group-title="💽电影解说",解说_阿良说剧
@@ -4613,8 +4608,6 @@ http://159.75.85.63:35455/huya/16615910
 http://159.75.85.63:35455/huya/13303478
 #EXTINF:-1 tvg-name="解说_扁豆看电影" tvg-logo="https://live.fanmingming.com/tv/解说_扁豆看电影.png" group-title="💽电影解说",解说_扁豆看电影
 http://159.75.85.63:35455/huya/16028551
-#EXTINF:-1 tvg-name="解说_乌贼说电影" tvg-logo="https://live.fanmingming.com/tv/解说_乌贼说电影.png" group-title="💽电影解说",解说_乌贼说电影
-http://159.75.85.63:35455/huya/16604522
 #EXTINF:-1 tvg-name="解说_大象放映室" tvg-logo="https://live.fanmingming.com/tv/解说_大象放映室.png" group-title="💽电影解说",解说_大象放映室
 http://159.75.85.63:35455/huya/21277391
 #EXTINF:-1 tvg-name="解说_科幻梦工场" tvg-logo="https://live.fanmingming.com/tv/解说_科幻梦工场.png" group-title="💽电影解说",解说_科幻梦工场
@@ -4623,22 +4616,6 @@ http://159.75.85.63:35455/huya/15152155
 http://159.75.85.63:35455/huya/16144175
 #EXTINF:-1 tvg-name="解说_越哥说电影" tvg-logo="https://live.fanmingming.com/tv/解说_越哥说电影.png" group-title="💽电影解说",解说_越哥说电影
 http://159.75.85.63:35455/huya/15894162
-#EXTINF:-1 tvg-name="解说_小冉看电影" tvg-logo="https://live.fanmingming.com/tv/解说_小冉看电影.png" group-title="💽电影解说",解说_小冉看电影
-http://159.75.85.63:35455/huya/17341907
-#EXTINF:-1 tvg-name="解说_阿翔说电影" tvg-logo="https://live.fanmingming.com/tv/解说_阿翔说电影.png" group-title="💽电影解说",解说_阿翔说电影
-http://159.75.85.63:35455/huya/16868935
-#EXTINF:-1 tvg-name="解说_虎妞说电影" tvg-logo="https://live.fanmingming.com/tv/解说_虎妞说电影.png" group-title="💽电影解说",解说_虎妞说电影
-http://159.75.85.63:35455/huya/20343144
-#EXTINF:-1 tvg-name="解说_涵哥评电影" tvg-logo="https://live.fanmingming.com/tv/解说_涵哥评电影.png" group-title="💽电影解说",解说_涵哥评电影
-http://159.75.85.63:35455/huya/16865726
-#EXTINF:-1 tvg-name="解说_老皮讲电影" tvg-logo="https://live.fanmingming.com/tv/解说_老皮讲电影.png" group-title="💽电影解说",解说_老皮讲电影
-http://159.75.85.63:35455/huya/16968572
-#EXTINF:-1 tvg-name="解说_默爷侃电影" tvg-logo="https://live.fanmingming.com/tv/解说_默爷侃电影.png" group-title="💽电影解说",解说_默爷侃电影
-http://159.75.85.63:35455/huya/17204307
-#EXTINF:-1 tvg-name="解说_冷君说电影" tvg-logo="https://live.fanmingming.com/tv/解说_冷君说电影.png" group-title="💽电影解说",解说_冷君说电影
-http://159.75.85.63:35455/huya/16739452
-#EXTINF:-1 tvg-name="解说_恐怖电影解说" tvg-logo="https://live.fanmingming.com/tv/解说_恐怖电影解说.png" group-title="💽电影解说",解说_恐怖电影解说
-http://159.75.85.63:35455/huya/16741179
 #EXTINF:-1 tvg-name="科幻Fans" tvg-logo="https://live.fanmingming.com/tv/科幻Fans.png" group-title="💽电影解说",科幻Fans
 http://159.75.85.63:35455/douyu/3508304
 #EXTINF:-1 tvg-name="美剧解说" tvg-logo="https://live.fanmingming.com/tv/美剧解说.png" group-title="💽电影解说",美剧解说
