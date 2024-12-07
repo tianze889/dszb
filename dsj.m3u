@@ -1636,18 +1636,12 @@ http://159.75.85.63:35455/huya/30145009
 http://159.75.85.63:35455/huya/11352975
 #EXTINF:-1 tvg-name="延禧攻略轮播" tvg-logo="https://live.fanmingming.com/tv/延禧攻略轮播.png" group-title="电视剧频道",延禧攻略轮播
 http://159.75.85.63:35455/huya/26355864
-#EXTINF:-1 tvg-name="星际穿越" tvg-logo="https://live.fanmingming.com/tv/星际穿越.png" group-title="🏠家庭影院",星际穿越
-https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8
-#EXTINF:-1 tvg-name="变形金刚" tvg-logo="https://live.fanmingming.com/tv/变形金刚.png" group-title="🏠家庭影院",变形金刚
-http://159.75.85.63:35455/yy/1382736803
 #EXTINF:-1 tvg-name="我不是药神" tvg-logo="https://live.fanmingming.com/tv/我不是药神.png" group-title="🏠家庭影院",我不是药神
 https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 #EXTINF:-1 tvg-name="让子弹飞" tvg-logo="https://live.fanmingming.com/tv/让子弹飞.png" group-title="🏠家庭影院",让子弹飞
 https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="🏠家庭影院",经典电影
 http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="哈利波特全集" tvg-logo="https://live.fanmingming.com/tv/哈利波特全集.png" group-title="🏠家庭影院",哈利波特全集
-http://159.75.85.63:35455/yy/1382745105
 #EXTINF:-1 tvg-name="倩女幽魂妖魔道" tvg-logo="https://live.fanmingming.com/tv/倩女幽魂妖魔道.png" group-title="🏠家庭影院",倩女幽魂妖魔道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 #EXTINF:-1 tvg-name="倩女幽魂人间道" tvg-logo="https://live.fanmingming.com/tv/倩女幽魂人间道.png" group-title="🏠家庭影院",倩女幽魂人间道
@@ -1656,8 +1650,6 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
 #EXTINF:-1 tvg-name="龙门飞甲" tvg-logo="https://live.fanmingming.com/tv/龙门飞甲.png" group-title="🏠家庭影院",龙门飞甲
 http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
-#EXTINF:-1 tvg-name="龙门飞甲" tvg-logo="https://live.fanmingming.com/tv/龙门飞甲.png" group-title="🏠家庭影院",龙门飞甲
-https://cdn2.yzzy-tv-cdn.com/20220331/4883_7f84c204/index.m3u8
 #EXTINF:-1 tvg-name="寒战1" tvg-logo="https://live.fanmingming.com/tv/寒战1.png" group-title="🏠家庭影院",寒战1
 https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
 #EXTINF:-1 tvg-name="人在囧途" tvg-logo="https://live.fanmingming.com/tv/人在囧途.png" group-title="🏠家庭影院",人在囧途
@@ -1680,12 +1672,8 @@ https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
 https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
 #EXTINF:-1 tvg-name="满城尽带黄金甲" tvg-logo="https://live.fanmingming.com/tv/满城尽带黄金甲.png" group-title="🏠家庭影院",满城尽带黄金甲
 https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8
-#EXTINF:-1 tvg-name="哥斯拉大战金刚2帝国崛起" tvg-logo="https://live.fanmingming.com/tv/哥斯拉大战金刚2帝国崛起.png" group-title="🏠家庭影院",哥斯拉大战金刚2帝国崛起
-https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8
 #EXTINF:-1 tvg-name="绝地战警生死与共" tvg-logo="https://live.fanmingming.com/tv/绝地战警生死与共.png" group-title="🏠家庭影院",绝地战警生死与共
 https://v3.tlkqc.com/wjv3/202406/12/gFunRiZvHb75/video/index.m3u8
-#EXTINF:-1 tvg-name="异形寄生起源" tvg-logo="https://live.fanmingming.com/tv/异形寄生起源.png" group-title="🏠家庭影院",异形寄生起源
-https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8
 #EXTINF:-1 tvg-name="狄仁杰之天宫蜃楼" tvg-logo="https://live.fanmingming.com/tv/狄仁杰之天宫蜃楼.png" group-title="🏠家庭影院",狄仁杰之天宫蜃楼
 https://v9.tlkqc.com/wjv9/202408/06/p7712pXCuV81/video/index.m3u8
 #EXTINF:-1 tvg-name="鬼舞村诅咒起源" tvg-logo="https://live.fanmingming.com/tv/鬼舞村诅咒起源.png" group-title="🏠家庭影院",鬼舞村诅咒起源
@@ -1700,88 +1688,24 @@ https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
 https://api.heimuer.app/play/4c017a32d1a7478696e4b78d95774ccc.m3u8
 #EXTINF:-1 tvg-name="魔戒三部曲王者再临" tvg-logo="https://live.fanmingming.com/tv/魔戒三部曲王者再临.png" group-title="🏠家庭影院",魔戒三部曲王者再临
 https://api.heimuer.app/play/bd885bde48d742068df66e382a8db7a7.m3u8
-#EXTINF:-1 tvg-name="漫威剧情原" tvg-logo="https://live.fanmingming.com/tv/漫威剧情原.png" group-title="🏠家庭影院",漫威剧情原
-http://159.75.85.63:35455/douyu/6140589
-#EXTINF:-1 tvg-name="霍格沃茨原" tvg-logo="https://live.fanmingming.com/tv/霍格沃茨原.png" group-title="🏠家庭影院",霍格沃茨原
-http://159.75.85.63:35455/douyu/8814650
-#EXTINF:-1 tvg-name="欧美大片原" tvg-logo="https://live.fanmingming.com/tv/欧美大片原.png" group-title="🏠家庭影院",欧美大片原
-http://159.75.85.63:35455/douyu/2793084
-#EXTINF:-1 tvg-name="贝爷max原" tvg-logo="https://live.fanmingming.com/tv/贝爷max原.png" group-title="🏠家庭影院",贝爷max原
-http://159.75.85.63:35455/douyu/4332
-#EXTINF:-1 tvg-name="贝爷影厅原" tvg-logo="https://live.fanmingming.com/tv/贝爷影厅原.png" group-title="🏠家庭影院",贝爷影厅原
-http://159.75.85.63:35455/douyu/252802
-#EXTINF:-1 tvg-name="鱼宝恐怖原" tvg-logo="https://live.fanmingming.com/tv/鱼宝恐怖原.png" group-title="🏠家庭影院",鱼宝恐怖原
-http://159.75.85.63:35455/douyu/1165374
-#EXTINF:-1 tvg-name="吃奶滴虫原" tvg-logo="https://live.fanmingming.com/tv/吃奶滴虫原.png" group-title="🏠家庭影院",吃奶滴虫原
-http://159.75.85.63:35455/douyu/263824
-#EXTINF:-1 tvg-name="喜剧电影原" tvg-logo="https://live.fanmingming.com/tv/喜剧电影原.png" group-title="🏠家庭影院",喜剧电影原
-http://159.75.85.63:35455/douyu/9292492
-#EXTINF:-1 tvg-name="避风影院原" tvg-logo="https://live.fanmingming.com/tv/避风影院原.png" group-title="🏠家庭影院",避风影院原
-http://159.75.85.63:35455/douyu/9826611
-#EXTINF:-1 tvg-name="吃米滴虫原" tvg-logo="https://live.fanmingming.com/tv/吃米滴虫原.png" group-title="🏠家庭影院",吃米滴虫原
-http://159.75.85.63:35455/douyu/315457
-#EXTINF:-1 tvg-name="冰冰经典原" tvg-logo="https://live.fanmingming.com/tv/冰冰经典原.png" group-title="🏠家庭影院",冰冰经典原
-http://159.75.85.63:35455/douyu/74374
-#EXTINF:-1 tvg-name="星爷影院原" tvg-logo="https://live.fanmingming.com/tv/星爷影院原.png" group-title="🏠家庭影院",星爷影院原
-http://159.75.85.63:35455/douyu/508118
-#EXTINF:-1 tvg-name="瑶瑶恐怖原" tvg-logo="https://live.fanmingming.com/tv/瑶瑶恐怖原.png" group-title="🏠家庭影院",瑶瑶恐怖原
-http://159.75.85.63:35455/douyu/2935323
-#EXTINF:-1 tvg-name="怡宝影院原" tvg-logo="https://live.fanmingming.com/tv/怡宝影院原.png" group-title="🏠家庭影院",怡宝影院原
-http://159.75.85.63:35455/douyu/434971
-#EXTINF:-1 tvg-name="小黛兮影原" tvg-logo="https://live.fanmingming.com/tv/小黛兮影原.png" group-title="🏠家庭影院",小黛兮影原
-http://159.75.85.63:35455/douyu/11553944
-#EXTINF:-1 tvg-name="萌小鬼片原" tvg-logo="https://live.fanmingming.com/tv/萌小鬼片原.png" group-title="🏠家庭影院",萌小鬼片原
-http://159.75.85.63:35455/douyu/3928
-#EXTINF:-1 tvg-name="神乐影剧原" tvg-logo="https://live.fanmingming.com/tv/神乐影剧原.png" group-title="🏠家庭影院",神乐影剧原
-http://159.75.85.63:35455/douyu/122402
-#EXTINF:-1 tvg-name="可乐影院原" tvg-logo="https://live.fanmingming.com/tv/可乐影院原.png" group-title="🏠家庭影院",可乐影院原
-http://159.75.85.63:35455/douyu/20415
-#EXTINF:-1 tvg-name="小宇60帧原" tvg-logo="https://live.fanmingming.com/tv/小宇60帧原.png" group-title="🏠家庭影院",小宇60帧原
-http://159.75.85.63:35455/douyu/323876
-#EXTINF:-1 tvg-name="恐怖惊悚原" tvg-logo="https://live.fanmingming.com/tv/恐怖惊悚原.png" group-title="🏠家庭影院",恐怖惊悚原
-http://159.75.85.63:35455/douyu/96577
-#EXTINF:-1 tvg-name="电影剧场原" tvg-logo="https://live.fanmingming.com/tv/电影剧场原.png" group-title="🏠家庭影院",电影剧场原
-http://159.75.85.63:35455/douyu/7575350
-#EXTINF:-1 tvg-name="豆瓣高分原" tvg-logo="https://live.fanmingming.com/tv/豆瓣高分原.png" group-title="🏠家庭影院",豆瓣高分原
-http://159.75.85.63:35455/douyu/8770422
-#EXTINF:-1 tvg-name="无间道3终极无间" tvg-logo="https://live.fanmingming.com/tv/无间道3终极无间.png" group-title="🏠家庭影院",无间道3终极无间
-https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行剧" tvg-logo="https://live.fanmingming.com/tv/雪中悍刀行剧.png" group-title="🏠家庭影院",雪中悍刀行剧
-http://159.75.85.63:35455/huya/11336592
-#EXTINF:-1 tvg-name="粤语星爷电影" tvg-logo="https://live.fanmingming.com/tv/粤语星爷电影.png" group-title="🏠家庭影院",粤语星爷电影
-http://159.75.85.63:35455/huya/11336587
 #EXTINF:-1 tvg-name="重温经典频道" tvg-logo="https://live.fanmingming.com/tv/重温经典频道.png" group-title="🏠家庭影院",重温经典频道
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="星空卫视频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视频道.png" group-title="🏠家庭影院",星空卫视频道
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="星空卫视频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视频道.png" group-title="🏠家庭影院",星空卫视频道
 http://wouu.net:9977/udp/239.93.0.156:2193
-#EXTINF:-1 tvg-name="十二生肖" tvg-logo="https://live.fanmingming.com/tv/十二生肖.png" group-title="🏠家庭影院",十二生肖
-https://vip1.lz-cdn8.com/20220816/21825_d7835860/1000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="醉拳" tvg-logo="https://live.fanmingming.com/tv/醉拳.png" group-title="🏠家庭影院",醉拳
 https://vip.ffzy-play7.com/20230202/13070_b42acba9/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="警察故事" tvg-logo="https://live.fanmingming.com/tv/警察故事.png" group-title="🏠家庭影院",警察故事
-https://vip.lz-cdn1.com/20220404/878_6675a846/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="警察故事III超级警察" tvg-logo="https://live.fanmingming.com/tv/警察故事III超级警察.png" group-title="🏠家庭影院",警察故事III超级警察
 https://vip.ffzy-play7.com/20221206/8266_97359a93/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="A计划续集" tvg-logo="https://live.fanmingming.com/tv/A计划续集.png" group-title="🏠家庭影院",A计划续集
-https://vip1.lz-cdn10.com/20221012/2732_9fd148be/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="总是有爱在隔离" tvg-logo="https://live.fanmingming.com/tv/总是有爱在隔离.png" group-title="🏠家庭影院",总是有爱在隔离
 https://vip.ffzy-play7.com/20230509/24402_8dc9f535/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="攀登者" tvg-logo="https://live.fanmingming.com/tv/攀登者.png" group-title="🏠家庭影院",攀登者
 https://vip.ffzy-play7.com/20221111/3124_7cca31fc/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="重案组" tvg-logo="https://live.fanmingming.com/tv/重案组.png" group-title="🏠家庭影院",重案组
-https://vip1.lz-cdn1.com/20220522/6367_d2e376be/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="龙腾虎跃" tvg-logo="https://live.fanmingming.com/tv/龙腾虎跃.png" group-title="🏠家庭影院",龙腾虎跃
 https://vip.ffzy-play7.com/20221117/5171_c2d4c959/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="城市猎人" tvg-logo="https://live.fanmingming.com/tv/城市猎人.png" group-title="🏠家庭影院",城市猎人
 https://vip.ffzy-play7.com/20230112/11075_f5a96711/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="警察故事2013" tvg-logo="https://live.fanmingming.com/tv/警察故事2013.png" group-title="🏠家庭影院",警察故事2013
-https://vip1.lz-cdn1.com/20220420/2679_f713e430/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="火烧岛" tvg-logo="https://live.fanmingming.com/tv/火烧岛.png" group-title="🏠家庭影院",火烧岛
-https://vip1.lz-cdn1.com/20220522/6326_33ed779b/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="奇迹1989" tvg-logo="https://live.fanmingming.com/tv/奇迹1989.png" group-title="🏠家庭影院",奇迹1989
-https://vip1.lz-cdn1.com/20220404/947_529bcfa4/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="寻找成龙" tvg-logo="https://live.fanmingming.com/tv/寻找成龙.png" group-title="🏠家庭影院",寻找成龙
 https://vip.ffzy-play7.com/20221127/7273_4ce701a1/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="新宿事件" tvg-logo="https://live.fanmingming.com/tv/新宿事件.png" group-title="🏠家庭影院",新宿事件
@@ -1790,18 +1714,6 @@ https://vip.ffzy-play7.com/20230314/18148_991eeb8a/2000k/hls/mixed.m3u8
 https://vip.ffzy-play7.com/20221111/3068_d0d6c55d/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="玻璃樽" tvg-logo="https://live.fanmingming.com/tv/玻璃樽.png" group-title="🏠家庭影院",玻璃樽
 https://vip.ffzy-play7.com/20221112/3750_97a1bebc/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="霹雳火" tvg-logo="https://live.fanmingming.com/tv/霹雳火.png" group-title="🏠家庭影院",霹雳火
-https://vip1.lz-cdn7.com/20230215/14264_e49dd103/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="飞渡卷云山" tvg-logo="https://live.fanmingming.com/tv/飞渡卷云山.png" group-title="🏠家庭影院",飞渡卷云山
-https://vip1.lz-cdn7.com/20230219/14389_ca87b60c/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="尖峰时刻3" tvg-logo="https://live.fanmingming.com/tv/尖峰时刻3.png" group-title="🏠家庭影院",尖峰时刻3
-https://vip1.lz-cdn1.com/20220516/5780_3d375a51/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="曾经相爱的我们" tvg-logo="https://live.fanmingming.com/tv/曾经相爱的我们.png" group-title="🏠家庭影院",曾经相爱的我们
-https://vip1.lz-cdn1.com/20220516/5958_f2a5e885/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="天下无敌" tvg-logo="https://live.fanmingming.com/tv/天下无敌.png" group-title="🏠家庭影院",天下无敌
-https://vip.ffzy-online1.com/20240701/53398_5021e587/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="蛇形刁手" tvg-logo="https://live.fanmingming.com/tv/蛇形刁手.png" group-title="🏠家庭影院",蛇形刁手
-https://vip1.lz-cdn1.com/20220413/1883_3fd46161/1200k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="快餐车" tvg-logo="https://live.fanmingming.com/tv/快餐车.png" group-title="🏠家庭影院",快餐车
 https://vip.ffzy-play7.com/20221115/4694_6f7f88ac/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="龙少爷" tvg-logo="https://live.fanmingming.com/tv/龙少爷.png" group-title="🏠家庭影院",龙少爷
@@ -1812,8 +1724,6 @@ https://vip.ffzy-play7.com/20230101/10714_0de1384d/2000k/hls/mixed.m3u8
 https://vip.ffzy-play7.com/20221124/6781_bb0a18b1/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="秦香莲" tvg-logo="https://live.fanmingming.com/tv/秦香莲.png" group-title="🏠家庭影院",秦香莲
 https://vip.ffzy-play7.com/20230406/21188_34e1c588/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="威龙猛探" tvg-logo="https://live.fanmingming.com/tv/威龙猛探.png" group-title="🏠家庭影院",威龙猛探
-https://vip1.lz-cdn7.com/20230212/14191_de7ce1b2/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="超级计划" tvg-logo="https://live.fanmingming.com/tv/超级计划.png" group-title="🏠家庭影院",超级计划
 https://vip.ffzy-play7.com/20221112/3764_fd2b007a/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="上海正午" tvg-logo="https://live.fanmingming.com/tv/上海正午.png" group-title="🏠家庭影院",上海正午
@@ -1822,8 +1732,6 @@ https://vip.ffzy-play7.com/20230130/12799_c0437a87/2000k/hls/mixed.m3u8
 https://vip.ffzy-play7.com/20221224/9675_24c6d3c7/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="风雨双流星" tvg-logo="https://live.fanmingming.com/tv/风雨双流星.png" group-title="🏠家庭影院",风雨双流星
 https://vip.ffzy-play7.com/20221128/7518_67bd51e9/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="炮弹飞车2" tvg-logo="https://live.fanmingming.com/tv/炮弹飞车2.png" group-title="🏠家庭影院",炮弹飞车2
-https://vip1.lz-cdn7.com/20230220/14422_5b8a1aed/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="师弟出马" tvg-logo="https://live.fanmingming.com/tv/师弟出马.png" group-title="🏠家庭影院",师弟出马
 https://vip.ffzy-play7.com/20221115/4764_aba20ecc/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="上海正午2：上海骑士" tvg-logo="https://live.fanmingming.com/tv/上海正午2：上海骑士.png" group-title="🏠家庭影院",上海正午2：上海骑士
@@ -1838,10 +1746,6 @@ https://vip.ffzy-play7.com/20221129/7713_3a3bd3ff/2000k/hls/mixed.m3u8
 https://vip.ffzy-play7.com/20221228/10158_15a3aab7/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="剑花烟雨江南" tvg-logo="https://live.fanmingming.com/tv/剑花烟雨江南.png" group-title="🏠家庭影院",剑花烟雨江南
 https://vip.ffzy-play7.com/20221128/7570_1dca45cc/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="特务迷城" tvg-logo="https://live.fanmingming.com/tv/特务迷城.png" group-title="🏠家庭影院",特务迷城
-https://vip.lz-cdn1.com/20220411/1661_39b86486/1200k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="九龙城寨之围城" tvg-logo="https://live.fanmingming.com/tv/九龙城寨之围城.png" group-title="🏠家庭影院",九龙城寨之围城
-https://svipsvip.ffzy-online5.com/20240621/28901_46307ada/3000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="人吓人" tvg-logo="https://live.fanmingming.com/tv/人吓人.png" group-title="🏠家庭影院",人吓人
 https://vip.ffzy-play7.com/20230131/12897_66998969/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="东方秃鹰" tvg-logo="https://live.fanmingming.com/tv/东方秃鹰.png" group-title="🏠家庭影院",东方秃鹰
@@ -1858,8 +1762,6 @@ https://vip.ffzy-play7.com/20221115/4476_05997c13/2000k/hls/mixed.m3u8
 https://vip.ffzy-play2.com/20221127/1618_b175df0e/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="杀破狼" tvg-logo="https://live.fanmingming.com/tv/杀破狼.png" group-title="🏠家庭影院",杀破狼
 https://vip.ffzy-play.com/20221018/1977_3ef7fe7e/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="倚天屠龙记之魔教教主" tvg-logo="https://live.fanmingming.com/tv/倚天屠龙记之魔教教主.png" group-title="🏠家庭影院",倚天屠龙记之魔教教主
-https://vip.ffzy-online1.com/20230622/41615_05003dd5/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="锦衣卫" tvg-logo="https://live.fanmingming.com/tv/锦衣卫.png" group-title="🏠家庭影院",锦衣卫
 https://vip.ffzy-online2.com/20230531/38608_ad0ee149/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="花飞满城春" tvg-logo="https://live.fanmingming.com/tv/花飞满城春.png" group-title="🏠家庭影院",花飞满城春
@@ -1910,8 +1812,6 @@ https://vip.ffzy-play7.com/20221209/9156_396eac04/2000k/hls/mixed.m3u8
 https://vip.ffzy-play7.com/20221128/7611_ae4536d6/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="老豆唔怕多" tvg-logo="https://live.fanmingming.com/tv/老豆唔怕多.png" group-title="🏠家庭影院",老豆唔怕多
 https://vip.ffzy-play7.com/20221207/8412_115a031f/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="武林风云" tvg-logo="https://live.fanmingming.com/tv/武林风云.png" group-title="🏠家庭影院",武林风云
-https://s6.bfzycdn.com/video/wulinfengyun/HD/index.m3u8
 #EXTINF:-1 tvg-name="奇谋妙计五福星" tvg-logo="https://live.fanmingming.com/tv/奇谋妙计五福星.png" group-title="🏠家庭影院",奇谋妙计五福星
 https://vip.ffzy-play7.com/20221115/4730_a7515224/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="最佳福星" tvg-logo="https://live.fanmingming.com/tv/最佳福星.png" group-title="🏠家庭影院",最佳福星
