@@ -3681,9 +3681,11 @@ http://183.64.181.25:40023/rongchang01.m3u8
 #EXTINF:-1 tvg-name="忠县综合频道" tvg-logo="https://live.fanmingming.com/tv/忠县综合频道.png" group-title="重庆频道",忠县综合频道
 https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="湖北频道",湖北经视
-http://121.63.2.166:18000/udp/239.69.1.41:9886
+http://59.174.96.127:8880/udp/239.254.96.178:9148
 #EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="湖北频道",湖北经视
 http://www.xk8.top:8001/udp/239.69.1.41:9886
+#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.fanmingming.com/tv/湖北经视.png" group-title="湖北频道",湖北经视
+http://121.63.2.166:18000/udp/239.69.1.41:9886
 #EXTINF:-1 tvg-name="荆门新闻频道" tvg-logo="https://live.fanmingming.com/tv/荆门新闻频道.png" group-title="湖北频道",荆门新闻频道
 http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="荆门公共频道" tvg-logo="https://live.fanmingming.com/tv/荆门公共频道.png" group-title="湖北频道",荆门公共频道
