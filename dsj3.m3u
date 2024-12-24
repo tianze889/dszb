@@ -632,11 +632,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🛰卫视频道",北京卫视
 http://27.41.246.255:9003//hls/22/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🛰卫视频道",东方卫视
-http://27.41.246.255:9003//hls/25/index.m3u8
+http://14.204.32.194:6410/00000003/2/H_DFWS?virtualDomain=00000003.live_hls.zte.com
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
 http://27.41.246.255:9003//hls/41/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🛰卫视频道",江苏卫视
-http://27.41.246.255:9003//hls/31/index.m3u8
+http://42.54.70.234:85/tsfile/live/1140_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🛰卫视频道",深圳卫视
 http://27.41.246.255:9003//hls/21/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🛰卫视频道",安徽卫视
@@ -760,7 +760,7 @@ http://39.135.133.177:80/wh7f454c46tw2699087434_-1131031611/ottrrs.hl.chinamobil
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="🛰卫视频道",吉林卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🛰卫视频道",江苏卫视
-http://175.20.7.190:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+http://116.139.221.146:9901/tsfile/live/1140_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🛰卫视频道",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🛰卫视频道",江苏卫视
@@ -2247,18 +2247,6 @@ http://zby.xjqxz.top/dzzypd/live.m3u8
 http://zby.xjqxz.top/dzzypd2/live.m3u8
 #EXTINF:-1 tvg-name="电视剧频道15" tvg-logo="" group-title="电视剧轮播",电视剧频道15
 http://zby.xjqxz.top/dzzypd3/live.m3u8
-#EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="" group-title="电视剧轮播",康熙微服私访记
-http://zby.xjqxz.top/kxwfxhj/live.m3u8
-#EXTINF:-1 tvg-name="甄嬛传电视剧" tvg-logo="" group-title="电视剧轮播",甄嬛传电视剧
-http://zby.xjqxz.top/live8/live.m3u8
-#EXTINF:-1 tvg-name="卿卿日常轮播" tvg-logo="" group-title="电视剧轮播",卿卿日常轮播
-http://zby.xjqxz.top/qqrc/live.m3u8
-#EXTINF:-1 tvg-name="知否知否轮播" tvg-logo="" group-title="电视剧轮播",知否知否轮播
-http://zby.xjqxz.top/zfzf/live.m3u8
-#EXTINF:-1 tvg-name="向风而行轮播" tvg-logo="" group-title="电视剧轮播",向风而行轮播
-http://zby.xjqxz.top/xfex/live.m3u8
-#EXTINF:-1 tvg-name="警察荣誉轮播" tvg-logo="" group-title="电视剧轮播",警察荣誉轮播
-http://zby.xjqxz.top/live16/live.m3u8
 #EXTINF:-1 tvg-name="琅琊榜电视剧" tvg-logo="" group-title="电视剧轮播",琅琊榜电视剧
 http://zby.xjqxz.top/lyb/live.m3u8
 #EXTINF:-1 tvg-name="三生三世轮播" tvg-logo="" group-title="电视剧轮播",三生三世轮播
