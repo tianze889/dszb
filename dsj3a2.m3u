@@ -3929,12 +3929,6 @@ http://113.101.119.62:8090/hls/111/index.m3u8
 http://42.5.186.239:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png" group-title="广东频道",岭南戏曲
 http://113.118.13.254:808/hls/16/index.m3u8
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东.png" group-title="广东频道",广东新闻
-http://113.101.119.94:8090/hls/106/index.m3u8
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/广东.png" group-title="广东频道",广东新闻
-http://file.dallo.com.cn:8888/udp/239.10.0.122:1025
-#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东频道",广东民生
-http://183.33.59.84:8686/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广州频道" tvg-logo="https://live.fanmingming.com/tv/广州频道.png" group-title="广东频道",广州频道
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
 #EXTINF:-1 tvg-name="广州影视频道" tvg-logo="https://live.fanmingming.com/tv/广州影视频道.png" group-title="广东频道",广州影视频道
