@@ -833,10 +833,8 @@ http://39.134.64.179:6610/PLTV/88888888/224/3221226450/index.m3u8?
 http://39.134.67.108/PLTV/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="🛰卫视频道",北京卫视
 http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="🛰卫视频道",东方卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226345/index.m3u8?
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
-http://39.134.64.179:6610/PLTV/88888888/224/3221226336/index.m3u8?
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="🛰卫视频道",东方卫视
 http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="🛰卫视频道",东方卫视
@@ -5957,6 +5955,8 @@ http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 http://hnstnx.chinashadt.com:2037/live/10001.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-name="黄陂新闻" tvg-logo="https://live.fanmingming.com/tv/黄陂新闻.png" group-title="湖南频道",黄陂新闻
 http://livehprm.hptv.com.cn/zbpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
+http://39.134.64.179:6610/PLTV/88888888/224/3221226345/index.m3u8?
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226336/index.m3u8?
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
