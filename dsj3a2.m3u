@@ -6185,26 +6185,24 @@ http://livehprm.hptv.com.cn/zbpd/sd/live.m3u8
 http://39.134.64.179:6610/PLTV/88888888/224/3221226345/index.m3u8?
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226336/index.m3u8?
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
-https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1732986004-5ccc012b8c2c4c8ca6d77db882b97a7b-0-86d17638d910a0dfe8ca0df7d0448733
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
-http://112.115.131.191:8005/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="上海东方影视" tvg-logo="" group-title="上海频道",上海东方影视
+http://39.134.136.161:6610/000000001000/2000000002000000013/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000013
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星.png" group-title="上海频道",五星体育
+http://39.134.136.161:6610/000000001000/2000000002000000007/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000007
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星.png" group-title="上海频道",五星体育
 http://61.173.144.157:9901/tsfile/live/1010_1.m3u8
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上海.png" group-title="上海频道",上海新闻综合
-http://182.92.109.190:1668/72/72.php?id=shxwzh
+#EXTINF:-1 tvg-name="上海国际频道" tvg-logo="" group-title="上海频道",上海国际频道
+http://39.134.136.161:6610/000000001000/2000000002000000001/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000001
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="上海频道",上海纪实人文
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225738/index.m3u8$4.0M_1080
-#EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="上海频道",上海纪实人文
-http://1.203.77.72:7788/udp/225.1.8.53:8060
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
-http://42.92.117.204:8888/udp/239.255.29.22:8231
+http://39.134.136.161:6610/000000001000/2000000002000000012/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000012
 #EXTINF:-1 tvg-name="上海生活时尚" tvg-logo="https://live.fanmingming.com/tv/上海生活时尚.png" group-title="上海频道",上海生活时尚
-http://wouu.net:9977/udp/239.93.0.106:5140
+http://39.134.136.161:6610/000000001000/2000000002000000006/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000006
+#EXTINF:-1 tvg-name="上海风尚音乐" tvg-logo="https://live.fanmingming.com/tv/上海风尚音乐.png" group-title="上海频道",上海风尚音乐
+http://39.134.136.161:6610/000000001000/5529729098703832176/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5529729098703832176
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方.png" group-title="上海频道",东方财经
-http://223.85.50.233:8085/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+http://39.134.136.161:6610/000000001000/2000000002000000004/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000004
 #EXTINF:-1 tvg-name="上海崇明电视台" tvg-logo="https://live.fanmingming.com/tv/上海崇明电视台.png" group-title="上海频道",上海崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 #EXTINF:-1 tvg-name="上海崇明电视台" tvg-logo="https://live.fanmingming.com/tv/上海崇明电视台.png" group-title="上海频道",上海崇明电视台
