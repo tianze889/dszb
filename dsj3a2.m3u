@@ -1084,9 +1084,25 @@ http://39.134.67.108/PLTV/88888888/224/3221225944/1.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="🛰卫视频道",青海卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226323/index.m3u8?
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="🛰卫视频道",青海卫视
+http://39.134.136.161:6610/000000001000/5000000006000040015/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040015
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="🛰卫视频道",青海卫视
+http://39.134.136.161:6610/000000001000/6399324389404552555/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6399324389404552555
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="🛰卫视频道",青海卫视
+http://39.134.136.161:6610/000000001000/6721180114242078041/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6721180114242078041
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="🛰卫视频道",青海卫视
 http://39.134.67.108/PLTV/88888888/224/3221225948/1.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226456/index.m3u8?
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
+http://39.134.136.161:6610/000000001000/5240243759878962058/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5240243759878962058
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
+http://39.134.136.161:6610/000000001000/5314654537380139019/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=5314654537380139019
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
+http://39.134.136.161:6610/000000001000/7347081113971056899/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7347081113971056899
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
+http://39.134.136.161:6610/000000001000/7744799445271696577/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7744799445271696577
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
+http://39.134.136.161:6610/000000001000/9216797902845952310/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=9216797902845952310
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226507/index.m3u8?
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
@@ -1094,9 +1110,29 @@ http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="🛰卫视频道",陕西卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226457/index.m3u8?
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="🛰卫视频道",陕西卫视
+http://39.134.136.161:6610/000000001000/1000000002000007495/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000007495
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="🛰卫视频道",陕西卫视
+http://39.134.136.161:6610/000000001000/5000000006000040017/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040017
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="🛰卫视频道",陕西卫视
+http://39.134.136.161:6610/000000001000/6194965711565916623/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6194965711565916623
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="🛰卫视频道",陕西卫视
+http://39.134.136.161:6610/000000001000/7120278140251237664/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7120278140251237664
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="🛰卫视频道",陕西卫视
+http://39.134.136.161:6610/000000001000/7400528621461986101/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=7400528621461986101
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="🛰卫视频道",陕西卫视
 http://39.134.67.108/PLTV/88888888/224/3221225989/1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="🛰卫视频道",深圳卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226510/index.m3u8?
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="🛰卫视频道",深圳卫视
+http://39.134.136.161:6610/000000001000/5352218613763113657/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5352218613763113657
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="🛰卫视频道",深圳卫视
+http://39.134.136.161:6610/000000001000/5810022399100543765/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=5810022399100543765
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="🛰卫视频道",深圳卫视
+http://39.134.136.161:6610/000000001000/6606401455222064705/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6606401455222064705
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="🛰卫视频道",深圳卫视
+http://39.134.136.161:6610/000000001000/7696950400632248401/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7696950400632248401
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="🛰卫视频道",深圳卫视
+http://39.134.136.161:6610/000000001000/8902912065170644677/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=8902912065170644677
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="🛰卫视频道",深圳卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226313/index.m3u8?
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="🛰卫视频道",深圳卫视
@@ -1106,11 +1142,27 @@ http://39.134.67.108/PLTV/88888888/224/3221225997/1.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="🛰卫视频道",四川卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226338/index.m3u8?
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="🛰卫视频道",四川卫视
+http://39.134.136.161:6610/000000001000/6677438387677364824/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=6677438387677364824
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="🛰卫视频道",四川卫视
+http://39.134.136.161:6610/000000001000/8744805262559782299/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8744805262559782299
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="🛰卫视频道",四川卫视
+http://39.134.136.161:6610/000000001000/8765503395601010087/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=8765503395601010087
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="🛰卫视频道",四川卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226513/index.m3u8?
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="🛰卫视频道",四川卫视
 http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="🛰卫视频道",天津卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226459/index.m3u8?
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="🛰卫视频道",天津卫视
+http://39.134.136.161:6610/000000001000/6492213982750251972/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6492213982750251972
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="🛰卫视频道",天津卫视
+http://39.134.136.161:6610/000000001000/6707942579111517572/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6707942579111517572
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="🛰卫视频道",天津卫视
+http://39.134.136.161:6610/000000001000/8389971589569141275/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=8389971589569141275
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="🛰卫视频道",天津卫视
+http://39.134.136.161:6610/000000001000/8798367982904688776/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8798367982904688776
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="🛰卫视频道",天津卫视
+http://39.134.136.161:6610/000000001000/9062258020633980548/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=9062258020633980548
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="🛰卫视频道",天津卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226395/index.m3u8?
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="🛰卫视频道",天津卫视
@@ -1118,23 +1170,71 @@ http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="🛰卫视频道",西藏卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226433/index.m3u8?
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="🛰卫视频道",西藏卫视
+http://39.134.136.161:6610/000000001000/1000000002000015894/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000015894
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="🛰卫视频道",西藏卫视
+http://39.134.136.161:6610/000000001000/6603041244077933770/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=6603041244077933770
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="🛰卫视频道",西藏卫视
+http://39.134.136.161:6610/000000001000/7179022603798868495/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7179022603798868495
+#EXTINF:-1 tvg-name="西藏卫视藏语" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视藏语.png" group-title="🛰卫视频道",西藏卫视藏语
+http://39.134.136.161:6610/000000001000/5000000002000021549/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000021549
+#EXTINF:-1 tvg-name="西藏卫视藏语" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视藏语.png" group-title="🛰卫视频道",西藏卫视藏语
+http://39.134.136.161:6610/000000001000/7134589828528695864/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7134589828528695864
+#EXTINF:-1 tvg-name="新海南" tvg-logo="https://live.fanmingming.cn/tv/新海南.png" group-title="🛰卫视频道",新海南
+http://39.134.136.161:6610/000000001000/2000000003000000011/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000011
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="🛰卫视频道",西藏卫视
 http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="🛰卫视频道",新疆卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226460/index.m3u8?
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="🛰卫视频道",新疆卫视
+http://39.134.136.161:6610/000000001000/1000000002000029441/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000029441
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="🛰卫视频道",新疆卫视
+http://39.134.136.161:6610/000000001000/5000000006000040018/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040018
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="🛰卫视频道",新疆卫视
+http://39.134.136.161:6610/000000001000/5802765535081445534/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5802765535081445534
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="🛰卫视频道",新疆卫视
+http://39.134.136.161:6610/000000001000/6986657152785429375/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6986657152785429375
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="🛰卫视频道",新疆卫视
 http://39.134.67.108/PLTV/88888888/224/3221225999/1.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="🛰卫视频道",云南卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226444/index.m3u8?
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="🛰卫视频道",云南卫视
+http://39.134.136.161:6610/000000001000/5000000006000040019/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040019
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="🛰卫视频道",云南卫视
+http://39.134.136.161:6610/000000001000/6546334374314681368/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=6546334374314681368
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="🛰卫视频道",云南卫视
+http://39.134.136.161:6610/000000001000/6810887655606226378/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6810887655606226378
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="🛰卫视频道",云南卫视
+http://39.134.136.161:6610/000000001000/8567124785369040339/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8567124785369040339
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="🛰卫视频道",云南卫视
 http://39.134.67.108/PLTV/88888888/224/3221225957/1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226342/index.m3u8?
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
+http://39.134.136.161:6610/000000001000/4867251683694877276/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=4867251683694877276
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
+http://39.134.136.161:6610/000000001000/4945391150963996912/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=4945391150963996912
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
+http://39.134.136.161:6610/000000001000/5053644244529125038/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=5053644244529125038
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
+http://39.134.136.161:6610/000000001000/5822304506273784683/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=5822304506273784683
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
+http://39.134.136.161:6610/000000001000/7680777599813046442/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7680777599813046442
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
+http://39.134.136.161:6610/000000001000/7889730693553663314/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7889730693553663314
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
+http://39.134.136.161:6610/000000001000/8717793494045622160/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=8717793494045622160
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226339/index.m3u8?
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
 http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="🛰卫视频道",重庆卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226463/index.m3u8?
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="🛰卫视频道",重庆卫视
+http://39.134.136.161:6610/000000001000/4995134319251569870/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=4995134319251569870
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="🛰卫视频道",重庆卫视
+http://39.134.136.161:6610/000000001000/5795701757771275875/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=5795701757771275875
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="🛰卫视频道",重庆卫视
+http://39.134.136.161:6610/000000001000/8403513971272460267/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=8403513971272460267
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="🛰卫视频道",重庆卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226409/index.m3u8?
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="🛰卫视频道",重庆卫视
@@ -1256,11 +1356,27 @@ http://39.134.67.108/PLTV/88888888/224/3221226017/1.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="🛰卫视频道",宁夏卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226454/index.m3u8?
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="🛰卫视频道",宁夏卫视
+http://39.134.136.161:6610/000000001000/1000000002000031451/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000031451
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="🛰卫视频道",宁夏卫视
+http://39.134.136.161:6610/000000001000/5000000006000040022/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040022
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="🛰卫视频道",宁夏卫视
+http://39.134.136.161:6610/000000001000/5793735126731753680/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=5793735126731753680
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="🛰卫视频道",宁夏卫视
+http://39.134.136.161:6610/000000001000/7527747602951312973/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7527747602951312973
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="🛰卫视频道",宁夏卫视
 http://39.134.67.108/PLTV/88888888/224/3221226028/1.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
 http://39.134.67.108/PLTV/88888888/224/3221226034/1.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="🛰卫视频道",山西卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226392/index.m3u8?
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="🛰卫视频道",山西卫视
+http://39.134.136.161:6610/000000001000/1000000002000021220/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000021220
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="🛰卫视频道",山西卫视
+http://39.134.136.161:6610/000000001000/4821787565788875765/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=4821787565788875765
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="🛰卫视频道",山西卫视
+http://39.134.136.161:6610/000000001000/5000000006000040023/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040023
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="🛰卫视频道",山西卫视
+http://39.134.136.161:6610/000000001000/7582242998896540942/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=7582242998896540942
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="🛰卫视频道",山西卫视
 http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="🛰卫视频道",四川卫视
@@ -1470,6 +1586,12 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="🛰卫视频道",兵团卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="🛰卫视频道",安多卫视
+http://39.134.136.161:6610/000000001000/1000000005000266001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266001
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="🛰卫视频道",安多卫视
+http://39.134.136.161:6610/000000001000/7248678452522064966/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7248678452522064966
+#EXTINF:-1 tvg-name="安多卫视藏语" tvg-logo="https://live.fanmingming.cn/tv/安多卫视藏语.png" group-title="🛰卫视频道",安多卫视藏语
+http://39.134.136.161:6610/000000001000/5000000006000022124/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000022124
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="🛰卫视频道",安多卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.cn/tv/康巴卫视.png" group-title="🛰卫视频道",康巴卫视
 http://39.134.136.161:6610/000000001000/1000000005000266002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266002
@@ -1481,8 +1603,18 @@ http://39.134.136.161:6610/000000001000/9131971102485823367/index.m3u8?livemode=
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="🛰卫视频道",延边卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="🛰卫视频道",山东教育
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.cn/tv/山东教育卫视.png" group-title="🛰卫视频道",山东教育卫视
+http://39.134.136.161:6610/000000001000/1000000002000004097/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000004097
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.cn/tv/山东教育卫视.png" group-title="🛰卫视频道",山东教育卫视
+http://39.134.136.161:6610/000000001000/2000000003000000013/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000013
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.cn/tv/山东教育卫视.png" group-title="🛰卫视频道",山东教育卫视
+http://39.134.136.161:6610/000000001000/7341476808603780321/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7341476808603780321
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.cn/tv/山东教育卫视.png" group-title="🛰卫视频道",山东教育卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西农林卫视.png" group-title="🛰卫视频道",陕西农林卫视
+http://39.134.136.161:6610/000000001000/1000000005000266003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266003
+#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西农林卫视.png" group-title="🛰卫视频道",陕西农林卫视
+http://39.134.136.161:6610/000000001000/2000000003000000046/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000046
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.cn/tv/纪实科教.png" group-title="🛰卫视频道",纪实科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="🛰卫视频道",卡酷少儿
@@ -1541,8 +1673,6 @@ http://111.160.17.2:59901/tsfile/live/0001_49.m3u8
 http://111.160.17.2:59901/tsfile/live/0001_50.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="🛰卫视频道",东方卫视
 http://14.204.32.194:6410/00000003/2/H_DFWS?virtualDomain=00000003.live_hls.zte.com
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="🛰卫视频道",江苏卫视
-http://42.54.70.234:85/tsfile/live/1140_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="🛰卫视频道",安多卫视
 http://39.135.133.156:80/wh7f454c46tw3167314698_566275339/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8?icpid=88888888&RTS=1730290872&from=23&hms_devid=1247&online=1730290872&vqe=3
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="🛰卫视频道",安徽卫视
@@ -1622,8 +1752,6 @@ http://39.135.133.177:80/wh7f454c46tw2699087434_-1131031611/ottrrs.hl.chinamobil
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="🛰卫视频道",吉林卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="🛰卫视频道",江苏卫视
-http://116.139.221.146:9901/tsfile/live/1140_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="🛰卫视频道",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="🛰卫视频道",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
@@ -1664,6 +1792,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="🛰卫视频道",青海卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="🛰卫视频道",厦门卫视
+http://39.134.136.161:6610/000000001000/1000000005000266006/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266006
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="🛰卫视频道",厦门卫视
 http://home.await.moe:30000/udp/239.3.1.143:4120
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.cn/tv/山东教育卫视.png" group-title="🛰卫视频道",山东教育卫视
 http://39.135.133.175:80/wh7f454c46tw3137178556_551747837/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?icpid=88888888&RTS=1730368151&from=23&hms_devid=1252&online=1730368151&vqe=3
@@ -1683,8 +1813,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="🛰卫视频道",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="🛰卫视频道",四川卫视
-http://222.241.154.37:9901/tsfile/live/23041_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="🛰卫视频道",四川卫视
 http://39.135.133.178:80/wh7f454c46tw3290389485_-9527365/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8?icpid=88888888&RTS=1730290995&from=23&hms_devid=1248&online=1730290995&vqe=3
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="🛰卫视频道",四川卫视
@@ -1723,8 +1851,6 @@ http://39.135.133.171:80/wh7f454c46tw2557189019_-1772760338/ottrrs.hl.chinamobil
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="🛰卫视频道",重庆卫视
-http://222.241.154.37:9901/tsfile/live/23042_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="🛰卫视频道",重庆卫视
 http://39.135.133.161:80/wh7f454c46tw3613157627_1197904584/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?icpid=88888888&RTS=1730291317&from=23&hms_devid=1244&online=1730291317&vqe=3
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="🛰卫视频道",重庆卫视
