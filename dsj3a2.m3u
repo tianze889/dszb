@@ -2725,22 +2725,72 @@ http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHAN
 http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002010/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/第一财经.png" group-title="📡央卫IPV6源",第一财经
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="电影1905" tvg-logo="https://live.fanmingming.com/tv/电影1905.png" group-title="🎬电影频道",电影1905
-http://zby.xjqxz.top/live11/live.m3u8
-#EXTINF:-1 tvg-name="电影1" tvg-logo="https://live.fanmingming.com/tv/电影1.png" group-title="🎬电影频道",电影1
-http://zby.xjqxz.top/live5/live.m3u8
-#EXTINF:-1 tvg-name="电影2" tvg-logo="https://live.fanmingming.com/tv/电影2.png" group-title="🎬电影频道",电影2
-http://zby.xjqxz.top/live7/live.m3u8
-#EXTINF:-1 tvg-name="电影3" tvg-logo="https://live.fanmingming.com/tv/电影3.png" group-title="🎬电影频道",电影3
+#EXTINF:-1 tvg-name="成龙" tvg-logo="" group-title="🎬电影频道",成龙
+http://zby.xjqxz.top/cldy/live.m3u8
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="" group-title="🎬电影频道",周星驰
 http://zby.xjqxz.top/live12/live.m3u8
-#EXTINF:-1 tvg-name="电影4" tvg-logo="https://live.fanmingming.com/tv/电影4.png" group-title="🎬电影频道",电影4
+#EXTINF:-1 tvg-name="李连杰" tvg-logo="" group-title="🎬电影频道",李连杰
+http://zby.xjqxz.top/lljdy/live.m3u8
+#EXTINF:-1 tvg-name="邵氏影院" tvg-logo= group-title="🎬电影频道",邵氏影院
+http://jiaojirentv.top/2020/dy.php?id=4246519
+#EXTINF:-1 tvg-name="粤语综艺" tvg-logo= group-title="🎬电影频道",粤语综艺
+http://jiaojirentv.top/2020/dy.php?id=7919720
+#EXTINF:-1 tvg-name="华语经典" tvg-logo= group-title="🎬电影频道",华语经典
+http://jiaojirentv.top/2020/dy.php?id=434971
+#EXTINF:-1 tvg-name="吃米滴虫" tvg-logo= group-title="🎬电影频道",吃米滴虫
+http://jiaojirentv.top/2020/dy.php?id=315457
+#EXTINF:-1 tvg-name="神乐影片" tvg-logo= group-title="🎬电影频道",神乐影片
+http://jiaojirentv.top/2020/dy.php?id=85894
+#EXTINF:-1 tvg-name="特辑影院" tvg-logo= group-title="🎬电影频道",特辑影院
+http://jiaojirentv.top/2020/dy.php?id=3637778
+#EXTINF:-1 tvg-name="贝爷MAX厅" tvg-logo= group-title="🎬电影频道",贝爷MAX厅
+http://jiaojirentv.top/2020/dy.php?id=4332
+#EXTINF:-1 tvg-name="漫威影片" tvg-logo= group-title="🎬电影频道",漫威影片
+http://jiaojirentv.top/2020/dy.php?id=6140589
+#EXTINF:-1 tvg-name="豆瓣高分" tvg-logo= group-title="🎬电影频道",豆瓣高分
+http://jiaojirentv.top/2020/dy.php?id=8770422
+#EXTINF:-1 tvg-name="林正英电影1" tvg-logo= group-title="🎬电影频道",林正英电影1
+http://jiaojirentv.top/2020/dy.php?id=218859
+#EXTINF:-1 tvg-name="林正英电影2" tvg-logo= group-title="🎬电影频道",林正英电影2
+http://jiaojirentv.top/2020/dy.php?id=7356023
+#EXTINF:-1 tvg-name="贝爷影厅1" tvg-logo= group-title="🎬电影频道",贝爷影厅1
+http://jiaojirentv.top/2020/dy.php?id=252802
+#EXTINF:-1 tvg-name="贝爷影厅2" tvg-logo= group-title="🎬电影频道",贝爷影厅2
+http://jiaojirentv.top/2020/dy.php?id=36337
+#EXTINF:-1 tvg-name="霍格影片" tvg-logo= group-title="🎬电影频道",霍格影片
+http://jiaojirentv.top/2020/dy.php?id=8814650
+#EXTINF:-1 tvg-name="可乐电影" tvg-logo= group-title="🎬电影频道",可乐电影
+http://jiaojirentv.top/2020/dy.php?id=20415
+#EXTINF:-1 tvg-name="奶虫恐怖电影" tvg-logo= group-title="🎬电影频道",奶虫恐怖电影
+http://jiaojirentv.top/2020/dy.php?id=263824
+#EXTINF:-1 tvg-name="恐怖经典" tvg-logo= group-title="🎬电影频道",恐怖经典
+http://jiaojirentv.top/2020/dy.php?id=1165374
+#EXTINF:-1 tvg-name="变种人电影" tvg-logo= group-title="🎬电影频道",变种人电影
+http://jiaojirentv.top/2020/dy.php?id=9651304
+#EXTINF:-1 tvg-name="华语电影" tvg-logo= group-title="🎬电影频道",华语电影
+http://jiaojirentv.top/2020/dy.php?id=3928
+#EXTINF:-1 tvg-name="电影轮播1" tvg-logo="" group-title="🎬电影频道",电影轮播1
+http://zby.xjqxz.top/live11/live.m3u8
+#EXTINF:-1 tvg-name="电影轮播2" tvg-logo="" group-title="🎬电影频道",电影轮播2
 http://zby.xjqxz.top/live13/live.m3u8
-#EXTINF:-1 tvg-name="电影5" tvg-logo="https://live.fanmingming.com/tv/电影5.png" group-title="🎬电影频道",电影5
+#EXTINF:-1 tvg-name="电影轮播3" tvg-logo="" group-title="🎬电影频道",电影轮播3
+http://zby.xjqxz.top/live7/live.m3u8
+#EXTINF:-1 tvg-name="电影轮播4" tvg-logo="" group-title="🎬电影频道",电影轮播4
+http://zby.xjqxz.top/live5/live.m3u8
+#EXTINF:-1 tvg-name="电影1905" tvg-logo="" group-title="🎬电影频道",电影1905
+http://zby.xjqxz.top/live11/live.m3u8
+#EXTINF:-1 tvg-name="电影1" tvg-logo="" group-title="🎬电影频道",电影1
+http://zby.xjqxz.top/live5/live.m3u8
+#EXTINF:-1 tvg-name="电影2" tvg-logo="" group-title="🎬电影频道",电影2
+http://zby.xjqxz.top/live7/live.m3u8
+#EXTINF:-1 tvg-name="电影3" tvg-logo="" group-title="🎬电影频道",电影3
+http://zby.xjqxz.top/live12/live.m3u8
+#EXTINF:-1 tvg-name="电影4" tvg-logo="" group-title="🎬电影频道",电影4
+http://zby.xjqxz.top/live13/live.m3u8
+#EXTINF:-1 tvg-name="电影5" tvg-logo="" group-title="🎬电影频道",电影5
 http://zby.xjqxz.top/live18/live.m3u8
 #EXTINF:-1 tvg-name="第二十条TH" tvg-logo="" group-title="🎬电影频道",第二十条TH
 https://vip.ffzy-play2.com/20240215/59562_169d8bd2/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="热辣滚烫TH" tvg-logo="" group-title="🎬电影频道",热辣滚烫TH
-https://ikcdn01.ikzybf.com/20240213/qeySwP3F/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-name="熊出没·逆转时空HD" tvg-logo="" group-title="🎬电影频道",熊出没·逆转时空HD
 https://vip.ffzy-online2.com/20230521/37661_330568c0/index.m3u8
 #EXTINF:-1 tvg-name="金手指HD国" tvg-logo="" group-title="🎬电影频道",金手指HD国
@@ -3349,688 +3399,1074 @@ https://vip.ffzy-play6.com/20221112/6127_d615f342/index.m3u8
 https://vip.ffzy-play7.com/20221112/3607_e49d9e93/index.m3u8
 #EXTINF:-1 tvg-name="羞羞鬼" tvg-logo="" group-title="🎬电影频道",羞羞鬼
 https://vip.ffzy-play7.com/20221112/3366_3a1a794c/index.m3u8
-#EXTINF:-1 tvg-name="电视剧频道1" tvg-logo="" group-title="电视剧轮播",电视剧频道1
+#EXTINF:-1 tvg-name="电视剧频道1" tvg-logo= group-title="电视剧轮播",电视剧频道1
 http://zby.xjqxz.top/dsdsj1/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道2" tvg-logo="" group-title="电视剧轮播",电视剧频道2
+#EXTINF:-1 tvg-name="电视剧频道2" tvg-logo= group-title="电视剧轮播",电视剧频道2
 http://zby.xjqxz.top/dsdsj2/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道3" tvg-logo="" group-title="电视剧轮播",电视剧频道3
+#EXTINF:-1 tvg-name="电视剧频道3" tvg-logo= group-title="电视剧轮播",电视剧频道3
 http://zby.xjqxz.top/dsdsj3/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道4" tvg-logo="" group-title="电视剧轮播",电视剧频道4
+#EXTINF:-1 tvg-name="电视剧频道4" tvg-logo= group-title="电视剧轮播",电视剧频道4
 http://zby.xjqxz.top/gzwxj/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道5" tvg-logo="" group-title="电视剧轮播",电视剧频道5
+#EXTINF:-1 tvg-name="电视剧频道5" tvg-logo= group-title="电视剧轮播",电视剧频道5
 http://zby.xjqxz.top/gzgdj/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道6" tvg-logo="" group-title="电视剧轮播",电视剧频道6
+#EXTINF:-1 tvg-name="电视剧频道6" tvg-logo= group-title="电视剧轮播",电视剧频道6
 http://zby.xjqxz.top/gzdsj1/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道7" tvg-logo="" group-title="电视剧轮播",电视剧频道7
+#EXTINF:-1 tvg-name="电视剧频道7" tvg-logo= group-title="电视剧轮播",电视剧频道7
 http://zby.xjqxz.top/gzdsj2/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道8" tvg-logo="" group-title="电视剧轮播",电视剧频道8
+#EXTINF:-1 tvg-name="电视剧频道8" tvg-logo= group-title="电视剧轮播",电视剧频道8
 http://zby.xjqxz.top/gzdsj3/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道9" tvg-logo="" group-title="电视剧轮播",电视剧频道9
+#EXTINF:-1 tvg-name="电视剧频道9" tvg-logo= group-title="电视剧轮播",电视剧频道9
 http://zby.xjqxz.top/gzdsj4/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道10" tvg-logo="" group-title="电视剧轮播",电视剧频道10
+#EXTINF:-1 tvg-name="电视剧频道10" tvg-logo= group-title="电视剧轮播",电视剧频道10
 http://zby.xjqxz.top/gzdsj5/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道11" tvg-logo="" group-title="电视剧轮播",电视剧频道11
+#EXTINF:-1 tvg-name="电视剧频道11" tvg-logo= group-title="电视剧轮播",电视剧频道11
 http://zby.xjqxz.top/kzzypd2/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道12" tvg-logo="" group-title="电视剧轮播",电视剧频道12
+#EXTINF:-1 tvg-name="电视剧频道12" tvg-logo= group-title="电视剧轮播",电视剧频道12
 http://zby.xjqxz.top/kzzypd/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道13" tvg-logo="" group-title="电视剧轮播",电视剧频道13
+#EXTINF:-1 tvg-name="电视剧频道13" tvg-logo= group-title="电视剧轮播",电视剧频道13
 http://zby.xjqxz.top/dzzypd/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道14" tvg-logo="" group-title="电视剧轮播",电视剧频道14
+#EXTINF:-1 tvg-name="电视剧频道14" tvg-logo= group-title="电视剧轮播",电视剧频道14
 http://zby.xjqxz.top/dzzypd2/live.m3u8
-#EXTINF:-1 tvg-name="电视剧频道15" tvg-logo="" group-title="电视剧轮播",电视剧频道15
+#EXTINF:-1 tvg-name="电视剧频道15" tvg-logo= group-title="电视剧轮播",电视剧频道15
 http://zby.xjqxz.top/dzzypd3/live.m3u8
-#EXTINF:-1 tvg-name="琅琊榜电视剧" tvg-logo="" group-title="电视剧轮播",琅琊榜电视剧
-http://zby.xjqxz.top/lyb/live.m3u8
-#EXTINF:-1 tvg-name="三生三世轮播" tvg-logo="" group-title="电视剧轮播",三生三世轮播
-http://zby.xjqxz.top/sssszss/live.m3u8
-#EXTINF:-1 tvg-name="血色浪漫" tvg-logo="" group-title="电视剧轮播",血色浪漫
-http://jiaojirentv.top/2020/yy.php?id=1354926676
-#EXTINF:-1 tvg-name="血色浪漫" tvg-logo="" group-title="电视剧轮播",血色浪漫
-http://rihou.cc:555/dyy.php?id=1354926676
-#EXTINF:-1 tvg-name="血色浪漫" tvg-logo="" group-title="电视剧轮播",血色浪漫
-http://live.nctv.top/6688/yy.php?id=1354926676
-#EXTINF:-1 tvg-name="我和僵尸有个约会" tvg-logo="" group-title="电视剧轮播",我和僵尸有个约会
-http://jiaojirentv.top/2020/yy.php?id=1354143966
-#EXTINF:-1 tvg-name="我和僵尸有个约会" tvg-logo="" group-title="电视剧轮播",我和僵尸有个约会
-http://rihou.cc:555/dyy.php?id=1354143966
-#EXTINF:-1 tvg-name="我和僵尸有个约会" tvg-logo="" group-title="电视剧轮播",我和僵尸有个约会
-http://live.nctv.top/6688/yy.php?id=1354143966
-#EXTINF:-1 tvg-name="双月之城" tvg-logo="" group-title="电视剧轮播",双月之城
-http://jiaojirentv.top/2020/yy.php?id=1382736907
-#EXTINF:-1 tvg-name="双月之城" tvg-logo="" group-title="电视剧轮播",双月之城
-http://rihou.cc:555/dyy.php?id=1382736907
-#EXTINF:-1 tvg-name="双月之城" tvg-logo="" group-title="电视剧轮播",双月之城
-http://live.nctv.top/6688/yy.php?id=1382736907
-#EXTINF:-1 tvg-name="放羊的星星" tvg-logo="" group-title="电视剧轮播",放羊的星星
-http://jiaojirentv.top/2020/yy.php?id=1355260662
-#EXTINF:-1 tvg-name="放羊的星星" tvg-logo="" group-title="电视剧轮播",放羊的星星
-http://rihou.cc:555/dyy.php?id=1355260662
-#EXTINF:-1 tvg-name="放羊的星星" tvg-logo="" group-title="电视剧轮播",放羊的星星
-http://live.nctv.top/6688/yy.php?id=1355260662
-#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="" group-title="电视剧轮播",新白娘子传奇
-http://jiaojirentv.top/2020/yy.php?id=1354490667
-#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="" group-title="电视剧轮播",新白娘子传奇
-http://rihou.cc:555/dyy.php?id=1354490667
-#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="" group-title="电视剧轮播",新白娘子传奇
-http://live.nctv.top/6688/yy.php?id=1354490667
-#EXTINF:-1 tvg-name="天龙八部" tvg-logo="" group-title="电视剧轮播",天龙八部
-http://rihou.cc:555/dhy.php?id=23903123
-#EXTINF:-1 tvg-name="天龙八部" tvg-logo="" group-title="电视剧轮播",天龙八部
-http://cdn.jdshipin.com:8880/huya.php?id=23903123
-#EXTINF:-1 tvg-name="天龙八部" tvg-logo="" group-title="电视剧轮播",天龙八部
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=23903123
-#EXTINF:-1 tvg-name="琅琊榜" tvg-logo="" group-title="电视剧轮播",琅琊榜
-http://zby.xjqxz.top/lyb/live.m3u8
-#EXTINF:-1 tvg-name="伪装者" tvg-logo="" group-title="电视剧轮播",伪装者
-http://jiaojirentv.top/2020/yy.php?id=1354936244
-#EXTINF:-1 tvg-name="伪装者" tvg-logo="" group-title="电视剧轮播",伪装者
-http://rihou.cc:555/dyy.php?id=1354936244
-#EXTINF:-1 tvg-name="伪装者" tvg-logo="" group-title="电视剧轮播",伪装者
-http://live.nctv.top/6688/yy.php?id=1354936244
-#EXTINF:-1 tvg-name="钟馗传说" tvg-logo="" group-title="电视剧轮播",钟馗传说
-http://rihou.cc:555/dyy.php?id=1382736839
-#EXTINF:-1 tvg-name="钟馗传说" tvg-logo="" group-title="电视剧轮播",钟馗传说
-http://live.nctv.top/6688/yy.php?id=1382736839
-#EXTINF:-1 tvg-name="钟馗传说" tvg-logo="" group-title="电视剧轮播",钟馗传说
-http://jiaojirentv.top/2020/yy.php?id=1382736839
-#EXTINF:-1 tvg-name="粉红女郎" tvg-logo="" group-title="电视剧轮播",粉红女郎
-http://rihou.cc:555/dyy.php?id=1354888671
-#EXTINF:-1 tvg-name="粉红女郎" tvg-logo="" group-title="电视剧轮播",粉红女郎
-http://jiaojirentv.top/2020/yy.php?id=1354888671
-#EXTINF:-1 tvg-name="粉红女郎" tvg-logo="" group-title="电视剧轮播",粉红女郎
-http://live.nctv.top/6688/yy.php?id=1354888671
-#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="" group-title="电视剧轮播",隋唐英雄传
-http://jiaojirentv.top/2020/yy.php?id=1352475619
-#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="" group-title="电视剧轮播",隋唐英雄传
-http://rihou.cc:555/dyy.php?id=1352475619
-#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo="" group-title="电视剧轮播",隋唐英雄传
-http://live.nctv.top/6688/yy.php?id=1352475619
-#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo="" group-title="电视剧轮播",仙剑奇侠传
-http://rihou.cc:555/dyy.php?id=1382749903
-#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo="" group-title="电视剧轮播",仙剑奇侠传
-http://live.nctv.top/6688/yy.php?id=1382749903
-#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo="" group-title="电视剧轮播",仙剑奇侠传
-http://jiaojirentv.top/2020/yy.php?id=1382749903
-#EXTINF:-1 tvg-name="雪中悍刀行" tvg-logo="" group-title="电视剧轮播",雪中悍刀行
-http://rihou.cc:555/dhy.php?id=11336592
-#EXTINF:-1 tvg-name="雪中悍刀行" tvg-logo="" group-title="电视剧轮播",雪中悍刀行
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11336592
-#EXTINF:-1 tvg-name="庆余年" tvg-logo="" group-title="电视剧轮播",庆余年
-http://rihou.cc:555/dhy.php?id=11352960
-#EXTINF:-1 tvg-name="庆余年" tvg-logo="" group-title="电视剧轮播",庆余年
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352960
-#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="" group-title="电视剧轮播",新白娘子传奇
-http://rihou.cc:555/dyy.php?id=1354930969
-#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="" group-title="电视剧轮播",新白娘子传奇
-http://jiaojirentv.top/2020/yy.php?id=1354930969
-#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo="" group-title="电视剧轮播",新白娘子传奇
-http://live.nctv.top/6688/yy.php?id=1354930969
-#EXTINF:-1 tvg-name="花千骨" tvg-logo="" group-title="电视剧轮播",花千骨
-http://rihou.cc:555/dyy.php?id=1354943110
-#EXTINF:-1 tvg-name="花千骨" tvg-logo="" group-title="电视剧轮播",花千骨
-http://jiaojirentv.top/2020/yy.php?id=1354943110
-#EXTINF:-1 tvg-name="花千骨" tvg-logo="" group-title="电视剧轮播",花千骨
-http://live.nctv.top/6688/yy.php?id=1354943110
-#EXTINF:-1 tvg-name="鹊刀门传奇" tvg-logo="" group-title="电视剧轮播",鹊刀门传奇
-http://rihou.cc:555/dyy.php?id=1355344777
-#EXTINF:-1 tvg-name="鹊刀门传奇" tvg-logo="" group-title="电视剧轮播",鹊刀门传奇
-http://jiaojirentv.top/2020/yy.php?id=1355344777
-#EXTINF:-1 tvg-name="鹊刀门传奇" tvg-logo="" group-title="电视剧轮播",鹊刀门传奇
-http://live.nctv.top/6688/yy.php?id=1355344777
-#EXTINF:-1 tvg-name="三生三世" tvg-logo="" group-title="电视剧轮播",三生三世
-http://zby.xjqxz.top/sssszss/live.m3u8
-#EXTINF:-1 tvg-name="甄嬛传" tvg-logo="" group-title="电视剧轮播",甄嬛传
-http://zby.xjqxz.top/live8/live.m3u8
-#EXTINF:-1 tvg-name="甄嬛传" tvg-logo="" group-title="电视剧轮播",甄嬛传
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=30145009
-#EXTINF:-1 tvg-name="与凤行" tvg-logo="" group-title="电视剧轮播",与凤行
-http://cdn.jdshipin.com:8880/huya.php?id=26355866
-#EXTINF:-1 tvg-name="与凤行" tvg-logo="" group-title="电视剧轮播",与凤行
-http://rihou.cc:555/dhy.php?id=26355866
-#EXTINF:-1 tvg-name="与凤行" tvg-logo="" group-title="电视剧轮播",与凤行
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=26355866
-#EXTINF:-1 tvg-name="电视剧_开端" tvg-logo="" group-title="电视剧轮播",电视剧_开端
-http://rihou.cc:555/dhy.php?id=11342397
-#EXTINF:-1 tvg-name="电视剧_开端" tvg-logo="" group-title="电视剧轮播",电视剧_开端
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342397
-#EXTINF:-1 tvg-name="我的体育老师" tvg-logo="" group-title="电视剧轮播",我的体育老师
-http://rihou.cc:555/dyy.php?id=1382745169
-#EXTINF:-1 tvg-name="我的体育老师" tvg-logo="" group-title="电视剧轮播",我的体育老师
-http://jiaojirentv.top/2020/yy.php?id=1382745169
-#EXTINF:-1 tvg-name="我的体育老师" tvg-logo="" group-title="电视剧轮播",我的体育老师
-http://live.nctv.top/6688/yy.php?id=1382745169
-#EXTINF:-1 tvg-name="如果岁月" tvg-logo="" group-title="电视剧轮播",如果岁月
-http://rihou.cc:555/dyy.php?id=1382736883
-#EXTINF:-1 tvg-name="如果岁月" tvg-logo="" group-title="电视剧轮播",如果岁月
-http://jiaojirentv.top/2020/yy.php?id=1382736883
-#EXTINF:-1 tvg-name="如果岁月" tvg-logo="" group-title="电视剧轮播",如果岁月
-http://live.nctv.top/6688/yy.php?id=1382736883
-#EXTINF:-1 tvg-name="流金岁月" tvg-logo="" group-title="电视剧轮播",流金岁月
-http://rihou.cc:555/dyy.php?id=1382749906
-#EXTINF:-1 tvg-name="流金岁月" tvg-logo="" group-title="电视剧轮播",流金岁月
-http://jiaojirentv.top/2020/yy.php?id=1382749906
-#EXTINF:-1 tvg-name="流金岁月" tvg-logo="" group-title="电视剧轮播",流金岁月
-http://live.nctv.top/6688/yy.php?id=1382749906
-#EXTINF:-1 tvg-name="向风而行" tvg-logo="" group-title="电视剧轮播",向风而行
-http://zby.xjqxz.top/xfex/live.m3u8
-#EXTINF:-1 tvg-name="欢乐颂" tvg-logo="" group-title="电视剧轮播",欢乐颂
-http://120.77.28.4:8648/douyu.php?id=3756989
-#EXTINF:-1 tvg-name="欢乐颂" tvg-logo="" group-title="电视剧轮播",欢乐颂
-http://jiaojirentv.top/2020/dy.php?id=3756989
-#EXTINF:-1 tvg-name="欢乐颂" tvg-logo="" group-title="电视剧轮播",欢乐颂
-http://zzy789.xyz/douyu1.php?id=3756989
-#EXTINF:-1 tvg-name="好先生" tvg-logo="" group-title="电视剧轮播",好先生
-http://120.77.28.4:8648/douyu.php?id=9650792
-#EXTINF:-1 tvg-name="好先生" tvg-logo="" group-title="电视剧轮播",好先生
-http://jiaojirentv.top/2020/dy.php?id=9650792
-#EXTINF:-1 tvg-name="好先生" tvg-logo="" group-title="电视剧轮播",好先生
-http://zzy789.xyz/douyu1.php?id=9650792
-#EXTINF:-1 tvg-name="我的前半生" tvg-logo="" group-title="电视剧轮播",我的前半生
-http://rihou.cc:555/dyy.php?id=1382735564
-#EXTINF:-1 tvg-name="我的前半生" tvg-logo="" group-title="电视剧轮播",我的前半生
-http://jiaojirentv.top/2020/yy.php?id=1382735564
-#EXTINF:-1 tvg-name="我的前半生" tvg-logo="" group-title="电视剧轮播",我的前半生
-http://live.nctv.top/6688/yy.php?id=1382735564
-#EXTINF:-1 tvg-name="警察荣誉" tvg-logo="" group-title="电视剧轮播",警察荣誉
-http://zby.xjqxz.top/live16/live.m3u8
-#EXTINF:-1 tvg-name="火蓝刀锋" tvg-logo="" group-title="电视剧轮播",火蓝刀锋
-http://rihou.cc:555/dyy.php?id=1382737892
-#EXTINF:-1 tvg-name="火蓝刀锋" tvg-logo="" group-title="电视剧轮播",火蓝刀锋
-http://jiaojirentv.top/2020/yy.php?id=1382737892
-#EXTINF:-1 tvg-name="火蓝刀锋" tvg-logo="" group-title="电视剧轮播",火蓝刀锋
-http://live.nctv.top/6688/yy.php?id=1382737892
-#EXTINF:-1 tvg-name="二炮手" tvg-logo="" group-title="电视剧轮播",二炮手
-http://rihou.cc:555/dyy.php?id=1354930964
-#EXTINF:-1 tvg-name="二炮手" tvg-logo="" group-title="电视剧轮播",二炮手
-http://jiaojirentv.top/2020/yy.php?id=1354930964
-#EXTINF:-1 tvg-name="二炮手" tvg-logo="" group-title="电视剧轮播",二炮手
-http://live.nctv.top/6688/yy.php?id=1354930964
-#EXTINF:-1 tvg-name="炮神" tvg-logo="" group-title="电视剧轮播",炮神
-http://rihou.cc:555/dyy.php?id=22089862
-#EXTINF:-1 tvg-name="炮神" tvg-logo="" group-title="电视剧轮播",炮神
-http://jiaojirentv.top/2020/yy.php?id=22089862
-#EXTINF:-1 tvg-name="炮神" tvg-logo="" group-title="电视剧轮播",炮神
-http://live.nctv.top/6688/yy.php?id=22089862
-#EXTINF:-1 tvg-name="风筝" tvg-logo="" group-title="电视剧轮播",风筝
-http://rihou.cc:555/dyy.php?id=1354931585
-#EXTINF:-1 tvg-name="风筝" tvg-logo="" group-title="电视剧轮播",风筝
-http://jiaojirentv.top/2020/yy.php?id=1354931585
-#EXTINF:-1 tvg-name="风筝" tvg-logo="" group-title="电视剧轮播",风筝
-http://live.nctv.top/6688/yy.php?id=1354931585
-#EXTINF:-1 tvg-name="武林外传" tvg-logo="" group-title="电视剧轮播",武林外传
-http://rihou.cc:555/dyy.php?id=1355652820
-#EXTINF:-1 tvg-name="武林外传" tvg-logo="" group-title="电视剧轮播",武林外传
-http://jiaojirentv.top/2020/yy.php?id=1355652820
-#EXTINF:-1 tvg-name="武林外传" tvg-logo="" group-title="电视剧轮播",武林外传
-http://live.nctv.top/6688/yy.php?id=1355652820
-#EXTINF:-1 tvg-name="飞虎之潜行极战" tvg-logo="" group-title="电视剧轮播",飞虎之潜行极战
-http://rihou.cc:555/dyy.php?id=1354932420
-#EXTINF:-1 tvg-name="飞虎之潜行极战" tvg-logo="" group-title="电视剧轮播",飞虎之潜行极战
-http://live.nctv.top/6688/yy.php?id=1354932420
-#EXTINF:-1 tvg-name="飞虎之潜行极战" tvg-logo="" group-title="电视剧轮播",飞虎之潜行极战
-http://jiaojirentv.top/2020/yy.php?id=1354932420
-#EXTINF:-1 tvg-name="天道" tvg-logo="" group-title="电视剧轮播",天道
-http://rihou.cc:555/dyy.php?id=1382735574
-#EXTINF:-1 tvg-name="天道" tvg-logo="" group-title="电视剧轮播",天道
-http://live.nctv.top/6688/yy.php?id=1382735574
-#EXTINF:-1 tvg-name="天道" tvg-logo="" group-title="电视剧轮播",天道
-http://jiaojirentv.top/2020/yy.php?id=1382735574
-#EXTINF:-1 tvg-name="大汉天子" tvg-logo="" group-title="电视剧轮播",大汉天子
-http://rihou.cc:555/dyy.php?id=1382749902
-#EXTINF:-1 tvg-name="大汉天子" tvg-logo="" group-title="电视剧轮播",大汉天子
-http://live.nctv.top/6688/yy.php?id=1382749902
-#EXTINF:-1 tvg-name="大汉天子" tvg-logo="" group-title="电视剧轮播",大汉天子
-http://jiaojirentv.top/2020/yy.php?id=1382749902
-#EXTINF:-1 tvg-name="封神榜" tvg-logo="" group-title="电视剧轮播",封神榜
-http://rihou.cc:555/dyy.php?id=1353426319
-#EXTINF:-1 tvg-name="封神榜" tvg-logo="" group-title="电视剧轮播",封神榜
-http://live.nctv.top/6688/yy.php?id=1353426319
-#EXTINF:-1 tvg-name="封神榜" tvg-logo="" group-title="电视剧轮播",封神榜
-http://jiaojirentv.top/2020/yy.php?id=1353426319
-#EXTINF:-1 tvg-name="使徒行者" tvg-logo="" group-title="电视剧轮播",使徒行者
-http://rihou.cc:555/dhy.php?id=23734256
-#EXTINF:-1 tvg-name="使徒行者" tvg-logo="" group-title="电视剧轮播",使徒行者
-http://cdn.jdshipin.com:8880/huya.php?id=23734256
-#EXTINF:-1 tvg-name="使徒行者" tvg-logo="" group-title="电视剧轮播",使徒行者
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=23734256
-#EXTINF:-1 tvg-name="延禧攻略" tvg-logo="" group-title="电视剧轮播",延禧攻略
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=26355864
-#EXTINF:-1 tvg-name="民兵葛二蛋" tvg-logo="" group-title="电视剧轮播",民兵葛二蛋
-http://rihou.cc:555/dhy.php?id=11602072
-#EXTINF:-1 tvg-name="民兵葛二蛋" tvg-logo="" group-title="电视剧轮播",民兵葛二蛋
-http://cdn.jdshipin.com:8880/huya.php?id=11602072
-#EXTINF:-1 tvg-name="民兵葛二蛋" tvg-logo="" group-title="电视剧轮播",民兵葛二蛋
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11602072
-#EXTINF:-1 tvg-name="铁道游击队" tvg-logo="" group-title="电视剧轮播",铁道游击队
-http://rihou.cc:555/dhy.php?id=11352936
-#EXTINF:-1 tvg-name="铁道游击队" tvg-logo="" group-title="电视剧轮播",铁道游击队
-http://cdn.jdshipin.com:8880/huya.php?id=11352936
-#EXTINF:-1 tvg-name="铁道游击队" tvg-logo="" group-title="电视剧轮播",铁道游击队
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352936
-#EXTINF:-1 tvg-name="勇敢的心" tvg-logo="" group-title="电视剧轮播",勇敢的心
-http://rihou.cc:555/dhy.php?id=11602037
-#EXTINF:-1 tvg-name="勇敢的心" tvg-logo="" group-title="电视剧轮播",勇敢的心
-http://cdn.jdshipin.com:8880/huya.php?id=11602037
-#EXTINF:-1 tvg-name="勇敢的心" tvg-logo="" group-title="电视剧轮播",勇敢的心
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11602037
-#EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="" group-title="电视剧轮播",康熙微服私访记
-http://rihou.cc:555/dhy.php?id=11342418
-#EXTINF:-1 tvg-name="康熙微服私访记" tvg-logo="" group-title="电视剧轮播",康熙微服私访记
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342418
-#EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo="" group-title="电视剧轮播",楚汉骄雄
-http://cdn.jdshipin.com:8880/huya.php?id=23740156
-#EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo="" group-title="电视剧轮播",楚汉骄雄
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=23740156
-#EXTINF:-1 tvg-name="御赐小仵作" tvg-logo="" group-title="电视剧轮播",御赐小仵作
-http://rihou.cc:555/dhy.php?id=11352948
-#EXTINF:-1 tvg-name="御赐小仵作" tvg-logo="" group-title="电视剧轮播",御赐小仵作
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352948
-#EXTINF:-1 tvg-name="笑看风云" tvg-logo="" group-title="电视剧轮播",笑看风云
-http://rihou.cc:555/dhy.php?id=23865058
-#EXTINF:-1 tvg-name="笑看风云" tvg-logo="" group-title="电视剧轮播",笑看风云
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=23865058
-#EXTINF:-1 tvg-name="康熙王朝" tvg-logo="" group-title="电视剧轮播",康熙王朝
-http://rihou.cc:555/dhy.php?id=11352940
-#EXTINF:-1 tvg-name="康熙王朝" tvg-logo="" group-title="电视剧轮播",康熙王朝
-http://cdn.jdshipin.com:8880/huya.php?id=11352940
-#EXTINF:-1 tvg-name="康熙王朝" tvg-logo="" group-title="电视剧轮播",康熙王朝
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352940
-#EXTINF:-1 tvg-name="雍正王朝" tvg-logo="" group-title="电视剧轮播",雍正王朝
-http://rihou.cc:555/dhy.php?id=11342439
-#EXTINF:-1 tvg-name="雍正王朝" tvg-logo="" group-title="电视剧轮播",雍正王朝
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342439
-#EXTINF:-1 tvg-name="陆小凤" tvg-logo="" group-title="电视剧轮播",陆小凤
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=29808803
-#EXTINF:-1 tvg-name="武林外传" tvg-logo="" group-title="电视剧轮播",武林外传
-http://rihou.cc:555/dhy.php?id=21059598
-#EXTINF:-1 tvg-name="武林外传" tvg-logo="" group-title="电视剧轮播",武林外传
-http://cdn.jdshipin.com:8880/huya.php?id=21059598
-#EXTINF:-1 tvg-name="武林外传" tvg-logo="" group-title="电视剧轮播",武林外传
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=21059598
-#EXTINF:-1 tvg-name="芈月传" tvg-logo="" group-title="电视剧轮播",芈月传
-http://rihou.cc:555/dhy.php?id=11352975
-#EXTINF:-1 tvg-name="芈月传" tvg-logo="" group-title="电视剧轮播",芈月传
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352975
-#EXTINF:-1 tvg-name="一代枭雄" tvg-logo="" group-title="电视剧轮播",一代枭雄
-http://rihou.cc:555/dhy.php?id=11342398
-#EXTINF:-1 tvg-name="一代枭雄" tvg-logo="" group-title="电视剧轮播",一代枭雄
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342398
-#EXTINF:-1 tvg-name="如懿传" tvg-logo="" group-title="电视剧轮播",如懿传
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=29465880
-#EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="" group-title="电视剧轮播",陀枪师姐
-http://rihou.cc:555/dhy.php?id=23860039
-#EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="" group-title="电视剧轮播",陀枪师姐
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=23860039
-#EXTINF:-1 tvg-name="问心" tvg-logo="" group-title="电视剧轮播",问心
-http://rihou.cc:555/dhy.php?id=11352890
-#EXTINF:-1 tvg-name="问心" tvg-logo="" group-title="电视剧轮播",问心
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352890
-#EXTINF:-1 tvg-name="风云雄霸天下" tvg-logo="" group-title="电视剧轮播",风云雄霸天下
-http://rihou.cc:555/dhy.php?id=21059612
-#EXTINF:-1 tvg-name="风云雄霸天下" tvg-logo="" group-title="电视剧轮播",风云雄霸天下
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=21059612
-#EXTINF:-1 tvg-name="全职高手" tvg-logo="" group-title="电视剧轮播",全职高手
-http://rihou.cc:555/dhy.php?id=11352901
-#EXTINF:-1 tvg-name="全职高手" tvg-logo="" group-title="电视剧轮播",全职高手
-http://cdn.jdshipin.com:8880/huya.php?id=11352901
-#EXTINF:-1 tvg-name="全职高手" tvg-logo="" group-title="电视剧轮播",全职高手
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352901
-#EXTINF:-1 tvg-name="炊事班的故事3" tvg-logo="" group-title="电视剧轮播",炊事班的故事3
-http://rihou.cc:555/dhy.php?id=19524135
-#EXTINF:-1 tvg-name="炊事班的故事3" tvg-logo="" group-title="电视剧轮播",炊事班的故事3
-http://cdn.jdshipin.com:8880/huya.php?id=19524135
-#EXTINF:-1 tvg-name="炊事班的故事3" tvg-logo="" group-title="电视剧轮播",炊事班的故事3
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=19524135
-#EXTINF:-1 tvg-name="地下交通站" tvg-logo="" group-title="电视剧轮播",地下交通站
-http://rihou.cc:555/dhy.php?id=11342433
-#EXTINF:-1 tvg-name="地下交通站" tvg-logo="" group-title="电视剧轮播",地下交通站
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342433
-#EXTINF:-1 tvg-name="医馆笑传" tvg-logo="" group-title="电视剧轮播",医馆笑传
-http://rihou.cc:555/dhy.php?id=11352891
-#EXTINF:-1 tvg-name="医馆笑传" tvg-logo="" group-title="电视剧轮播",医馆笑传
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352891
-#EXTINF:-1 tvg-name="杨光的快乐生活" tvg-logo="" group-title="电视剧轮播",杨光的快乐生活
-http://rihou.cc:555/dhy.php?id=11602085
-#EXTINF:-1 tvg-name="杨光的快乐生活" tvg-logo="" group-title="电视剧轮播",杨光的快乐生活
-http://cdn.jdshipin.com:8880/huya.php?id=11602085
-#EXTINF:-1 tvg-name="杨光的快乐生活" tvg-logo="" group-title="电视剧轮播",杨光的快乐生活
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11602085
-#EXTINF:-1 tvg-name="陈情令" tvg-logo="" group-title="电视剧轮播",陈情令
-http://rihou.cc:555/dhy.php?id=29465862
-#EXTINF:-1 tvg-name="陈情令" tvg-logo="" group-title="电视剧轮播",陈情令
-http://cdn.jdshipin.com:8880/huya.php?id=29465862
-#EXTINF:-1 tvg-name="陈情令" tvg-logo="" group-title="电视剧轮播",陈情令
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=29465862
-#EXTINF:-1 tvg-name="神医喜来乐" tvg-logo="" group-title="电视剧轮播",神医喜来乐
-http://rihou.cc:555/dhy.php?id=11601978
-#EXTINF:-1 tvg-name="神医喜来乐" tvg-logo="" group-title="电视剧轮播",神医喜来乐
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11601978
-#EXTINF:-1 tvg-name="邻里一家亲" tvg-logo="" group-title="电视剧轮播",邻里一家亲
-http://rihou.cc:555/dhy.php?id=11342426
-#EXTINF:-1 tvg-name="邻里一家亲" tvg-logo="" group-title="电视剧轮播",邻里一家亲
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342426
-#EXTINF:-1 tvg-name="大宋提刑官" tvg-logo="" group-title="电视剧轮播",大宋提刑官
-http://rihou.cc:555/dhy.php?id=26355856
-#EXTINF:-1 tvg-name="大宋提刑官" tvg-logo="" group-title="电视剧轮播",大宋提刑官
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=26355856
-#EXTINF:-1 tvg-name="鹊刀门传奇" tvg-logo="" group-title="电视剧轮播",鹊刀门传奇
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=29805872
-#EXTINF:-1 tvg-name="白鹿原" tvg-logo="" group-title="电视剧轮播",白鹿原
-http://rihou.cc:555/dhy.php?id=11342416
-#EXTINF:-1 tvg-name="白鹿原" tvg-logo="" group-title="电视剧轮播",白鹿原
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342416
-#EXTINF:-1 tvg-name="长相思" tvg-logo="" group-title="电视剧轮播",长相思
-http://rihou.cc:555/dhy.php?id=11336593
-#EXTINF:-1 tvg-name="长相思" tvg-logo="" group-title="电视剧轮播",长相思
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11336593
-#EXTINF:-1 tvg-name="你是我的荣耀" tvg-logo="" group-title="电视剧轮播",你是我的荣耀
-http://rihou.cc:555/dhy.php?id=11352920
-#EXTINF:-1 tvg-name="你是我的荣耀" tvg-logo="" group-title="电视剧轮播",你是我的荣耀
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352920
-#EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="" group-title="电视剧轮播",铁齿铜牙纪晓岚
-http://rihou.cc:555/dhy.php?id=11342396
-#EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="" group-title="电视剧轮播",铁齿铜牙纪晓岚
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342396
-#EXTINF:-1 tvg-name="士兵突击" tvg-logo="" group-title="电视剧轮播",士兵突击
-http://rihou.cc:555/dhy.php?id=11342430
-#EXTINF:-1 tvg-name="士兵突击" tvg-logo="" group-title="电视剧轮播",士兵突击
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11342430
-#EXTINF:-1 tvg-name="我的团长我的团" tvg-logo="" group-title="电视剧轮播",我的团长我的团
-http://rihou.cc:555/dhy.php?id=11352910
-#EXTINF:-1 tvg-name="我的团长我的团" tvg-logo="" group-title="电视剧轮播",我的团长我的团
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352910
-#EXTINF:-1 tvg-name="寻秦记" tvg-logo="" group-title="电视剧轮播",寻秦记
-http://rihou.cc:555/dhy.php?id=23864973
-#EXTINF:-1 tvg-name="寻秦记" tvg-logo="" group-title="电视剧轮播",寻秦记
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=23864973
-#EXTINF:-1 tvg-name="星汉灿烂·月生沧海" tvg-logo="" group-title="电视剧轮播",星汉灿烂·月生沧海
-http://rihou.cc:555/dhy.php?id=11336591
-#EXTINF:-1 tvg-name="星汉灿烂·月生沧海" tvg-logo="" group-title="电视剧轮播",星汉灿烂·月生沧海
-http://cdn.jdshipin.com:8880/huya.php?id=11336591
-#EXTINF:-1 tvg-name="星汉灿烂·月生沧海" tvg-logo="" group-title="电视剧轮播",星汉灿烂·月生沧海
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11336591
-#EXTINF:-1 tvg-name="将夜" tvg-logo="" group-title="电视剧轮播",将夜
-http://rihou.cc:555/dhy.php?id=11352885
-#EXTINF:-1 tvg-name="将夜" tvg-logo="" group-title="电视剧轮播",将夜
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352885
-#EXTINF:-1 tvg-name="铁梨花" tvg-logo="" group-title="电视剧轮播",铁梨花
-http://rihou.cc:555/dhy.php?id=11352912
-#EXTINF:-1 tvg-name="铁梨花" tvg-logo="" group-title="电视剧轮播",铁梨花
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11352912
-#EXTINF:-1 tvg-name="父母爱情" tvg-logo="" group-title="电视剧轮播",父母爱情
-http://rihou.cc:555/dhy.php?id=11602071
-#EXTINF:-1 tvg-name="父母爱情" tvg-logo="" group-title="电视剧轮播",父母爱情
-http://cdn.jdshipin.com:8880/huya.php?id=11602071
-#EXTINF:-1 tvg-name="父母爱情" tvg-logo="" group-title="电视剧轮播",父母爱情
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11602071
-#EXTINF:-1 tvg-name="大染坊" tvg-logo="" group-title="电视剧轮播",大染坊
-http://rihou.cc:555/dhy.php?id=11602086
-#EXTINF:-1 tvg-name="大染坊" tvg-logo="" group-title="电视剧轮播",大染坊
-http://d1.x-y-z.sbs/小凯影视交流/hy.php?id=11602086
-#EXTINF:-1 tvg-name="长安十二时辰" tvg-logo="" group-title="电视剧轮播",长安十二时辰
-http://zby.xjqxz.top/casrsc/live.m3u8
+#EXTINF:-1 tvg-name="庆余年1" tvg-logo="" group-title="电视剧轮播",庆余年1
+http://zby.xjqxz.top/live14/live.m3u8
+#EXTINF:-1 tvg-name="雪地悍刀行" tvg-logo="" group-title="电视剧轮播",雪地悍刀行
+http://zby.xjqxz.top/live15/live.m3u8
 #EXTINF:-1 tvg-name="狂飙" tvg-logo="" group-title="电视剧轮播",狂飙
 http://zby.xjqxz.top/live9/live.m3u8
-#EXTINF:-1 tvg-name="知否知否" tvg-logo="" group-title="电视剧轮播",知否知否
+#EXTINF:-1 tvg-name="甄嬛传" tvg-logo="" group-title="电视剧轮播",甄嬛传
+http://zby.xjqxz.top/live8/live.m3u8
+#EXTINF:-1 tvg-name="我的前半生" tvg-logo= group-title="电视剧轮播",我的前半生
+http://jiaojirentv.top/2020/yy.php?id=1382735564
+#EXTINF:-1 tvg-name="我的体育老师" tvg-logo= group-title="电视剧轮播",我的体育老师
+http://jiaojirentv.top/2020/yy.php?id=1382745169
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo= group-title="电视剧轮播",笑傲江湖
+http://jiaojirentv.top/2020/yy.php?id=1354282410
+#EXTINF:-1 tvg-name="少年歌行" tvg-logo= group-title="电视剧轮播",少年歌行
+http://jiaojirentv.top/2020/yy.php?id=1354806550
+#EXTINF:-1 tvg-name="伪装者" tvg-logo= group-title="电视剧轮播",伪装者
+http://jiaojirentv.top/2020/yy.php?id=1354936244
+#EXTINF:-1 tvg-name="二炮手" tvg-logo= group-title="电视剧轮播",二炮手
+http://jiaojirentv.top/2020/yy.php?id=1354930964
+#EXTINF:-1 tvg-name="风筝" tvg-logo= group-title="电视剧轮播",风筝
+http://jiaojirentv.top/2020/yy.php?id=1354931585
+#EXTINF:-1 tvg-name="勇敢的心" tvg-logo= group-title="电视剧轮播",勇敢的心
+http://jiaojirentv.top/2020/yy.php?id=1354744544
+#EXTINF:-1 tvg-name="封神榜" tvg-logo= group-title="电视剧轮播",封神榜
+http://jiaojirentv.top/2020/yy.php?id=1353426319
+#EXTINF:-1 tvg-name="济公游记" tvg-logo= group-title="电视剧轮播",济公游记
+http://jiaojirentv.top/2020/yy.php?id=1355265814
+#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo= group-title="电视剧轮播",宰相刘罗锅
+http://jiaojirentv.top/2020/yy.php?id=1382745191
+#EXTINF:-1 tvg-name="武林外传" tvg-logo= group-title="电视剧轮播",武林外传
+http://jiaojirentv.top/2020/yy.php?id=1355652820
+#EXTINF:-1 tvg-name="包青天（金超群版）" tvg-logo= group-title="电视剧轮播",包青天（金超群版）
+http://jiaojirentv.top/2020/yy.php?id=1356158015
+#EXTINF:-1 tvg-name="少年包青天" tvg-logo= group-title="电视剧轮播",少年包青天
+http://jiaojirentv.top/2020/yy.php?id=38498680
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo= group-title="电视剧轮播",新白娘子传奇
+http://jiaojirentv.top/2020/yy.php?id=1354930969
+#EXTINF:-1 tvg-name="红楼梦" tvg-logo= group-title="电视剧轮播",红楼梦
+http://jiaojirentv.top/2020/yy.php?id=1382745084
+#EXTINF:-1 tvg-name="我爱我家" tvg-logo= group-title="电视剧轮播",我爱我家
+http://jiaojirentv.top/2020/yy.php?id=1382735557
+#EXTINF:-1 tvg-name="神医喜来乐" tvg-logo= group-title="电视剧轮播",神医喜来乐
+http://jiaojirentv.top/2020/yy.php?id=1382714119
+#EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo= group-title="电视剧轮播",铁齿铜牙纪晓岚
+http://jiaojirentv.top/2020/yy.php?id=1354143978
+#EXTINF:-1 tvg-name="射雕英雄传83版" tvg-logo= group-title="电视剧轮播",射雕英雄传83版
+http://jiaojirentv.top/2020/yy.php?id=1354210357
+#EXTINF:-1 tvg-name="天龙八部" tvg-logo= group-title="电视剧轮播",天龙八部
+http://jiaojirentv.top/2020/yy.php?id=1382736855
+#EXTINF:-1 tvg-name="情满四合院" tvg-logo= group-title="电视剧轮播",情满四合院
+http://jiaojirentv.top/2020/yy.php?id=1382735541
+#EXTINF:-1 tvg-name="火蓝刀锋" tvg-logo= group-title="电视剧轮播",火蓝刀锋
+http://jiaojirentv.top/2020/yy.php?id=1382737892
+#EXTINF:-1 tvg-name="短剧轮播" tvg-logo= group-title="电视剧轮播",短剧轮播
+http://jiaojirentv.top/2020/yy.php?id=1382881708
+#EXTINF:-1 tvg-name="鹊刀门" tvg-logo= group-title="电视剧轮播",鹊刀门
+http://jiaojirentv.top/2020/yy.php?id=1355344777
+#EXTINF:-1 tvg-name="狂飙高清" tvg-logo= group-title="电视剧轮播",狂飙高清
+http://jiaojirentv.top/2020/yy.php?id=1355142167
+#EXTINF:-1 tvg-name="赵本山小品" tvg-logo= group-title="电视剧轮播",赵本山小品
+http://jiaojirentv.top/2020/yy.php?id=1354936217
+#EXTINF:-1 tvg-name="火凤凰" tvg-logo= group-title="电视剧轮播",火凤凰
+http://jiaojirentv.top/2020/yy.php?id=1463088777
+#EXTINF:-1 tvg-name="战狼2" tvg-logo= group-title="电视剧轮播",战狼2
+http://jiaojirentv.top/2020/yy.php?id=1354784284
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo= group-title="电视剧轮播",鹿鼎记
+http://jiaojirentv.top/2020/yy.php?id=28265277
+#EXTINF:-1 tvg-name="老三国" tvg-logo= group-title="电视剧轮播",老三国
+http://jiaojirentv.top/2020/yy.php?id=1354930932
+#EXTINF:-1 tvg-name="老三国" tvg-logo= group-title="电视剧轮播",老三国
+http://jiaojirentv.top/2020/yy.php?id=1354936241
+#EXTINF:-1 tvg-name="射雕侠侣" tvg-logo= group-title="电视剧轮播",射雕侠侣
+http://jiaojirentv.top/2020/yy.php?id=1382704651
+#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo= group-title="电视剧轮播",隋唐英雄传
+http://jiaojirentv.top/2020/yy.php?id=1352475619
+#EXTINF:-1 tvg-name="西游记后传" tvg-logo= group-title="电视剧轮播",西游记后传
+http://jiaojirentv.top/2020/yy.php?id=1382736846
+#EXTINF:-1 tvg-name="西游记张卫健" tvg-logo= group-title="电视剧轮播",西游记张卫健
+http://jiaojirentv.top/2020/yy.php?id=1354936155
+#EXTINF:-1 tvg-name="剧集_新三国" tvg-logo= group-title="电视剧轮播",剧集_新三国
+http://jiaojirentv.top/2020/yy.php?id=23512910
+#EXTINF:-1 tvg-name="琅琊榜电视剧" tvg-logo= group-title="电视剧轮播",琅琊榜电视剧
+http://zby.xjqxz.top/lyb/live.m3u8
+#EXTINF:-1 tvg-name="三生三世轮播" tvg-logo= group-title="电视剧轮播",三生三世轮播
+http://zby.xjqxz.top/sssszss/live.m3u8
+#EXTINF:-1 tvg-name="血色浪漫" tvg-logo= group-title="电视剧轮播",血色浪漫
+http://jiaojirentv.top/2020/yy.php?id=1354926676
+#EXTINF:-1 tvg-name="血色浪漫" tvg-logo= group-title="电视剧轮播",血色浪漫
+http://live.nctv.top/6688/yy.php?id=1354926676
+#EXTINF:-1 tvg-name="我和僵尸有个约会" tvg-logo= group-title="电视剧轮播",我和僵尸有个约会
+http://jiaojirentv.top/2020/yy.php?id=1354143966
+#EXTINF:-1 tvg-name="我和僵尸有个约会" tvg-logo= group-title="电视剧轮播",我和僵尸有个约会
+http://live.nctv.top/6688/yy.php?id=1354143966
+#EXTINF:-1 tvg-name="双月之城" tvg-logo= group-title="电视剧轮播",双月之城
+http://jiaojirentv.top/2020/yy.php?id=1382736907
+#EXTINF:-1 tvg-name="双月之城" tvg-logo= group-title="电视剧轮播",双月之城
+http://live.nctv.top/6688/yy.php?id=1382736907
+#EXTINF:-1 tvg-name="放羊的星星" tvg-logo= group-title="电视剧轮播",放羊的星星
+http://jiaojirentv.top/2020/yy.php?id=1355260662
+#EXTINF:-1 tvg-name="放羊的星星" tvg-logo= group-title="电视剧轮播",放羊的星星
+http://live.nctv.top/6688/yy.php?id=1355260662
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo= group-title="电视剧轮播",新白娘子传奇
+http://jiaojirentv.top/2020/yy.php?id=1354490667
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo= group-title="电视剧轮播",新白娘子传奇
+http://live.nctv.top/6688/yy.php?id=1354490667
+#EXTINF:-1 tvg-name="天龙八部" tvg-logo= group-title="电视剧轮播",天龙八部
+http://cdn.jdshipin.com:8880/huya.php?id=23903123
+#EXTINF:-1 tvg-name="伪装者" tvg-logo= group-title="电视剧轮播",伪装者
+http://jiaojirentv.top/2020/yy.php?id=1354936244
+#EXTINF:-1 tvg-name="伪装者" tvg-logo= group-title="电视剧轮播",伪装者
+http://live.nctv.top/6688/yy.php?id=1354936244
+#EXTINF:-1 tvg-name="钟馗传说" tvg-logo= group-title="电视剧轮播",钟馗传说
+http://live.nctv.top/6688/yy.php?id=1382736839
+#EXTINF:-1 tvg-name="钟馗传说" tvg-logo= group-title="电视剧轮播",钟馗传说
+http://jiaojirentv.top/2020/yy.php?id=1382736839
+#EXTINF:-1 tvg-name="粉红女郎" tvg-logo= group-title="电视剧轮播",粉红女郎
+http://jiaojirentv.top/2020/yy.php?id=1354888671
+#EXTINF:-1 tvg-name="粉红女郎" tvg-logo= group-title="电视剧轮播",粉红女郎
+http://live.nctv.top/6688/yy.php?id=1354888671
+#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo= group-title="电视剧轮播",隋唐英雄传
+http://jiaojirentv.top/2020/yy.php?id=1352475619
+#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo= group-title="电视剧轮播",隋唐英雄传
+http://live.nctv.top/6688/yy.php?id=1352475619
+#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo= group-title="电视剧轮播",仙剑奇侠传
+http://live.nctv.top/6688/yy.php?id=1382749903
+#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo= group-title="电视剧轮播",仙剑奇侠传
+http://jiaojirentv.top/2020/yy.php?id=1382749903
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo= group-title="电视剧轮播",新白娘子传奇
+http://jiaojirentv.top/2020/yy.php?id=1354930969
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo= group-title="电视剧轮播",新白娘子传奇
+http://live.nctv.top/6688/yy.php?id=1354930969
+#EXTINF:-1 tvg-name="花千骨" tvg-logo= group-title="电视剧轮播",花千骨
+http://jiaojirentv.top/2020/yy.php?id=1354943110
+#EXTINF:-1 tvg-name="花千骨" tvg-logo= group-title="电视剧轮播",花千骨
+http://live.nctv.top/6688/yy.php?id=1354943110
+#EXTINF:-1 tvg-name="鹊刀门传奇" tvg-logo= group-title="电视剧轮播",鹊刀门传奇
+http://jiaojirentv.top/2020/yy.php?id=1355344777
+#EXTINF:-1 tvg-name="鹊刀门传奇" tvg-logo= group-title="电视剧轮播",鹊刀门传奇
+http://live.nctv.top/6688/yy.php?id=1355344777
+#EXTINF:-1 tvg-name="甄嬛传" tvg-logo= group-title="电视剧轮播",甄嬛传
+http://zby.xjqxz.top/live8/live.m3u8
+#EXTINF:-1 tvg-name="与凤行" tvg-logo= group-title="电视剧轮播",与凤行
+http://cdn.jdshipin.com:8880/huya.php?id=26355866
+#EXTINF:-1 tvg-name="我的体育老师" tvg-logo= group-title="电视剧轮播",我的体育老师
+http://jiaojirentv.top/2020/yy.php?id=1382745169
+#EXTINF:-1 tvg-name="我的体育老师" tvg-logo= group-title="电视剧轮播",我的体育老师
+http://live.nctv.top/6688/yy.php?id=1382745169
+#EXTINF:-1 tvg-name="如果岁月" tvg-logo= group-title="电视剧轮播",如果岁月
+http://jiaojirentv.top/2020/yy.php?id=1382736883
+#EXTINF:-1 tvg-name="如果岁月" tvg-logo= group-title="电视剧轮播",如果岁月
+http://live.nctv.top/6688/yy.php?id=1382736883
+#EXTINF:-1 tvg-name="流金岁月" tvg-logo= group-title="电视剧轮播",流金岁月
+http://jiaojirentv.top/2020/yy.php?id=1382749906
+#EXTINF:-1 tvg-name="流金岁月" tvg-logo= group-title="电视剧轮播",流金岁月
+http://live.nctv.top/6688/yy.php?id=1382749906
+#EXTINF:-1 tvg-name="向风而行" tvg-logo= group-title="电视剧轮播",向风而行
+http://zby.xjqxz.top/xfex/live.m3u8
+#EXTINF:-1 tvg-name="欢乐颂" tvg-logo= group-title="电视剧轮播",欢乐颂
+http://120.77.28.4:8648/douyu.php?id=3756989
+#EXTINF:-1 tvg-name="欢乐颂" tvg-logo= group-title="电视剧轮播",欢乐颂
+http://jiaojirentv.top/2020/dy.php?id=3756989
+#EXTINF:-1 tvg-name="好先生" tvg-logo= group-title="电视剧轮播",好先生
+http://120.77.28.4:8648/douyu.php?id=9650792
+#EXTINF:-1 tvg-name="好先生" tvg-logo= group-title="电视剧轮播",好先生
+http://jiaojirentv.top/2020/dy.php?id=9650792
+#EXTINF:-1 tvg-name="我的前半生" tvg-logo= group-title="电视剧轮播",我的前半生
+http://jiaojirentv.top/2020/yy.php?id=1382735564
+#EXTINF:-1 tvg-name="我的前半生" tvg-logo= group-title="电视剧轮播",我的前半生
+http://live.nctv.top/6688/yy.php?id=1382735564
+#EXTINF:-1 tvg-name="警察荣誉" tvg-logo= group-title="电视剧轮播",警察荣誉
+http://zby.xjqxz.top/live16/live.m3u8
+#EXTINF:-1 tvg-name="火蓝刀锋" tvg-logo= group-title="电视剧轮播",火蓝刀锋
+http://jiaojirentv.top/2020/yy.php?id=1382737892
+#EXTINF:-1 tvg-name="火蓝刀锋" tvg-logo= group-title="电视剧轮播",火蓝刀锋
+http://live.nctv.top/6688/yy.php?id=1382737892
+#EXTINF:-1 tvg-name="二炮手" tvg-logo= group-title="电视剧轮播",二炮手
+http://jiaojirentv.top/2020/yy.php?id=1354930964
+#EXTINF:-1 tvg-name="二炮手" tvg-logo= group-title="电视剧轮播",二炮手
+http://live.nctv.top/6688/yy.php?id=1354930964
+#EXTINF:-1 tvg-name="炮神" tvg-logo= group-title="电视剧轮播",炮神
+http://jiaojirentv.top/2020/yy.php?id=22089862
+#EXTINF:-1 tvg-name="炮神" tvg-logo= group-title="电视剧轮播",炮神
+http://live.nctv.top/6688/yy.php?id=22089862
+#EXTINF:-1 tvg-name="风筝" tvg-logo= group-title="电视剧轮播",风筝
+http://jiaojirentv.top/2020/yy.php?id=1354931585
+#EXTINF:-1 tvg-name="风筝" tvg-logo= group-title="电视剧轮播",风筝
+http://live.nctv.top/6688/yy.php?id=1354931585
+#EXTINF:-1 tvg-name="武林外传" tvg-logo= group-title="电视剧轮播",武林外传
+http://jiaojirentv.top/2020/yy.php?id=1355652820
+#EXTINF:-1 tvg-name="武林外传" tvg-logo= group-title="电视剧轮播",武林外传
+http://live.nctv.top/6688/yy.php?id=1355652820
+#EXTINF:-1 tvg-name="飞虎之潜行极战" tvg-logo= group-title="电视剧轮播",飞虎之潜行极战
+http://live.nctv.top/6688/yy.php?id=1354932420
+#EXTINF:-1 tvg-name="飞虎之潜行极战" tvg-logo= group-title="电视剧轮播",飞虎之潜行极战
+http://jiaojirentv.top/2020/yy.php?id=1354932420
+#EXTINF:-1 tvg-name="天道" tvg-logo= group-title="电视剧轮播",天道
+http://live.nctv.top/6688/yy.php?id=1382735574
+#EXTINF:-1 tvg-name="天道" tvg-logo= group-title="电视剧轮播",天道
+http://jiaojirentv.top/2020/yy.php?id=1382735574
+#EXTINF:-1 tvg-name="大汉天子" tvg-logo= group-title="电视剧轮播",大汉天子
+http://live.nctv.top/6688/yy.php?id=1382749902
+#EXTINF:-1 tvg-name="大汉天子" tvg-logo= group-title="电视剧轮播",大汉天子
+http://jiaojirentv.top/2020/yy.php?id=1382749902
+#EXTINF:-1 tvg-name="封神榜" tvg-logo= group-title="电视剧轮播",封神榜
+http://live.nctv.top/6688/yy.php?id=1353426319
+#EXTINF:-1 tvg-name="封神榜" tvg-logo= group-title="电视剧轮播",封神榜
+http://jiaojirentv.top/2020/yy.php?id=1353426319
+#EXTINF:-1 tvg-name="使徒行者" tvg-logo= group-title="电视剧轮播",使徒行者
+http://cdn.jdshipin.com:8880/huya.php?id=23734256
+#EXTINF:-1 tvg-name="民兵葛二蛋" tvg-logo= group-title="电视剧轮播",民兵葛二蛋
+http://cdn.jdshipin.com:8880/huya.php?id=11602072
+#EXTINF:-1 tvg-name="铁道游击队" tvg-logo= group-title="电视剧轮播",铁道游击队
+http://cdn.jdshipin.com:8880/huya.php?id=11352936
+#EXTINF:-1 tvg-name="勇敢的心" tvg-logo= group-title="电视剧轮播",勇敢的心
+http://cdn.jdshipin.com:8880/huya.php?id=11602037
+#EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo= group-title="电视剧轮播",楚汉骄雄
+http://cdn.jdshipin.com:8880/huya.php?id=23740156
+#EXTINF:-1 tvg-name="康熙王朝" tvg-logo= group-title="电视剧轮播",康熙王朝
+http://cdn.jdshipin.com:8880/huya.php?id=11352940
+#EXTINF:-1 tvg-name="武林外传" tvg-logo= group-title="电视剧轮播",武林外传
+http://cdn.jdshipin.com:8880/huya.php?id=21059598
+#EXTINF:-1 tvg-name="全职高手" tvg-logo= group-title="电视剧轮播",全职高手
+http://cdn.jdshipin.com:8880/huya.php?id=11352901
+#EXTINF:-1 tvg-name="炊事班的故事3" tvg-logo= group-title="电视剧轮播",炊事班的故事3
+http://cdn.jdshipin.com:8880/huya.php?id=19524135
+#EXTINF:-1 tvg-name="杨光的快乐生活" tvg-logo= group-title="电视剧轮播",杨光的快乐生活
+http://cdn.jdshipin.com:8880/huya.php?id=11602085
+#EXTINF:-1 tvg-name="陈情令" tvg-logo= group-title="电视剧轮播",陈情令
+http://cdn.jdshipin.com:8880/huya.php?id=29465862
+#EXTINF:-1 tvg-name="星汉灿烂·月生沧海" tvg-logo= group-title="电视剧轮播",星汉灿烂·月生沧海
+http://cdn.jdshipin.com:8880/huya.php?id=11336591
+#EXTINF:-1 tvg-name="父母爱情" tvg-logo= group-title="电视剧轮播",父母爱情
+http://cdn.jdshipin.com:8880/huya.php?id=11602071
+#EXTINF:-1 tvg-name="长安十二时辰" tvg-logo= group-title="电视剧轮播",长安十二时辰
+http://zby.xjqxz.top/casrsc/live.m3u8
+#EXTINF:-1 tvg-name="狂飙" tvg-logo= group-title="电视剧轮播",狂飙
+http://zby.xjqxz.top/live9/live.m3u8
+#EXTINF:-1 tvg-name="知否知否" tvg-logo= group-title="电视剧轮播",知否知否
 http://zby.xjqxz.top/zfzf/live.m3u8
-#EXTINF:-1 tvg-name="梦华录" tvg-logo="" group-title="电视剧轮播",梦华录
+#EXTINF:-1 tvg-name="梦华录" tvg-logo= group-title="电视剧轮播",梦华录
 http://zby.xjqxz.top/mhl/live.m3u8
-#EXTINF:-1 tvg-name="云襄传" tvg-logo="" group-title="电视剧轮播",云襄传
+#EXTINF:-1 tvg-name="云襄传" tvg-logo= group-title="电视剧轮播",云襄传
 http://zby.xjqxz.top/yxz/live.m3u8
-#EXTINF:-1 tvg-name="去有风的地方" tvg-logo="" group-title="电视剧轮播",去有风的地方
+#EXTINF:-1 tvg-name="去有风的地方" tvg-logo= group-title="电视剧轮播",去有风的地方
 http://zby.xjqxz.top/qyfddf/live.m3u8
-#EXTINF:-1 tvg-name="唐朝诡事录" tvg-logo="" group-title="电视剧轮播",唐朝诡事录
+#EXTINF:-1 tvg-name="唐朝诡事录" tvg-logo= group-title="电视剧轮播",唐朝诡事录
 http://zby.xjqxz.top/tcgsl/live.m3u8
-#EXTINF:-1 tvg-name="少年歌行" tvg-logo="" group-title="电视剧轮播",少年歌行
+#EXTINF:-1 tvg-name="少年歌行" tvg-logo= group-title="电视剧轮播",少年歌行
 http://zby.xjqxz.top/sngx/live.m3u8
-#EXTINF:-1 tvg-name="三体" tvg-logo="" group-title="电视剧轮播",三体
+#EXTINF:-1 tvg-name="三体" tvg-logo= group-title="电视剧轮播",三体
 http://zby.xjqxz.top/st/live.m3u8
-#EXTINF:-1 tvg-name="女士的品格" tvg-logo="" group-title="电视剧轮播",女士的品格
+#EXTINF:-1 tvg-name="女士的品格" tvg-logo= group-title="电视剧轮播",女士的品格
 http://zby.xjqxz.top/nsdpg/live.m3u8
-#EXTINF:-1 tvg-name="大秦帝国之裂变" tvg-logo="" group-title="电视剧轮播",大秦帝国之裂变
+#EXTINF:-1 tvg-name="大秦帝国之裂变" tvg-logo= group-title="电视剧轮播",大秦帝国之裂变
 http://zby.xjqxz.top/dqdgzlb/live.m3u8
-#EXTINF:-1 tvg-name="隋唐英雄" tvg-logo="" group-title="电视剧轮播",隋唐英雄
+#EXTINF:-1 tvg-name="隋唐英雄" tvg-logo= group-title="电视剧轮播",隋唐英雄
 http://zby.xjqxz.top/styx/live.m3u8
-#EXTINF:-1 tvg-name="我不是药神" tvg-logo="https://live.fanmingming.com/tv/我不是药神.png" group-title="🏠家庭影院",我不是药神
+#EXTINF:-1 tvg-name="我不是药神" tvg-logo= group-title="🏠家庭影院",我不是药神
 https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
-#EXTINF:-1 tvg-name="让子弹飞" tvg-logo="https://live.fanmingming.com/tv/让子弹飞.png" group-title="🏠家庭影院",让子弹飞
+#EXTINF:-1 tvg-name="让子弹飞" tvg-logo= group-title="🏠家庭影院",让子弹飞
 https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://live.fanmingming.com/tv/经典电影.png" group-title="🏠家庭影院",经典电影
+#EXTINF:-1 tvg-name="经典电影" tvg-logo= group-title="🏠家庭影院",经典电影
 http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="倩女幽魂妖魔道" tvg-logo="https://live.fanmingming.com/tv/倩女幽魂妖魔道.png" group-title="🏠家庭影院",倩女幽魂妖魔道
+#EXTINF:-1 tvg-name="倩女幽魂妖魔道" tvg-logo= group-title="🏠家庭影院",倩女幽魂妖魔道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
-#EXTINF:-1 tvg-name="倩女幽魂人间道" tvg-logo="https://live.fanmingming.com/tv/倩女幽魂人间道.png" group-title="🏠家庭影院",倩女幽魂人间道
+#EXTINF:-1 tvg-name="倩女幽魂人间道" tvg-logo= group-title="🏠家庭影院",倩女幽魂人间道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
-#EXTINF:-1 tvg-name="倩女幽魂道道道" tvg-logo="https://live.fanmingming.com/tv/倩女幽魂道道道.png" group-title="🏠家庭影院",倩女幽魂道道道
+#EXTINF:-1 tvg-name="倩女幽魂道道道" tvg-logo= group-title="🏠家庭影院",倩女幽魂道道道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
-#EXTINF:-1 tvg-name="龙门飞甲" tvg-logo="https://live.fanmingming.com/tv/龙门飞甲.png" group-title="🏠家庭影院",龙门飞甲
+#EXTINF:-1 tvg-name="龙门飞甲" tvg-logo= group-title="🏠家庭影院",龙门飞甲
 http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
-#EXTINF:-1 tvg-name="寒战1" tvg-logo="https://live.fanmingming.com/tv/寒战1.png" group-title="🏠家庭影院",寒战1
+#EXTINF:-1 tvg-name="寒战1" tvg-logo= group-title="🏠家庭影院",寒战1
 https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
-#EXTINF:-1 tvg-name="人在囧途" tvg-logo="https://live.fanmingming.com/tv/人在囧途.png" group-title="🏠家庭影院",人在囧途
+#EXTINF:-1 tvg-name="人在囧途" tvg-logo= group-title="🏠家庭影院",人在囧途
 https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
-#EXTINF:-1 tvg-name="人在囧途" tvg-logo="https://live.fanmingming.com/tv/人在囧途.png" group-title="🏠家庭影院",人在囧途
+#EXTINF:-1 tvg-name="人在囧途" tvg-logo= group-title="🏠家庭影院",人在囧途
 http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
-#EXTINF:-1 tvg-name="人在囧途之泰囧" tvg-logo="https://live.fanmingming.com/tv/人在囧途之泰囧.png" group-title="🏠家庭影院",人在囧途之泰囧
+#EXTINF:-1 tvg-name="人在囧途之泰囧" tvg-logo= group-title="🏠家庭影院",人在囧途之泰囧
 https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
-#EXTINF:-1 tvg-name="人在囧途之港囧" tvg-logo="https://live.fanmingming.com/tv/人在囧途之港囧.png" group-title="🏠家庭影院",人在囧途之港囧
+#EXTINF:-1 tvg-name="人在囧途之港囧" tvg-logo= group-title="🏠家庭影院",人在囧途之港囧
 https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
-#EXTINF:-1 tvg-name="人在囧途之囧妈" tvg-logo="https://live.fanmingming.com/tv/人在囧途之囧妈.png" group-title="🏠家庭影院",人在囧途之囧妈
+#EXTINF:-1 tvg-name="人在囧途之囧妈" tvg-logo= group-title="🏠家庭影院",人在囧途之囧妈
 https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
-#EXTINF:-1 tvg-name="无间道1" tvg-logo="https://live.fanmingming.com/tv/无间道1.png" group-title="🏠家庭影院",无间道1
+#EXTINF:-1 tvg-name="无间道1" tvg-logo= group-title="🏠家庭影院",无间道1
 https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
-#EXTINF:-1 tvg-name="拆弹专家1" tvg-logo="https://live.fanmingming.com/tv/拆弹专家1.png" group-title="🏠家庭影院",拆弹专家1
+#EXTINF:-1 tvg-name="拆弹专家1" tvg-logo= group-title="🏠家庭影院",拆弹专家1
 https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
-#EXTINF:-1 tvg-name="拆弹专家2" tvg-logo="https://live.fanmingming.com/tv/拆弹专家2.png" group-title="🏠家庭影院",拆弹专家2
+#EXTINF:-1 tvg-name="拆弹专家2" tvg-logo= group-title="🏠家庭影院",拆弹专家2
 https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
-#EXTINF:-1 tvg-name="卧虎藏龙" tvg-logo="https://live.fanmingming.com/tv/卧虎藏龙.png" group-title="🏠家庭影院",卧虎藏龙
+#EXTINF:-1 tvg-name="卧虎藏龙" tvg-logo= group-title="🏠家庭影院",卧虎藏龙
 https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
-#EXTINF:-1 tvg-name="满城尽带黄金甲" tvg-logo="https://live.fanmingming.com/tv/满城尽带黄金甲.png" group-title="🏠家庭影院",满城尽带黄金甲
+#EXTINF:-1 tvg-name="满城尽带黄金甲" tvg-logo= group-title="🏠家庭影院",满城尽带黄金甲
 https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8
-#EXTINF:-1 tvg-name="绝地战警生死与共" tvg-logo="https://live.fanmingming.com/tv/绝地战警生死与共.png" group-title="🏠家庭影院",绝地战警生死与共
+#EXTINF:-1 tvg-name="绝地战警生死与共" tvg-logo= group-title="🏠家庭影院",绝地战警生死与共
 https://v3.tlkqc.com/wjv3/202406/12/gFunRiZvHb75/video/index.m3u8
-#EXTINF:-1 tvg-name="狄仁杰之天宫蜃楼" tvg-logo="https://live.fanmingming.com/tv/狄仁杰之天宫蜃楼.png" group-title="🏠家庭影院",狄仁杰之天宫蜃楼
+#EXTINF:-1 tvg-name="狄仁杰之天宫蜃楼" tvg-logo= group-title="🏠家庭影院",狄仁杰之天宫蜃楼
 https://v9.tlkqc.com/wjv9/202408/06/p7712pXCuV81/video/index.m3u8
-#EXTINF:-1 tvg-name="鬼舞村诅咒起源" tvg-logo="https://live.fanmingming.com/tv/鬼舞村诅咒起源.png" group-title="🏠家庭影院",鬼舞村诅咒起源
+#EXTINF:-1 tvg-name="鬼舞村诅咒起源" tvg-logo= group-title="🏠家庭影院",鬼舞村诅咒起源
 https://v12.tlkqc.com/wjv12/202408/04/UJGTrrEASp84/video/index.m3u8
-#EXTINF:-1 tvg-name="魔戒首部曲魔戒现身" tvg-logo="https://live.fanmingming.com/tv/魔戒首部曲魔戒现身.png" group-title="🏠家庭影院",魔戒首部曲魔戒现身
-https://api.heimuer.app/play/d10849d4be514bfeb5de7b6ff8bdfb5a.m3u8
-#EXTINF:-1 tvg-name="魔戒首部曲魔戒现身" tvg-logo="https://live.fanmingming.com/tv/魔戒首部曲魔戒现身.png" group-title="🏠家庭影院",魔戒首部曲魔戒现身
+#EXTINF:-1 tvg-name="魔戒首部曲魔戒现身" tvg-logo= group-title="🏠家庭影院",魔戒首部曲魔戒现身
 https://vip.ffzy-play7.com/20230411/22167_a385d245/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="魔戒二部曲双城奇谋" tvg-logo="https://live.fanmingming.com/tv/魔戒二部曲双城奇谋.png" group-title="🏠家庭影院",魔戒二部曲双城奇谋
+#EXTINF:-1 tvg-name="魔戒二部曲双城奇谋" tvg-logo= group-title="🏠家庭影院",魔戒二部曲双城奇谋
 https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="魔戒二部曲双城奇谋" tvg-logo="https://live.fanmingming.com/tv/魔戒二部曲双城奇谋.png" group-title="🏠家庭影院",魔戒二部曲双城奇谋
-https://api.heimuer.app/play/4c017a32d1a7478696e4b78d95774ccc.m3u8
-#EXTINF:-1 tvg-name="魔戒三部曲王者再临" tvg-logo="https://live.fanmingming.com/tv/魔戒三部曲王者再临.png" group-title="🏠家庭影院",魔戒三部曲王者再临
-https://api.heimuer.app/play/bd885bde48d742068df66e382a8db7a7.m3u8
-#EXTINF:-1 tvg-name="重温经典频道" tvg-logo="https://live.fanmingming.com/tv/重温经典频道.png" group-title="🏠家庭影院",重温经典频道
+#EXTINF:-1 tvg-name="重温经典频道" tvg-logo= group-title="🏠家庭影院",重温经典频道
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-name="星空卫视频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视频道.png" group-title="🏠家庭影院",星空卫视频道
+#EXTINF:-1 tvg-name="星空卫视频道" tvg-logo= group-title="🏠家庭影院",星空卫视频道
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="星空卫视频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视频道.png" group-title="🏠家庭影院",星空卫视频道
-http://wouu.net:9977/udp/239.93.0.156:2193
-#EXTINF:-1 tvg-name="醉拳" tvg-logo="https://live.fanmingming.com/tv/醉拳.png" group-title="🏠家庭影院",醉拳
+#EXTINF:-1 tvg-name="醉拳" tvg-logo= group-title="🏠家庭影院",醉拳
 https://vip.ffzy-play7.com/20230202/13070_b42acba9/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="警察故事III超级警察" tvg-logo="https://live.fanmingming.com/tv/警察故事III超级警察.png" group-title="🏠家庭影院",警察故事III超级警察
+#EXTINF:-1 tvg-name="警察故事III超级警察" tvg-logo= group-title="🏠家庭影院",警察故事III超级警察
 https://vip.ffzy-play7.com/20221206/8266_97359a93/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="总是有爱在隔离" tvg-logo="https://live.fanmingming.com/tv/总是有爱在隔离.png" group-title="🏠家庭影院",总是有爱在隔离
+#EXTINF:-1 tvg-name="总是有爱在隔离" tvg-logo= group-title="🏠家庭影院",总是有爱在隔离
 https://vip.ffzy-play7.com/20230509/24402_8dc9f535/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="攀登者" tvg-logo="https://live.fanmingming.com/tv/攀登者.png" group-title="🏠家庭影院",攀登者
+#EXTINF:-1 tvg-name="攀登者" tvg-logo= group-title="🏠家庭影院",攀登者
 https://vip.ffzy-play7.com/20221111/3124_7cca31fc/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="龙腾虎跃" tvg-logo="https://live.fanmingming.com/tv/龙腾虎跃.png" group-title="🏠家庭影院",龙腾虎跃
+#EXTINF:-1 tvg-name="龙腾虎跃" tvg-logo= group-title="🏠家庭影院",龙腾虎跃
 https://vip.ffzy-play7.com/20221117/5171_c2d4c959/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="城市猎人" tvg-logo="https://live.fanmingming.com/tv/城市猎人.png" group-title="🏠家庭影院",城市猎人
+#EXTINF:-1 tvg-name="城市猎人" tvg-logo= group-title="🏠家庭影院",城市猎人
 https://vip.ffzy-play7.com/20230112/11075_f5a96711/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="寻找成龙" tvg-logo="https://live.fanmingming.com/tv/寻找成龙.png" group-title="🏠家庭影院",寻找成龙
+#EXTINF:-1 tvg-name="寻找成龙" tvg-logo= group-title="🏠家庭影院",寻找成龙
 https://vip.ffzy-play7.com/20221127/7273_4ce701a1/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="新宿事件" tvg-logo="https://live.fanmingming.com/tv/新宿事件.png" group-title="🏠家庭影院",新宿事件
+#EXTINF:-1 tvg-name="新宿事件" tvg-logo= group-title="🏠家庭影院",新宿事件
 https://vip.ffzy-play7.com/20230314/18148_991eeb8a/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="龙牌之谜" tvg-logo="https://live.fanmingming.com/tv/龙牌之谜.png" group-title="🏠家庭影院",龙牌之谜
+#EXTINF:-1 tvg-name="龙牌之谜" tvg-logo= group-title="🏠家庭影院",龙牌之谜
 https://vip.ffzy-play7.com/20221111/3068_d0d6c55d/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="玻璃樽" tvg-logo="https://live.fanmingming.com/tv/玻璃樽.png" group-title="🏠家庭影院",玻璃樽
+#EXTINF:-1 tvg-name="玻璃樽" tvg-logo= group-title="🏠家庭影院",玻璃樽
 https://vip.ffzy-play7.com/20221112/3750_97a1bebc/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="快餐车" tvg-logo="https://live.fanmingming.com/tv/快餐车.png" group-title="🏠家庭影院",快餐车
+#EXTINF:-1 tvg-name="快餐车" tvg-logo= group-title="🏠家庭影院",快餐车
 https://vip.ffzy-play7.com/20221115/4694_6f7f88ac/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="龙少爷" tvg-logo="https://live.fanmingming.com/tv/龙少爷.png" group-title="🏠家庭影院",龙少爷
+#EXTINF:-1 tvg-name="龙少爷" tvg-logo= group-title="🏠家庭影院",龙少爷
 https://vip.ffzy-play2.com/20240324/60020_c93c2845/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="大兵小将" tvg-logo="https://live.fanmingming.com/tv/大兵小将.png" group-title="🏠家庭影院",大兵小将
+#EXTINF:-1 tvg-name="大兵小将" tvg-logo= group-title="🏠家庭影院",大兵小将
 https://vip.ffzy-play7.com/20230101/10714_0de1384d/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="铁道飞虎" tvg-logo="https://live.fanmingming.com/tv/铁道飞虎.png" group-title="🏠家庭影院",铁道飞虎
+#EXTINF:-1 tvg-name="铁道飞虎" tvg-logo= group-title="🏠家庭影院",铁道飞虎
 https://vip.ffzy-play7.com/20221124/6781_bb0a18b1/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="秦香莲" tvg-logo="https://live.fanmingming.com/tv/秦香莲.png" group-title="🏠家庭影院",秦香莲
+#EXTINF:-1 tvg-name="秦香莲" tvg-logo= group-title="🏠家庭影院",秦香莲
 https://vip.ffzy-play7.com/20230406/21188_34e1c588/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="超级计划" tvg-logo="https://live.fanmingming.com/tv/超级计划.png" group-title="🏠家庭影院",超级计划
+#EXTINF:-1 tvg-name="超级计划" tvg-logo= group-title="🏠家庭影院",超级计划
 https://vip.ffzy-play7.com/20221112/3764_fd2b007a/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="上海正午" tvg-logo="https://live.fanmingming.com/tv/上海正午.png" group-title="🏠家庭影院",上海正午
+#EXTINF:-1 tvg-name="上海正午" tvg-logo= group-title="🏠家庭影院",上海正午
 https://vip.ffzy-play7.com/20230130/12799_c0437a87/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="西藏小子" tvg-logo="https://live.fanmingming.com/tv/西藏小子.png" group-title="🏠家庭影院",西藏小子
+#EXTINF:-1 tvg-name="西藏小子" tvg-logo= group-title="🏠家庭影院",西藏小子
 https://vip.ffzy-play7.com/20221224/9675_24c6d3c7/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="风雨双流星" tvg-logo="https://live.fanmingming.com/tv/风雨双流星.png" group-title="🏠家庭影院",风雨双流星
+#EXTINF:-1 tvg-name="风雨双流星" tvg-logo= group-title="🏠家庭影院",风雨双流星
 https://vip.ffzy-play7.com/20221128/7518_67bd51e9/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="师弟出马" tvg-logo="https://live.fanmingming.com/tv/师弟出马.png" group-title="🏠家庭影院",师弟出马
+#EXTINF:-1 tvg-name="师弟出马" tvg-logo= group-title="🏠家庭影院",师弟出马
 https://vip.ffzy-play7.com/20221115/4764_aba20ecc/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="上海正午2：上海骑士" tvg-logo="https://live.fanmingming.com/tv/上海正午2：上海骑士.png" group-title="🏠家庭影院",上海正午2：上海骑士
+#EXTINF:-1 tvg-name="上海正午2：上海骑士" tvg-logo= group-title="🏠家庭影院",上海正午2：上海骑士
 https://vip.ffzy-play7.com/20230131/12903_9b7878c4/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="警察故事（续集）" tvg-logo="https://live.fanmingming.com/tv/警察故事（续集）.png" group-title="🏠家庭影院",警察故事（续集）
+#EXTINF:-1 tvg-name="警察故事（续集）" tvg-logo= group-title="🏠家庭影院",警察故事（续集）
 https://vip.ffzy-play7.com/20221115/4687_1e3f6f8c/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="环游地球八十天" tvg-logo="https://live.fanmingming.com/tv/环游地球八十天.png" group-title="🏠家庭影院",环游地球八十天
+#EXTINF:-1 tvg-name="环游地球八十天" tvg-logo= group-title="🏠家庭影院",环游地球八十天
 https://vip.ffzy-play7.com/20221206/8255_9aa98c99/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="一个好人" tvg-logo="https://live.fanmingming.com/tv/一个好人.png" group-title="🏠家庭影院",一个好人
+#EXTINF:-1 tvg-name="一个好人" tvg-logo= group-title="🏠家庭影院",一个好人
 https://vip.ffzy-play7.com/20221129/7713_3a3bd3ff/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="忠烈图" tvg-logo="https://live.fanmingming.com/tv/忠烈图.png" group-title="🏠家庭影院",忠烈图
+#EXTINF:-1 tvg-name="忠烈图" tvg-logo= group-title="🏠家庭影院",忠烈图
 https://vip.ffzy-play7.com/20221228/10158_15a3aab7/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="剑花烟雨江南" tvg-logo="https://live.fanmingming.com/tv/剑花烟雨江南.png" group-title="🏠家庭影院",剑花烟雨江南
+#EXTINF:-1 tvg-name="剑花烟雨江南" tvg-logo= group-title="🏠家庭影院",剑花烟雨江南
 https://vip.ffzy-play7.com/20221128/7570_1dca45cc/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="人吓人" tvg-logo="https://live.fanmingming.com/tv/人吓人.png" group-title="🏠家庭影院",人吓人
+#EXTINF:-1 tvg-name="人吓人" tvg-logo= group-title="🏠家庭影院",人吓人
 https://vip.ffzy-play7.com/20230131/12897_66998969/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="东方秃鹰" tvg-logo="https://live.fanmingming.com/tv/东方秃鹰.png" group-title="🏠家庭影院",东方秃鹰
+#EXTINF:-1 tvg-name="东方秃鹰" tvg-logo= group-title="🏠家庭影院",东方秃鹰
 https://vip.ffzy-play7.com/20221209/9044_d3e0dbd4/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="龙争虎斗" tvg-logo="https://live.fanmingming.com/tv/龙争虎斗.png" group-title="🏠家庭影院",龙争虎斗
+#EXTINF:-1 tvg-name="龙争虎斗" tvg-logo= group-title="🏠家庭影院",龙争虎斗
 https://vip.ffzy-play7.com/20221228/10118_7f88f7bd/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="大侠胡金铨" tvg-logo="https://live.fanmingming.com/tv/大侠胡金铨.png" group-title="🏠家庭影院",大侠胡金铨
+#EXTINF:-1 tvg-name="大侠胡金铨" tvg-logo= group-title="🏠家庭影院",大侠胡金铨
 https://vip.ffzy-play7.com/20230503/23773_a16c59d6/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="败家仔" tvg-logo="https://live.fanmingming.com/tv/败家仔.png" group-title="🏠家庭影院",败家仔
+#EXTINF:-1 tvg-name="败家仔" tvg-logo= group-title="🏠家庭影院",败家仔
 https://vip.ffzy-play7.com/20221207/8332_71c25e63/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="鬼打鬼" tvg-logo="https://live.fanmingming.com/tv/鬼打鬼.png" group-title="🏠家庭影院",鬼打鬼
+#EXTINF:-1 tvg-name="鬼打鬼" tvg-logo= group-title="🏠家庭影院",鬼打鬼
 https://vip.ffzy-play7.com/20221115/4476_05997c13/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="叶问2：宗师传奇" tvg-logo="https://live.fanmingming.com/tv/叶问2：宗师传奇.png" group-title="🏠家庭影院",叶问2：宗师传奇
+#EXTINF:-1 tvg-name="叶问2：宗师传奇" tvg-logo= group-title="🏠家庭影院",叶问2：宗师传奇
 https://vip.ffzy-play2.com/20221127/1618_b175df0e/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="杀破狼" tvg-logo="https://live.fanmingming.com/tv/杀破狼.png" group-title="🏠家庭影院",杀破狼
+#EXTINF:-1 tvg-name="杀破狼" tvg-logo= group-title="🏠家庭影院",杀破狼
 https://vip.ffzy-play.com/20221018/1977_3ef7fe7e/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="锦衣卫" tvg-logo="https://live.fanmingming.com/tv/锦衣卫.png" group-title="🏠家庭影院",锦衣卫
+#EXTINF:-1 tvg-name="锦衣卫" tvg-logo= group-title="🏠家庭影院",锦衣卫
 https://vip.ffzy-online2.com/20230531/38608_ad0ee149/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="花飞满城春" tvg-logo="https://live.fanmingming.com/tv/花飞满城春.png" group-title="🏠家庭影院",花飞满城春
+#EXTINF:-1 tvg-name="花飞满城春" tvg-logo= group-title="🏠家庭影院",花飞满城春
 https://vip.ffzy-play7.com/20221128/7557_3a9a605d/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="A计划" tvg-logo="https://live.fanmingming.com/tv/A计划.png" group-title="🏠家庭影院",A计划
+#EXTINF:-1 tvg-name="A计划" tvg-logo= group-title="🏠家庭影院",A计划
 https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="战神传说" tvg-logo="https://live.fanmingming.com/tv/战神传说.png" group-title="🏠家庭影院",战神传说
+#EXTINF:-1 tvg-name="战神传说" tvg-logo= group-title="🏠家庭影院",战神传说
 https://vip.ffzy-play7.com/20221129/7734_53205031/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="夏日福星" tvg-logo="https://live.fanmingming.com/tv/夏日福星.png" group-title="🏠家庭影院",夏日福星
+#EXTINF:-1 tvg-name="夏日福星" tvg-logo= group-title="🏠家庭影院",夏日福星
 https://vip.ffzy-play7.com/20230118/11937_84244e52/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="老虎田鸡" tvg-logo="https://live.fanmingming.com/tv/老虎田鸡.png" group-title="🏠家庭影院",老虎田鸡
+#EXTINF:-1 tvg-name="老虎田鸡" tvg-logo= group-title="🏠家庭影院",老虎田鸡
 https://vip.ffzy-play7.com/20221224/9583_f95a6383/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="提防小手" tvg-logo="https://live.fanmingming.com/tv/提防小手.png" group-title="🏠家庭影院",提防小手
+#EXTINF:-1 tvg-name="提防小手" tvg-logo= group-title="🏠家庭影院",提防小手
 https://vip.ffzy-play7.com/20221209/9164_1db5b92a/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="运财五福星" tvg-logo="https://live.fanmingming.com/tv/运财五福星.png" group-title="🏠家庭影院",运财五福星
+#EXTINF:-1 tvg-name="运财五福星" tvg-logo= group-title="🏠家庭影院",运财五福星
 https://vip.ffzy-play7.com/20221208/8988_21580eb4/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="豪门夜宴" tvg-logo="https://live.fanmingming.com/tv/豪门夜宴.png" group-title="🏠家庭影院",豪门夜宴
+#EXTINF:-1 tvg-name="豪门夜宴" tvg-logo= group-title="🏠家庭影院",豪门夜宴
 https://vip.ffzy-play.com/20221204/29458_3909f6d0/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="蜀山：新蜀山剑侠" tvg-logo="https://live.fanmingming.com/tv/蜀山：新蜀山剑侠.png" group-title="🏠家庭影院",蜀山：新蜀山剑侠
+#EXTINF:-1 tvg-name="蜀山：新蜀山剑侠" tvg-logo= group-title="🏠家庭影院",蜀山：新蜀山剑侠
 https://vip.ffzy-play7.com/20221115/4566_fdf3285b/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="密宗威龙" tvg-logo="https://live.fanmingming.com/tv/密宗威龙.png" group-title="🏠家庭影院",密宗威龙
+#EXTINF:-1 tvg-name="密宗威龙" tvg-logo= group-title="🏠家庭影院",密宗威龙
 https://vip.ffzy-play7.com/20221112/3607_e49d9e93/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="龙的心" tvg-logo="https://live.fanmingming.com/tv/龙的心.png" group-title="🏠家庭影院",龙的心
+#EXTINF:-1 tvg-name="龙的心" tvg-logo= group-title="🏠家庭影院",龙的心
 https://vip.ffzy-play7.com/20221115/4539_8b9150f6/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="忠义群英" tvg-logo="https://live.fanmingming.com/tv/忠义群英.png" group-title="🏠家庭影院",忠义群英
+#EXTINF:-1 tvg-name="忠义群英" tvg-logo= group-title="🏠家庭影院",忠义群英
 https://vip.ffzy-play7.com/20221116/4836_e3063898/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="鬼咬鬼" tvg-logo="https://live.fanmingming.com/tv/鬼咬鬼.png" group-title="🏠家庭影院",鬼咬鬼
+#EXTINF:-1 tvg-name="鬼咬鬼" tvg-logo= group-title="🏠家庭影院",鬼咬鬼
 https://vip.ffzy-play7.com/20221208/8822_26a70529/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="鬼马双星" tvg-logo="https://live.fanmingming.com/tv/鬼马双星.png" group-title="🏠家庭影院",鬼马双星
+#EXTINF:-1 tvg-name="鬼马双星" tvg-logo= group-title="🏠家庭影院",鬼马双星
 https://vip.ffzy-play7.com/20221206/8062_9ab4de18/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="金衣大侠" tvg-logo="https://live.fanmingming.com/tv/金衣大侠.png" group-title="🏠家庭影院",金衣大侠
+#EXTINF:-1 tvg-name="金衣大侠" tvg-logo= group-title="🏠家庭影院",金衣大侠
 https://vip.ffzy-play7.com/20221128/7587_339701b6/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="浪漫风暴" tvg-logo="https://live.fanmingming.com/tv/浪漫风暴.png" group-title="🏠家庭影院",浪漫风暴
+#EXTINF:-1 tvg-name="浪漫风暴" tvg-logo= group-title="🏠家庭影院",浪漫风暴
 https://vip.ffzy-play7.com/20221129/7668_624e7734/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="死亡塔" tvg-logo="https://live.fanmingming.com/tv/死亡塔.png" group-title="🏠家庭影院",死亡塔
+#EXTINF:-1 tvg-name="死亡塔" tvg-logo= group-title="🏠家庭影院",死亡塔
 https://vip.ffzy-play7.com/20221117/5079_56e2cb5b/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="飞燕金刀" tvg-logo="https://live.fanmingming.com/tv/飞燕金刀.png" group-title="🏠家庭影院",飞燕金刀
+#EXTINF:-1 tvg-name="飞燕金刀" tvg-logo= group-title="🏠家庭影院",飞燕金刀
 https://vip.ffzy-play7.com/20221208/8580_cc26d2cb/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="黄飞鸿少林拳" tvg-logo="https://live.fanmingming.com/tv/黄飞鸿少林拳.png" group-title="🏠家庭影院",黄飞鸿少林拳
+#EXTINF:-1 tvg-name="黄飞鸿少林拳" tvg-logo= group-title="🏠家庭影院",黄飞鸿少林拳
 https://vip.ffzy-play7.com/20221128/7561_64e57fa4/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="黄飞鸿之英雄有梦" tvg-logo="https://live.fanmingming.com/tv/黄飞鸿之英雄有梦.png" group-title="🏠家庭影院",黄飞鸿之英雄有梦
+#EXTINF:-1 tvg-name="黄飞鸿之英雄有梦" tvg-logo= group-title="🏠家庭影院",黄飞鸿之英雄有梦
 https://vip.ffzy-online.com/20221017/1065_6fccd535/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="八两金" tvg-logo="https://live.fanmingming.com/tv/八两金.png" group-title="🏠家庭影院",八两金
+#EXTINF:-1 tvg-name="八两金" tvg-logo= group-title="🏠家庭影院",八两金
 https://vip.ffzy-play7.com/20230101/10670_06ccd764/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="时来运转" tvg-logo="https://live.fanmingming.com/tv/时来运转.png" group-title="🏠家庭影院",时来运转
+#EXTINF:-1 tvg-name="时来运转" tvg-logo= group-title="🏠家庭影院",时来运转
 https://vip.ffzy-play7.com/20221209/9156_396eac04/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="老虎煞星" tvg-logo="https://live.fanmingming.com/tv/老虎煞星.png" group-title="🏠家庭影院",老虎煞星
+#EXTINF:-1 tvg-name="老虎煞星" tvg-logo= group-title="🏠家庭影院",老虎煞星
 https://vip.ffzy-play7.com/20221128/7611_ae4536d6/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="老豆唔怕多" tvg-logo="https://live.fanmingming.com/tv/老豆唔怕多.png" group-title="🏠家庭影院",老豆唔怕多
+#EXTINF:-1 tvg-name="老豆唔怕多" tvg-logo= group-title="🏠家庭影院",老豆唔怕多
 https://vip.ffzy-play7.com/20221207/8412_115a031f/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="奇谋妙计五福星" tvg-logo="https://live.fanmingming.com/tv/奇谋妙计五福星.png" group-title="🏠家庭影院",奇谋妙计五福星
+#EXTINF:-1 tvg-name="奇谋妙计五福星" tvg-logo= group-title="🏠家庭影院",奇谋妙计五福星
 https://vip.ffzy-play7.com/20221115/4730_a7515224/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="最佳福星" tvg-logo="https://live.fanmingming.com/tv/最佳福星.png" group-title="🏠家庭影院",最佳福星
+#EXTINF:-1 tvg-name="最佳福星" tvg-logo= group-title="🏠家庭影院",最佳福星
 https://vip.ffzy-play7.com/20221208/9011_404faaa6/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="一触即发" tvg-logo="https://live.fanmingming.com/tv/一触即发.png" group-title="🏠家庭影院",一触即发
+#EXTINF:-1 tvg-name="一触即发" tvg-logo= group-title="🏠家庭影院",一触即发
 https://v9.dious.cc/20231127/DarqmL9B/index.m3u8
-#EXTINF:-1 tvg-name="灵幻先生" tvg-logo="https://live.fanmingming.com/tv/灵幻先生.png" group-title="🏠家庭影院",灵幻先生
+#EXTINF:-1 tvg-name="灵幻先生" tvg-logo= group-title="🏠家庭影院",灵幻先生
 https://vip.ffzy-play7.com/20221115/4538_ddf6020e/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="肥龙过江" tvg-logo="https://live.fanmingming.com/tv/肥龙过江.png" group-title="🏠家庭影院",肥龙过江
+#EXTINF:-1 tvg-name="肥龙过江" tvg-logo= group-title="🏠家庭影院",肥龙过江
 https://vip.ffzy-online.com/20221017/910_1576b6c4/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="富贵兵团" tvg-logo="https://live.fanmingming.com/tv/富贵兵团.png" group-title="🏠家庭影院",富贵兵团
+#EXTINF:-1 tvg-name="富贵兵团" tvg-logo= group-title="🏠家庭影院",富贵兵团
 https://vip.ffzy-play7.com/20221209/9048_80e2a1cb/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="瘦虎肥龙" tvg-logo="https://live.fanmingming.com/tv/瘦虎肥龙.png" group-title="🏠家庭影院",瘦虎肥龙
+#EXTINF:-1 tvg-name="瘦虎肥龙" tvg-logo= group-title="🏠家庭影院",瘦虎肥龙
 https://vip.ffzy-play7.com/20230119/11999_b647b4d4/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="恶战" tvg-logo="https://live.fanmingming.com/tv/恶战.png" group-title="🏠家庭影院",恶战
+#EXTINF:-1 tvg-name="恶战" tvg-logo= group-title="🏠家庭影院",恶战
 https://vip.ffzy-play7.com/20221028/461_a812e9e0/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="无面俾" tvg-logo="https://live.fanmingming.com/tv/无面俾.png" group-title="🏠家庭影院",无面俾
+#EXTINF:-1 tvg-name="无面俾" tvg-logo= group-title="🏠家庭影院",无面俾
 https://vip.ffzy-play7.com/20230422/22713_000cbfc7/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="林世荣" tvg-logo="https://live.fanmingming.com/tv/林世荣.png" group-title="🏠家庭影院",林世荣
+#EXTINF:-1 tvg-name="林世荣" tvg-logo= group-title="🏠家庭影院",林世荣
 https://vip.ffzy-play7.com/20221209/9096_70ae66c7/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="富贵列车" tvg-logo="https://live.fanmingming.com/tv/富贵列车.png" group-title="🏠家庭影院",富贵列车
+#EXTINF:-1 tvg-name="富贵列车" tvg-logo= group-title="🏠家庭影院",富贵列车
 https://vip.ffzy-play7.com/20221206/8232_7462fce8/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="大千世界" tvg-logo="https://live.fanmingming.com/tv/大千世界.png" group-title="🏠家庭影院",大千世界
+#EXTINF:-1 tvg-name="大千世界" tvg-logo= group-title="🏠家庭影院",大千世界
 https://vip.ffzy-play7.com/20221208/8558_afd6760b/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="李小龙的生与死" tvg-logo="https://live.fanmingming.com/tv/李小龙的生与死.png" group-title="🏠家庭影院",李小龙的生与死
+#EXTINF:-1 tvg-name="李小龙的生与死" tvg-logo= group-title="🏠家庭影院",李小龙的生与死
 https://vip.ffzy-play7.com/20221128/7616_58d018a9/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="我的特工爷爷" tvg-logo="https://live.fanmingming.com/tv/我的特工爷爷.png" group-title="🏠家庭影院",我的特工爷爷
+#EXTINF:-1 tvg-name="我的特工爷爷" tvg-logo= group-title="🏠家庭影院",我的特工爷爷
 https://vip.ffzy-play7.com/20221106/1991_83a8af20/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="阿金" tvg-logo="https://live.fanmingming.com/tv/阿金.png" group-title="🏠家庭影院",阿金
+#EXTINF:-1 tvg-name="阿金" tvg-logo= group-title="🏠家庭影院",阿金
 https://vip.ffzy-play7.com/20230510/24405_1c0593ea/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="猛龙" tvg-logo="https://live.fanmingming.com/tv/猛龙.png" group-title="🏠家庭影院",猛龙
+#EXTINF:-1 tvg-name="猛龙" tvg-logo= group-title="🏠家庭影院",猛龙
 https://vip.ffzy-play7.com/20221224/9706_ae656965/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="过埠新娘" tvg-logo="https://live.fanmingming.com/tv/过埠新娘.png" group-title="🏠家庭影院",过埠新娘
+#EXTINF:-1 tvg-name="过埠新娘" tvg-logo= group-title="🏠家庭影院",过埠新娘
 https://vip.ffzy-play7.com/20221207/8367_8b01519b/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="如珠如宝的人生" tvg-logo="https://live.fanmingming.com/tv/如珠如宝的人生.png" group-title="🏠家庭影院",如珠如宝的人生
+#EXTINF:-1 tvg-name="如珠如宝的人生" tvg-logo= group-title="🏠家庭影院",如珠如宝的人生
 https://vip.ffzy-play7.com/20230103/10938_2f52e231/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="猫头鹰与小飞象" tvg-logo="https://live.fanmingming.com/tv/猫头鹰与小飞象.png" group-title="🏠家庭影院",猫头鹰与小飞象
+#EXTINF:-1 tvg-name="猫头鹰与小飞象" tvg-logo= group-title="🏠家庭影院",猫头鹰与小飞象
 https://vip.ffzy-play7.com/20221209/9106_020c2718/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="标错参" tvg-logo="https://live.fanmingming.com/tv/标错参.png" group-title="🏠家庭影院",标错参
+#EXTINF:-1 tvg-name="标错参" tvg-logo= group-title="🏠家庭影院",标错参
 https://vip.ffzy-play7.com/20221115/4423_ec99f147/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="醒目仔蛊惑招" tvg-logo="https://live.fanmingming.com/tv/醒目仔蛊惑招.png" group-title="🏠家庭影院",醒目仔蛊惑招
+#EXTINF:-1 tvg-name="醒目仔蛊惑招" tvg-logo= group-title="🏠家庭影院",醒目仔蛊惑招
 https://vip.ffzy-play7.com/20221227/10014_ac5cb8a8/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="鬼流星" tvg-logo="https://live.fanmingming.com/tv/鬼流星.png" group-title="🏠家庭影院",鬼流星
+#EXTINF:-1 tvg-name="鬼流星" tvg-logo= group-title="🏠家庭影院",鬼流星
 https://vip.ffzy-play7.com/20221128/7528_c67067f3/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="搏命单刀夺命枪" tvg-logo="https://live.fanmingming.com/tv/搏命单刀夺命枪.png" group-title="🏠家庭影院",搏命单刀夺命枪
+#EXTINF:-1 tvg-name="搏命单刀夺命枪" tvg-logo= group-title="🏠家庭影院",搏命单刀夺命枪
 https://vip.ffzy-play7.com/20221208/8546_fa0622b4/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="甩牙老虎" tvg-logo="https://live.fanmingming.com/tv/甩牙老虎.png" group-title="🏠家庭影院",甩牙老虎
+#EXTINF:-1 tvg-name="甩牙老虎" tvg-logo= group-title="🏠家庭影院",甩牙老虎
 https://vip.ffzy-play7.com/20221231/10559_1f62509a/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="鳄潭群英会" tvg-logo="https://live.fanmingming.com/tv/鳄潭群英会.png" group-title="🏠家庭影院",鳄潭群英会
+#EXTINF:-1 tvg-name="鳄潭群英会" tvg-logo= group-title="🏠家庭影院",鳄潭群英会
 https://vip.ffzy-play7.com/20221228/10089_77f8bcef/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="没有小鸟的天空" tvg-logo="https://live.fanmingming.com/tv/没有小鸟的天空.png" group-title="🏠家庭影院",没有小鸟的天空
+#EXTINF:-1 tvg-name="没有小鸟的天空" tvg-logo= group-title="🏠家庭影院",没有小鸟的天空
 https://vip.ffzy-play7.com/20221113/4138_27357f3c/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="金装武术电影大全" tvg-logo="https://live.fanmingming.com/tv/金装武术电影大全.png" group-title="🏠家庭影院",金装武术电影大全
+#EXTINF:-1 tvg-name="金装武术电影大全" tvg-logo= group-title="🏠家庭影院",金装武术电影大全
 https://vip.ffzy-play7.com/20230512/24614_d66a3f5d/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="电视剧频道1" tvg-logo= group-title="电视剧轮播",电视剧频道1
+http://zby.xjqxz.top/dsdsj1/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道2" tvg-logo= group-title="电视剧轮播",电视剧频道2
+http://zby.xjqxz.top/dsdsj2/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道3" tvg-logo= group-title="电视剧轮播",电视剧频道3
+http://zby.xjqxz.top/dsdsj3/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道4" tvg-logo= group-title="电视剧轮播",电视剧频道4
+http://zby.xjqxz.top/gzwxj/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道5" tvg-logo= group-title="电视剧轮播",电视剧频道5
+http://zby.xjqxz.top/gzgdj/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道6" tvg-logo= group-title="电视剧轮播",电视剧频道6
+http://zby.xjqxz.top/gzdsj1/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道7" tvg-logo= group-title="电视剧轮播",电视剧频道7
+http://zby.xjqxz.top/gzdsj2/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道8" tvg-logo= group-title="电视剧轮播",电视剧频道8
+http://zby.xjqxz.top/gzdsj3/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道9" tvg-logo= group-title="电视剧轮播",电视剧频道9
+http://zby.xjqxz.top/gzdsj4/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道10" tvg-logo= group-title="电视剧轮播",电视剧频道10
+http://zby.xjqxz.top/gzdsj5/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道11" tvg-logo= group-title="电视剧轮播",电视剧频道11
+http://zby.xjqxz.top/kzzypd2/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道12" tvg-logo= group-title="电视剧轮播",电视剧频道12
+http://zby.xjqxz.top/kzzypd/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道13" tvg-logo= group-title="电视剧轮播",电视剧频道13
+http://zby.xjqxz.top/dzzypd/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道14" tvg-logo= group-title="电视剧轮播",电视剧频道14
+http://zby.xjqxz.top/dzzypd2/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道15" tvg-logo= group-title="电视剧轮播",电视剧频道15
+http://zby.xjqxz.top/dzzypd3/live.m3u8
+#EXTINF:-1 tvg-name="电视剧频道16" tvg-logo= group-title="电视剧轮播",电视剧频道16
+http://jiaojirentv.top/2020/dy.php?id=4549169
+#EXTINF:-1 tvg-name="电视剧频道17" tvg-logo= group-title="电视剧轮播",电视剧频道17
+http://jiaojirentv.top/2020/dy.php?id=7623292
+#EXTINF:-1 tvg-name="我的前半生" tvg-logo= group-title="电视剧轮播",我的前半生
+http://jiaojirentv.top/2020/yy.php?id=1382735564
+#EXTINF:-1 tvg-name="我的体育老师" tvg-logo= group-title="电视剧轮播",我的体育老师
+http://jiaojirentv.top/2020/yy.php?id=1382745169
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-logo= group-title="电视剧轮播",笑傲江湖
+http://jiaojirentv.top/2020/yy.php?id=1354282410
+#EXTINF:-1 tvg-name="少年歌行" tvg-logo= group-title="电视剧轮播",少年歌行
+http://jiaojirentv.top/2020/yy.php?id=1354806550
+#EXTINF:-1 tvg-name="伪装者" tvg-logo= group-title="电视剧轮播",伪装者
+http://jiaojirentv.top/2020/yy.php?id=1354936244
+#EXTINF:-1 tvg-name="二炮手" tvg-logo= group-title="电视剧轮播",二炮手
+http://jiaojirentv.top/2020/yy.php?id=1354930964
+#EXTINF:-1 tvg-name="风筝" tvg-logo= group-title="电视剧轮播",风筝
+http://jiaojirentv.top/2020/yy.php?id=1354931585
+#EXTINF:-1 tvg-name="勇敢的心" tvg-logo= group-title="电视剧轮播",勇敢的心
+http://jiaojirentv.top/2020/yy.php?id=1354744544
+#EXTINF:-1 tvg-name="封神榜" tvg-logo= group-title="电视剧轮播",封神榜
+http://jiaojirentv.top/2020/yy.php?id=1353426319
+#EXTINF:-1 tvg-name="济公游记" tvg-logo= group-title="电视剧轮播",济公游记
+http://jiaojirentv.top/2020/yy.php?id=1355265814
+#EXTINF:-1 tvg-name="宰相刘罗锅" tvg-logo= group-title="电视剧轮播",宰相刘罗锅
+http://jiaojirentv.top/2020/yy.php?id=1382745191
+#EXTINF:-1 tvg-name="武林外传" tvg-logo= group-title="电视剧轮播",武林外传
+http://jiaojirentv.top/2020/yy.php?id=1355652820
+#EXTINF:-1 tvg-name="包青天（金超群版）" tvg-logo= group-title="电视剧轮播",包青天（金超群版）
+http://jiaojirentv.top/2020/yy.php?id=1356158015
+#EXTINF:-1 tvg-name="少年包青天" tvg-logo= group-title="电视剧轮播",少年包青天
+http://jiaojirentv.top/2020/yy.php?id=38498680
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo= group-title="电视剧轮播",新白娘子传奇
+http://jiaojirentv.top/2020/yy.php?id=1354930969
+#EXTINF:-1 tvg-name="红楼梦" tvg-logo= group-title="电视剧轮播",红楼梦
+http://jiaojirentv.top/2020/yy.php?id=1382745084
+#EXTINF:-1 tvg-name="我爱我家" tvg-logo= group-title="电视剧轮播",我爱我家
+http://jiaojirentv.top/2020/yy.php?id=1382735557
+#EXTINF:-1 tvg-name="神医喜来乐" tvg-logo= group-title="电视剧轮播",神医喜来乐
+http://jiaojirentv.top/2020/yy.php?id=1382714119
+#EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo= group-title="电视剧轮播",铁齿铜牙纪晓岚
+http://jiaojirentv.top/2020/yy.php?id=1354143978
+#EXTINF:-1 tvg-name="射雕英雄传83版" tvg-logo= group-title="电视剧轮播",射雕英雄传83版
+http://jiaojirentv.top/2020/yy.php?id=1354210357
+#EXTINF:-1 tvg-name="天龙八部" tvg-logo= group-title="电视剧轮播",天龙八部
+http://jiaojirentv.top/2020/yy.php?id=1382736855
+#EXTINF:-1 tvg-name="情满四合院" tvg-logo= group-title="电视剧轮播",情满四合院
+http://jiaojirentv.top/2020/yy.php?id=1382735541
+#EXTINF:-1 tvg-name="火蓝刀锋" tvg-logo= group-title="电视剧轮播",火蓝刀锋
+http://jiaojirentv.top/2020/yy.php?id=1382737892
+#EXTINF:-1 tvg-name="短剧轮播" tvg-logo= group-title="电视剧轮播",短剧轮播
+http://jiaojirentv.top/2020/yy.php?id=1382881708
+#EXTINF:-1 tvg-name="鹊刀门" tvg-logo= group-title="电视剧轮播",鹊刀门
+http://jiaojirentv.top/2020/yy.php?id=1355344777
+#EXTINF:-1 tvg-name="狂飙高清" tvg-logo= group-title="电视剧轮播",狂飙高清
+http://jiaojirentv.top/2020/yy.php?id=1355142167
+#EXTINF:-1 tvg-name="赵本山小品" tvg-logo= group-title="电视剧轮播",赵本山小品
+http://jiaojirentv.top/2020/yy.php?id=1354936217
+#EXTINF:-1 tvg-name="火凤凰" tvg-logo= group-title="电视剧轮播",火凤凰
+http://jiaojirentv.top/2020/yy.php?id=1463088777
+#EXTINF:-1 tvg-name="战狼2" tvg-logo= group-title="电视剧轮播",战狼2
+http://jiaojirentv.top/2020/yy.php?id=1354784284
+#EXTINF:-1 tvg-name="鹿鼎记" tvg-logo= group-title="电视剧轮播",鹿鼎记
+http://jiaojirentv.top/2020/yy.php?id=28265277
+#EXTINF:-1 tvg-name="老三国" tvg-logo= group-title="电视剧轮播",老三国
+http://jiaojirentv.top/2020/yy.php?id=1354930932
+#EXTINF:-1 tvg-name="老三国" tvg-logo= group-title="电视剧轮播",老三国
+http://jiaojirentv.top/2020/yy.php?id=1354936241
+#EXTINF:-1 tvg-name="射雕侠侣" tvg-logo= group-title="电视剧轮播",射雕侠侣
+http://jiaojirentv.top/2020/yy.php?id=1382704651
+#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo= group-title="电视剧轮播",隋唐英雄传
+http://jiaojirentv.top/2020/yy.php?id=1352475619
+#EXTINF:-1 tvg-name="西游记后传" tvg-logo= group-title="电视剧轮播",西游记后传
+http://jiaojirentv.top/2020/yy.php?id=1382736846
+#EXTINF:-1 tvg-name="西游记张卫健" tvg-logo= group-title="电视剧轮播",西游记张卫健
+http://jiaojirentv.top/2020/yy.php?id=1354936155
+#EXTINF:-1 tvg-name="剧集_新三国" tvg-logo= group-title="电视剧轮播",剧集_新三国
+http://jiaojirentv.top/2020/yy.php?id=23512910
+#EXTINF:-1 tvg-name="琅琊榜电视剧" tvg-logo= group-title="电视剧轮播",琅琊榜电视剧
+http://zby.xjqxz.top/lyb/live.m3u8
+#EXTINF:-1 tvg-name="三生三世轮播" tvg-logo= group-title="电视剧轮播",三生三世轮播
+http://zby.xjqxz.top/sssszss/live.m3u8
+#EXTINF:-1 tvg-name="血色浪漫" tvg-logo= group-title="电视剧轮播",血色浪漫
+http://jiaojirentv.top/2020/yy.php?id=1354926676
+#EXTINF:-1 tvg-name="血色浪漫" tvg-logo= group-title="电视剧轮播",血色浪漫
+http://live.nctv.top/6688/yy.php?id=1354926676
+#EXTINF:-1 tvg-name="我和僵尸有个约会" tvg-logo= group-title="电视剧轮播",我和僵尸有个约会
+http://jiaojirentv.top/2020/yy.php?id=1354143966
+#EXTINF:-1 tvg-name="我和僵尸有个约会" tvg-logo= group-title="电视剧轮播",我和僵尸有个约会
+http://live.nctv.top/6688/yy.php?id=1354143966
+#EXTINF:-1 tvg-name="双月之城" tvg-logo= group-title="电视剧轮播",双月之城
+http://jiaojirentv.top/2020/yy.php?id=1382736907
+#EXTINF:-1 tvg-name="双月之城" tvg-logo= group-title="电视剧轮播",双月之城
+http://live.nctv.top/6688/yy.php?id=1382736907
+#EXTINF:-1 tvg-name="放羊的星星" tvg-logo= group-title="电视剧轮播",放羊的星星
+http://jiaojirentv.top/2020/yy.php?id=1355260662
+#EXTINF:-1 tvg-name="放羊的星星" tvg-logo= group-title="电视剧轮播",放羊的星星
+http://live.nctv.top/6688/yy.php?id=1355260662
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo= group-title="电视剧轮播",新白娘子传奇
+http://jiaojirentv.top/2020/yy.php?id=1354490667
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo= group-title="电视剧轮播",新白娘子传奇
+http://live.nctv.top/6688/yy.php?id=1354490667
+#EXTINF:-1 tvg-name="天龙八部" tvg-logo= group-title="电视剧轮播",天龙八部
+http://cdn.jdshipin.com:8880/huya.php?id=23903123
+#EXTINF:-1 tvg-name="伪装者" tvg-logo= group-title="电视剧轮播",伪装者
+http://jiaojirentv.top/2020/yy.php?id=1354936244
+#EXTINF:-1 tvg-name="伪装者" tvg-logo= group-title="电视剧轮播",伪装者
+http://live.nctv.top/6688/yy.php?id=1354936244
+#EXTINF:-1 tvg-name="钟馗传说" tvg-logo= group-title="电视剧轮播",钟馗传说
+http://live.nctv.top/6688/yy.php?id=1382736839
+#EXTINF:-1 tvg-name="钟馗传说" tvg-logo= group-title="电视剧轮播",钟馗传说
+http://jiaojirentv.top/2020/yy.php?id=1382736839
+#EXTINF:-1 tvg-name="粉红女郎" tvg-logo= group-title="电视剧轮播",粉红女郎
+http://jiaojirentv.top/2020/yy.php?id=1354888671
+#EXTINF:-1 tvg-name="粉红女郎" tvg-logo= group-title="电视剧轮播",粉红女郎
+http://live.nctv.top/6688/yy.php?id=1354888671
+#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo= group-title="电视剧轮播",隋唐英雄传
+http://jiaojirentv.top/2020/yy.php?id=1352475619
+#EXTINF:-1 tvg-name="隋唐英雄传" tvg-logo= group-title="电视剧轮播",隋唐英雄传
+http://live.nctv.top/6688/yy.php?id=1352475619
+#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo= group-title="电视剧轮播",仙剑奇侠传
+http://live.nctv.top/6688/yy.php?id=1382749903
+#EXTINF:-1 tvg-name="仙剑奇侠传" tvg-logo= group-title="电视剧轮播",仙剑奇侠传
+http://jiaojirentv.top/2020/yy.php?id=1382749903
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo= group-title="电视剧轮播",新白娘子传奇
+http://jiaojirentv.top/2020/yy.php?id=1354930969
+#EXTINF:-1 tvg-name="新白娘子传奇" tvg-logo= group-title="电视剧轮播",新白娘子传奇
+http://live.nctv.top/6688/yy.php?id=1354930969
+#EXTINF:-1 tvg-name="花千骨" tvg-logo= group-title="电视剧轮播",花千骨
+http://jiaojirentv.top/2020/yy.php?id=1354943110
+#EXTINF:-1 tvg-name="花千骨" tvg-logo= group-title="电视剧轮播",花千骨
+http://live.nctv.top/6688/yy.php?id=1354943110
+#EXTINF:-1 tvg-name="鹊刀门传奇" tvg-logo= group-title="电视剧轮播",鹊刀门传奇
+http://jiaojirentv.top/2020/yy.php?id=1355344777
+#EXTINF:-1 tvg-name="鹊刀门传奇" tvg-logo= group-title="电视剧轮播",鹊刀门传奇
+http://live.nctv.top/6688/yy.php?id=1355344777
+#EXTINF:-1 tvg-name="甄嬛传" tvg-logo= group-title="电视剧轮播",甄嬛传
+http://zby.xjqxz.top/live8/live.m3u8
+#EXTINF:-1 tvg-name="与凤行" tvg-logo= group-title="电视剧轮播",与凤行
+http://cdn.jdshipin.com:8880/huya.php?id=26355866
+#EXTINF:-1 tvg-name="我的体育老师" tvg-logo= group-title="电视剧轮播",我的体育老师
+http://jiaojirentv.top/2020/yy.php?id=1382745169
+#EXTINF:-1 tvg-name="我的体育老师" tvg-logo= group-title="电视剧轮播",我的体育老师
+http://live.nctv.top/6688/yy.php?id=1382745169
+#EXTINF:-1 tvg-name="如果岁月" tvg-logo= group-title="电视剧轮播",如果岁月
+http://jiaojirentv.top/2020/yy.php?id=1382736883
+#EXTINF:-1 tvg-name="如果岁月" tvg-logo= group-title="电视剧轮播",如果岁月
+http://live.nctv.top/6688/yy.php?id=1382736883
+#EXTINF:-1 tvg-name="流金岁月" tvg-logo= group-title="电视剧轮播",流金岁月
+http://jiaojirentv.top/2020/yy.php?id=1382749906
+#EXTINF:-1 tvg-name="流金岁月" tvg-logo= group-title="电视剧轮播",流金岁月
+http://live.nctv.top/6688/yy.php?id=1382749906
+#EXTINF:-1 tvg-name="向风而行" tvg-logo= group-title="电视剧轮播",向风而行
+http://zby.xjqxz.top/xfex/live.m3u8
+#EXTINF:-1 tvg-name="欢乐颂" tvg-logo= group-title="电视剧轮播",欢乐颂
+http://120.77.28.4:8648/douyu.php?id=3756989
+#EXTINF:-1 tvg-name="欢乐颂" tvg-logo= group-title="电视剧轮播",欢乐颂
+http://jiaojirentv.top/2020/dy.php?id=3756989
+#EXTINF:-1 tvg-name="好先生" tvg-logo= group-title="电视剧轮播",好先生
+http://120.77.28.4:8648/douyu.php?id=9650792
+#EXTINF:-1 tvg-name="好先生" tvg-logo= group-title="电视剧轮播",好先生
+http://jiaojirentv.top/2020/dy.php?id=9650792
+#EXTINF:-1 tvg-name="我的前半生" tvg-logo= group-title="电视剧轮播",我的前半生
+http://jiaojirentv.top/2020/yy.php?id=1382735564
+#EXTINF:-1 tvg-name="我的前半生" tvg-logo= group-title="电视剧轮播",我的前半生
+http://live.nctv.top/6688/yy.php?id=1382735564
+#EXTINF:-1 tvg-name="警察荣誉" tvg-logo= group-title="电视剧轮播",警察荣誉
+http://zby.xjqxz.top/live16/live.m3u8
+#EXTINF:-1 tvg-name="火蓝刀锋" tvg-logo= group-title="电视剧轮播",火蓝刀锋
+http://jiaojirentv.top/2020/yy.php?id=1382737892
+#EXTINF:-1 tvg-name="火蓝刀锋" tvg-logo= group-title="电视剧轮播",火蓝刀锋
+http://live.nctv.top/6688/yy.php?id=1382737892
+#EXTINF:-1 tvg-name="二炮手" tvg-logo= group-title="电视剧轮播",二炮手
+http://jiaojirentv.top/2020/yy.php?id=1354930964
+#EXTINF:-1 tvg-name="二炮手" tvg-logo= group-title="电视剧轮播",二炮手
+http://live.nctv.top/6688/yy.php?id=1354930964
+#EXTINF:-1 tvg-name="炮神" tvg-logo= group-title="电视剧轮播",炮神
+http://jiaojirentv.top/2020/yy.php?id=22089862
+#EXTINF:-1 tvg-name="炮神" tvg-logo= group-title="电视剧轮播",炮神
+http://live.nctv.top/6688/yy.php?id=22089862
+#EXTINF:-1 tvg-name="风筝" tvg-logo= group-title="电视剧轮播",风筝
+http://jiaojirentv.top/2020/yy.php?id=1354931585
+#EXTINF:-1 tvg-name="风筝" tvg-logo= group-title="电视剧轮播",风筝
+http://live.nctv.top/6688/yy.php?id=1354931585
+#EXTINF:-1 tvg-name="武林外传" tvg-logo= group-title="电视剧轮播",武林外传
+http://jiaojirentv.top/2020/yy.php?id=1355652820
+#EXTINF:-1 tvg-name="武林外传" tvg-logo= group-title="电视剧轮播",武林外传
+http://live.nctv.top/6688/yy.php?id=1355652820
+#EXTINF:-1 tvg-name="飞虎之潜行极战" tvg-logo= group-title="电视剧轮播",飞虎之潜行极战
+http://live.nctv.top/6688/yy.php?id=1354932420
+#EXTINF:-1 tvg-name="飞虎之潜行极战" tvg-logo= group-title="电视剧轮播",飞虎之潜行极战
+http://jiaojirentv.top/2020/yy.php?id=1354932420
+#EXTINF:-1 tvg-name="天道" tvg-logo= group-title="电视剧轮播",天道
+http://live.nctv.top/6688/yy.php?id=1382735574
+#EXTINF:-1 tvg-name="天道" tvg-logo= group-title="电视剧轮播",天道
+http://jiaojirentv.top/2020/yy.php?id=1382735574
+#EXTINF:-1 tvg-name="大汉天子" tvg-logo= group-title="电视剧轮播",大汉天子
+http://live.nctv.top/6688/yy.php?id=1382749902
+#EXTINF:-1 tvg-name="大汉天子" tvg-logo= group-title="电视剧轮播",大汉天子
+http://jiaojirentv.top/2020/yy.php?id=1382749902
+#EXTINF:-1 tvg-name="封神榜" tvg-logo= group-title="电视剧轮播",封神榜
+http://live.nctv.top/6688/yy.php?id=1353426319
+#EXTINF:-1 tvg-name="封神榜" tvg-logo= group-title="电视剧轮播",封神榜
+http://jiaojirentv.top/2020/yy.php?id=1353426319
+#EXTINF:-1 tvg-name="使徒行者" tvg-logo= group-title="电视剧轮播",使徒行者
+http://cdn.jdshipin.com:8880/huya.php?id=23734256
+#EXTINF:-1 tvg-name="民兵葛二蛋" tvg-logo= group-title="电视剧轮播",民兵葛二蛋
+http://cdn.jdshipin.com:8880/huya.php?id=11602072
+#EXTINF:-1 tvg-name="铁道游击队" tvg-logo= group-title="电视剧轮播",铁道游击队
+http://cdn.jdshipin.com:8880/huya.php?id=11352936
+#EXTINF:-1 tvg-name="勇敢的心" tvg-logo= group-title="电视剧轮播",勇敢的心
+http://cdn.jdshipin.com:8880/huya.php?id=11602037
+#EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo= group-title="电视剧轮播",楚汉骄雄
+http://cdn.jdshipin.com:8880/huya.php?id=23740156
+#EXTINF:-1 tvg-name="康熙王朝" tvg-logo= group-title="电视剧轮播",康熙王朝
+http://cdn.jdshipin.com:8880/huya.php?id=11352940
+#EXTINF:-1 tvg-name="武林外传" tvg-logo= group-title="电视剧轮播",武林外传
+http://cdn.jdshipin.com:8880/huya.php?id=21059598
+#EXTINF:-1 tvg-name="全职高手" tvg-logo= group-title="电视剧轮播",全职高手
+http://cdn.jdshipin.com:8880/huya.php?id=11352901
+#EXTINF:-1 tvg-name="炊事班的故事3" tvg-logo= group-title="电视剧轮播",炊事班的故事3
+http://cdn.jdshipin.com:8880/huya.php?id=19524135
+#EXTINF:-1 tvg-name="杨光的快乐生活" tvg-logo= group-title="电视剧轮播",杨光的快乐生活
+http://cdn.jdshipin.com:8880/huya.php?id=11602085
+#EXTINF:-1 tvg-name="陈情令" tvg-logo= group-title="电视剧轮播",陈情令
+http://cdn.jdshipin.com:8880/huya.php?id=29465862
+#EXTINF:-1 tvg-name="星汉灿烂·月生沧海" tvg-logo= group-title="电视剧轮播",星汉灿烂·月生沧海
+http://cdn.jdshipin.com:8880/huya.php?id=11336591
+#EXTINF:-1 tvg-name="父母爱情" tvg-logo= group-title="电视剧轮播",父母爱情
+http://cdn.jdshipin.com:8880/huya.php?id=11602071
+#EXTINF:-1 tvg-name="长安十二时辰" tvg-logo= group-title="电视剧轮播",长安十二时辰
+http://zby.xjqxz.top/casrsc/live.m3u8
+#EXTINF:-1 tvg-name="狂飙" tvg-logo= group-title="电视剧轮播",狂飙
+http://zby.xjqxz.top/live9/live.m3u8
+#EXTINF:-1 tvg-name="知否知否" tvg-logo= group-title="电视剧轮播",知否知否
+http://zby.xjqxz.top/zfzf/live.m3u8
+#EXTINF:-1 tvg-name="梦华录" tvg-logo= group-title="电视剧轮播",梦华录
+http://zby.xjqxz.top/mhl/live.m3u8
+#EXTINF:-1 tvg-name="云襄传" tvg-logo= group-title="电视剧轮播",云襄传
+http://zby.xjqxz.top/yxz/live.m3u8
+#EXTINF:-1 tvg-name="去有风的地方" tvg-logo= group-title="电视剧轮播",去有风的地方
+http://zby.xjqxz.top/qyfddf/live.m3u8
+#EXTINF:-1 tvg-name="唐朝诡事录" tvg-logo= group-title="电视剧轮播",唐朝诡事录
+http://zby.xjqxz.top/tcgsl/live.m3u8
+#EXTINF:-1 tvg-name="少年歌行" tvg-logo= group-title="电视剧轮播",少年歌行
+http://zby.xjqxz.top/sngx/live.m3u8
+#EXTINF:-1 tvg-name="三体" tvg-logo= group-title="电视剧轮播",三体
+http://zby.xjqxz.top/st/live.m3u8
+#EXTINF:-1 tvg-name="女士的品格" tvg-logo= group-title="电视剧轮播",女士的品格
+http://zby.xjqxz.top/nsdpg/live.m3u8
+#EXTINF:-1 tvg-name="大秦帝国之裂变" tvg-logo= group-title="电视剧轮播",大秦帝国之裂变
+http://zby.xjqxz.top/dqdgzlb/live.m3u8
+#EXTINF:-1 tvg-name="隋唐英雄" tvg-logo= group-title="电视剧轮播",隋唐英雄
+http://zby.xjqxz.top/styx/live.m3u8
+#EXTINF:-1 tvg-name="我不是药神" tvg-logo= group-title="🏠家庭影院",我不是药神
+https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+#EXTINF:-1 tvg-name="让子弹飞" tvg-logo= group-title="🏠家庭影院",让子弹飞
+https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+#EXTINF:-1 tvg-name="经典电影" tvg-logo= group-title="🏠家庭影院",经典电影
+http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="倩女幽魂妖魔道" tvg-logo= group-title="🏠家庭影院",倩女幽魂妖魔道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+#EXTINF:-1 tvg-name="倩女幽魂人间道" tvg-logo= group-title="🏠家庭影院",倩女幽魂人间道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+#EXTINF:-1 tvg-name="倩女幽魂道道道" tvg-logo= group-title="🏠家庭影院",倩女幽魂道道道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+#EXTINF:-1 tvg-name="龙门飞甲" tvg-logo= group-title="🏠家庭影院",龙门飞甲
+http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+#EXTINF:-1 tvg-name="寒战1" tvg-logo= group-title="🏠家庭影院",寒战1
+https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+#EXTINF:-1 tvg-name="人在囧途" tvg-logo= group-title="🏠家庭影院",人在囧途
+https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+#EXTINF:-1 tvg-name="人在囧途" tvg-logo= group-title="🏠家庭影院",人在囧途
+http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
+#EXTINF:-1 tvg-name="人在囧途之泰囧" tvg-logo= group-title="🏠家庭影院",人在囧途之泰囧
+https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+#EXTINF:-1 tvg-name="人在囧途之港囧" tvg-logo= group-title="🏠家庭影院",人在囧途之港囧
+https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+#EXTINF:-1 tvg-name="人在囧途之囧妈" tvg-logo= group-title="🏠家庭影院",人在囧途之囧妈
+https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
+#EXTINF:-1 tvg-name="无间道1" tvg-logo= group-title="🏠家庭影院",无间道1
+https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
+#EXTINF:-1 tvg-name="拆弹专家1" tvg-logo= group-title="🏠家庭影院",拆弹专家1
+https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+#EXTINF:-1 tvg-name="拆弹专家2" tvg-logo= group-title="🏠家庭影院",拆弹专家2
+https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+#EXTINF:-1 tvg-name="卧虎藏龙" tvg-logo= group-title="🏠家庭影院",卧虎藏龙
+https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
+#EXTINF:-1 tvg-name="满城尽带黄金甲" tvg-logo= group-title="🏠家庭影院",满城尽带黄金甲
+https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8
+#EXTINF:-1 tvg-name="绝地战警生死与共" tvg-logo= group-title="🏠家庭影院",绝地战警生死与共
+https://v3.tlkqc.com/wjv3/202406/12/gFunRiZvHb75/video/index.m3u8
+#EXTINF:-1 tvg-name="狄仁杰之天宫蜃楼" tvg-logo= group-title="🏠家庭影院",狄仁杰之天宫蜃楼
+https://v9.tlkqc.com/wjv9/202408/06/p7712pXCuV81/video/index.m3u8
+#EXTINF:-1 tvg-name="鬼舞村诅咒起源" tvg-logo= group-title="🏠家庭影院",鬼舞村诅咒起源
+https://v12.tlkqc.com/wjv12/202408/04/UJGTrrEASp84/video/index.m3u8
+#EXTINF:-1 tvg-name="魔戒首部曲魔戒现身" tvg-logo= group-title="🏠家庭影院",魔戒首部曲魔戒现身
+https://vip.ffzy-play7.com/20230411/22167_a385d245/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="魔戒二部曲双城奇谋" tvg-logo= group-title="🏠家庭影院",魔戒二部曲双城奇谋
+https://vip.ffzy-play7.com/20221127/7286_672b6ffa/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="重温经典频道" tvg-logo= group-title="🏠家庭影院",重温经典频道
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-name="星空卫视频道" tvg-logo= group-title="🏠家庭影院",星空卫视频道
+http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="醉拳" tvg-logo= group-title="🏠家庭影院",醉拳
+https://vip.ffzy-play7.com/20230202/13070_b42acba9/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="警察故事III超级警察" tvg-logo= group-title="🏠家庭影院",警察故事III超级警察
+https://vip.ffzy-play7.com/20221206/8266_97359a93/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="总是有爱在隔离" tvg-logo= group-title="🏠家庭影院",总是有爱在隔离
+https://vip.ffzy-play7.com/20230509/24402_8dc9f535/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="攀登者" tvg-logo= group-title="🏠家庭影院",攀登者
+https://vip.ffzy-play7.com/20221111/3124_7cca31fc/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="龙腾虎跃" tvg-logo= group-title="🏠家庭影院",龙腾虎跃
+https://vip.ffzy-play7.com/20221117/5171_c2d4c959/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="城市猎人" tvg-logo= group-title="🏠家庭影院",城市猎人
+https://vip.ffzy-play7.com/20230112/11075_f5a96711/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="寻找成龙" tvg-logo= group-title="🏠家庭影院",寻找成龙
+https://vip.ffzy-play7.com/20221127/7273_4ce701a1/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="新宿事件" tvg-logo= group-title="🏠家庭影院",新宿事件
+https://vip.ffzy-play7.com/20230314/18148_991eeb8a/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="龙牌之谜" tvg-logo= group-title="🏠家庭影院",龙牌之谜
+https://vip.ffzy-play7.com/20221111/3068_d0d6c55d/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="玻璃樽" tvg-logo= group-title="🏠家庭影院",玻璃樽
+https://vip.ffzy-play7.com/20221112/3750_97a1bebc/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="快餐车" tvg-logo= group-title="🏠家庭影院",快餐车
+https://vip.ffzy-play7.com/20221115/4694_6f7f88ac/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="龙少爷" tvg-logo= group-title="🏠家庭影院",龙少爷
+https://vip.ffzy-play2.com/20240324/60020_c93c2845/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="大兵小将" tvg-logo= group-title="🏠家庭影院",大兵小将
+https://vip.ffzy-play7.com/20230101/10714_0de1384d/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="铁道飞虎" tvg-logo= group-title="🏠家庭影院",铁道飞虎
+https://vip.ffzy-play7.com/20221124/6781_bb0a18b1/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="秦香莲" tvg-logo= group-title="🏠家庭影院",秦香莲
+https://vip.ffzy-play7.com/20230406/21188_34e1c588/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="超级计划" tvg-logo= group-title="🏠家庭影院",超级计划
+https://vip.ffzy-play7.com/20221112/3764_fd2b007a/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="上海正午" tvg-logo= group-title="🏠家庭影院",上海正午
+https://vip.ffzy-play7.com/20230130/12799_c0437a87/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="西藏小子" tvg-logo= group-title="🏠家庭影院",西藏小子
+https://vip.ffzy-play7.com/20221224/9675_24c6d3c7/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="风雨双流星" tvg-logo= group-title="🏠家庭影院",风雨双流星
+https://vip.ffzy-play7.com/20221128/7518_67bd51e9/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="师弟出马" tvg-logo= group-title="🏠家庭影院",师弟出马
+https://vip.ffzy-play7.com/20221115/4764_aba20ecc/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="上海正午2：上海骑士" tvg-logo= group-title="🏠家庭影院",上海正午2：上海骑士
+https://vip.ffzy-play7.com/20230131/12903_9b7878c4/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="警察故事（续集）" tvg-logo= group-title="🏠家庭影院",警察故事（续集）
+https://vip.ffzy-play7.com/20221115/4687_1e3f6f8c/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="环游地球八十天" tvg-logo= group-title="🏠家庭影院",环游地球八十天
+https://vip.ffzy-play7.com/20221206/8255_9aa98c99/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="一个好人" tvg-logo= group-title="🏠家庭影院",一个好人
+https://vip.ffzy-play7.com/20221129/7713_3a3bd3ff/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="忠烈图" tvg-logo= group-title="🏠家庭影院",忠烈图
+https://vip.ffzy-play7.com/20221228/10158_15a3aab7/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="剑花烟雨江南" tvg-logo= group-title="🏠家庭影院",剑花烟雨江南
+https://vip.ffzy-play7.com/20221128/7570_1dca45cc/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="人吓人" tvg-logo= group-title="🏠家庭影院",人吓人
+https://vip.ffzy-play7.com/20230131/12897_66998969/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="东方秃鹰" tvg-logo= group-title="🏠家庭影院",东方秃鹰
+https://vip.ffzy-play7.com/20221209/9044_d3e0dbd4/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="龙争虎斗" tvg-logo= group-title="🏠家庭影院",龙争虎斗
+https://vip.ffzy-play7.com/20221228/10118_7f88f7bd/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="大侠胡金铨" tvg-logo= group-title="🏠家庭影院",大侠胡金铨
+https://vip.ffzy-play7.com/20230503/23773_a16c59d6/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="败家仔" tvg-logo= group-title="🏠家庭影院",败家仔
+https://vip.ffzy-play7.com/20221207/8332_71c25e63/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="鬼打鬼" tvg-logo= group-title="🏠家庭影院",鬼打鬼
+https://vip.ffzy-play7.com/20221115/4476_05997c13/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="叶问2：宗师传奇" tvg-logo= group-title="🏠家庭影院",叶问2：宗师传奇
+https://vip.ffzy-play2.com/20221127/1618_b175df0e/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="杀破狼" tvg-logo= group-title="🏠家庭影院",杀破狼
+https://vip.ffzy-play.com/20221018/1977_3ef7fe7e/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="锦衣卫" tvg-logo= group-title="🏠家庭影院",锦衣卫
+https://vip.ffzy-online2.com/20230531/38608_ad0ee149/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="花飞满城春" tvg-logo= group-title="🏠家庭影院",花飞满城春
+https://vip.ffzy-play7.com/20221128/7557_3a9a605d/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="A计划" tvg-logo= group-title="🏠家庭影院",A计划
+https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="战神传说" tvg-logo= group-title="🏠家庭影院",战神传说
+https://vip.ffzy-play7.com/20221129/7734_53205031/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="夏日福星" tvg-logo= group-title="🏠家庭影院",夏日福星
+https://vip.ffzy-play7.com/20230118/11937_84244e52/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="老虎田鸡" tvg-logo= group-title="🏠家庭影院",老虎田鸡
+https://vip.ffzy-play7.com/20221224/9583_f95a6383/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="提防小手" tvg-logo= group-title="🏠家庭影院",提防小手
+https://vip.ffzy-play7.com/20221209/9164_1db5b92a/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="运财五福星" tvg-logo= group-title="🏠家庭影院",运财五福星
+https://vip.ffzy-play7.com/20221208/8988_21580eb4/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="豪门夜宴" tvg-logo= group-title="🏠家庭影院",豪门夜宴
+https://vip.ffzy-play.com/20221204/29458_3909f6d0/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="蜀山：新蜀山剑侠" tvg-logo= group-title="🏠家庭影院",蜀山：新蜀山剑侠
+https://vip.ffzy-play7.com/20221115/4566_fdf3285b/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="密宗威龙" tvg-logo= group-title="🏠家庭影院",密宗威龙
+https://vip.ffzy-play7.com/20221112/3607_e49d9e93/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="龙的心" tvg-logo= group-title="🏠家庭影院",龙的心
+https://vip.ffzy-play7.com/20221115/4539_8b9150f6/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="忠义群英" tvg-logo= group-title="🏠家庭影院",忠义群英
+https://vip.ffzy-play7.com/20221116/4836_e3063898/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="鬼咬鬼" tvg-logo= group-title="🏠家庭影院",鬼咬鬼
+https://vip.ffzy-play7.com/20221208/8822_26a70529/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="鬼马双星" tvg-logo= group-title="🏠家庭影院",鬼马双星
+https://vip.ffzy-play7.com/20221206/8062_9ab4de18/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="金衣大侠" tvg-logo= group-title="🏠家庭影院",金衣大侠
+https://vip.ffzy-play7.com/20221128/7587_339701b6/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="浪漫风暴" tvg-logo= group-title="🏠家庭影院",浪漫风暴
+https://vip.ffzy-play7.com/20221129/7668_624e7734/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="死亡塔" tvg-logo= group-title="🏠家庭影院",死亡塔
+https://vip.ffzy-play7.com/20221117/5079_56e2cb5b/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="飞燕金刀" tvg-logo= group-title="🏠家庭影院",飞燕金刀
+https://vip.ffzy-play7.com/20221208/8580_cc26d2cb/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="黄飞鸿少林拳" tvg-logo= group-title="🏠家庭影院",黄飞鸿少林拳
+https://vip.ffzy-play7.com/20221128/7561_64e57fa4/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="黄飞鸿之英雄有梦" tvg-logo= group-title="🏠家庭影院",黄飞鸿之英雄有梦
+https://vip.ffzy-online.com/20221017/1065_6fccd535/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="八两金" tvg-logo= group-title="🏠家庭影院",八两金
+https://vip.ffzy-play7.com/20230101/10670_06ccd764/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="时来运转" tvg-logo= group-title="🏠家庭影院",时来运转
+https://vip.ffzy-play7.com/20221209/9156_396eac04/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="老虎煞星" tvg-logo= group-title="🏠家庭影院",老虎煞星
+https://vip.ffzy-play7.com/20221128/7611_ae4536d6/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="老豆唔怕多" tvg-logo= group-title="🏠家庭影院",老豆唔怕多
+https://vip.ffzy-play7.com/20221207/8412_115a031f/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="奇谋妙计五福星" tvg-logo= group-title="🏠家庭影院",奇谋妙计五福星
+https://vip.ffzy-play7.com/20221115/4730_a7515224/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="最佳福星" tvg-logo= group-title="🏠家庭影院",最佳福星
+https://vip.ffzy-play7.com/20221208/9011_404faaa6/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="一触即发" tvg-logo= group-title="🏠家庭影院",一触即发
+https://v9.dious.cc/20231127/DarqmL9B/index.m3u8
+#EXTINF:-1 tvg-name="灵幻先生" tvg-logo= group-title="🏠家庭影院",灵幻先生
+https://vip.ffzy-play7.com/20221115/4538_ddf6020e/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="肥龙过江" tvg-logo= group-title="🏠家庭影院",肥龙过江
+https://vip.ffzy-online.com/20221017/910_1576b6c4/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="富贵兵团" tvg-logo= group-title="🏠家庭影院",富贵兵团
+https://vip.ffzy-play7.com/20221209/9048_80e2a1cb/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="瘦虎肥龙" tvg-logo= group-title="🏠家庭影院",瘦虎肥龙
+https://vip.ffzy-play7.com/20230119/11999_b647b4d4/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="恶战" tvg-logo= group-title="🏠家庭影院",恶战
+https://vip.ffzy-play7.com/20221028/461_a812e9e0/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="无面俾" tvg-logo= group-title="🏠家庭影院",无面俾
+https://vip.ffzy-play7.com/20230422/22713_000cbfc7/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="林世荣" tvg-logo= group-title="🏠家庭影院",林世荣
+https://vip.ffzy-play7.com/20221209/9096_70ae66c7/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="富贵列车" tvg-logo= group-title="🏠家庭影院",富贵列车
+https://vip.ffzy-play7.com/20221206/8232_7462fce8/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="大千世界" tvg-logo= group-title="🏠家庭影院",大千世界
+https://vip.ffzy-play7.com/20221208/8558_afd6760b/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="李小龙的生与死" tvg-logo= group-title="🏠家庭影院",李小龙的生与死
+https://vip.ffzy-play7.com/20221128/7616_58d018a9/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="我的特工爷爷" tvg-logo= group-title="🏠家庭影院",我的特工爷爷
+https://vip.ffzy-play7.com/20221106/1991_83a8af20/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="阿金" tvg-logo= group-title="🏠家庭影院",阿金
+https://vip.ffzy-play7.com/20230510/24405_1c0593ea/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="猛龙" tvg-logo= group-title="🏠家庭影院",猛龙
+https://vip.ffzy-play7.com/20221224/9706_ae656965/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="过埠新娘" tvg-logo= group-title="🏠家庭影院",过埠新娘
+https://vip.ffzy-play7.com/20221207/8367_8b01519b/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="如珠如宝的人生" tvg-logo= group-title="🏠家庭影院",如珠如宝的人生
+https://vip.ffzy-play7.com/20230103/10938_2f52e231/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="猫头鹰与小飞象" tvg-logo= group-title="🏠家庭影院",猫头鹰与小飞象
+https://vip.ffzy-play7.com/20221209/9106_020c2718/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="标错参" tvg-logo= group-title="🏠家庭影院",标错参
+https://vip.ffzy-play7.com/20221115/4423_ec99f147/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="醒目仔蛊惑招" tvg-logo= group-title="🏠家庭影院",醒目仔蛊惑招
+https://vip.ffzy-play7.com/20221227/10014_ac5cb8a8/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="鬼流星" tvg-logo= group-title="🏠家庭影院",鬼流星
+https://vip.ffzy-play7.com/20221128/7528_c67067f3/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="搏命单刀夺命枪" tvg-logo= group-title="🏠家庭影院",搏命单刀夺命枪
+https://vip.ffzy-play7.com/20221208/8546_fa0622b4/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="甩牙老虎" tvg-logo= group-title="🏠家庭影院",甩牙老虎
+https://vip.ffzy-play7.com/20221231/10559_1f62509a/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="鳄潭群英会" tvg-logo= group-title="🏠家庭影院",鳄潭群英会
+https://vip.ffzy-play7.com/20221228/10089_77f8bcef/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="没有小鸟的天空" tvg-logo= group-title="🏠家庭影院",没有小鸟的天空
+https://vip.ffzy-play7.com/20221113/4138_27357f3c/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="金装武术电影大全" tvg-logo= group-title="🏠家庭影院",金装武术电影大全
+https://vip.ffzy-play7.com/20230512/24614_d66a3f5d/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="上视哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/上视哈哈炫动.png" group-title="少儿频道",上视哈哈炫动
+http://39.134.136.161:6610/000000001000/1000000002000000172/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000000172
+#EXTINF:-1 tvg-name="上视哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/上视哈哈炫动.png" group-title="少儿频道",上视哈哈炫动
+http://39.134.136.161:6610/000000001000/5101217554085087042/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5101217554085087042
+#EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://live.fanmingming.cn/tv/少儿动漫.png" group-title="少儿频道",少儿动漫
+http://39.134.136.161:6610/000000001000/2000000004000000003/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000003
+#EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://live.fanmingming.cn/tv/少儿动漫.png" group-title="少儿频道",少儿动漫
+http://39.134.136.161:6610/000000001000/8145334647720731271/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=8145334647720731271
+#EXTINF:-1 tvg-name="炫动3D" tvg-logo="https://live.fanmingming.cn/tv/炫动3D.png" group-title="少儿频道",炫动3D
+http://39.134.136.161:6610/000000001000/2000000004000000012/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000012
+#EXTINF:-1 tvg-name="炫动3D" tvg-logo="https://live.fanmingming.cn/tv/炫动3D.png" group-title="少儿频道",炫动3D
+http://39.134.136.161:6610/000000001000/6000000003000000558/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000003000000558
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.cn/tv/卡酷动画.png" group-title="少儿频道",卡酷动画
+http://39.134.136.161:6610/000000001000/7947519469029992015/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=7947519469029992015
+#EXTINF:-1 tvg-name="漫游世界" tvg-logo="https://live.fanmingming.cn/tv/漫游世界.png" group-title="少儿频道",漫游世界
+http://39.134.136.161:6610/000000001000/2000000004000000017/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000017
+#EXTINF:-1 tvg-name="漫游世界" tvg-logo="https://live.fanmingming.cn/tv/漫游世界.png" group-title="少儿频道",漫游世界
+http://39.134.136.161:6610/000000001000/6000000003000028434/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000003000028434
+#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/江苏优漫卡通.png" group-title="少儿频道",江苏优漫卡通
+http://39.134.136.161:6610/000000001000/1000000002000010063/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000010063
+#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/江苏优漫卡通.png" group-title="少儿频道",江苏优漫卡通
+http://39.134.136.161:6610/000000001000/5574405527570022182/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5574405527570022182
+#EXTINF:-1 tvg-name="江苏优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/江苏优漫卡通.png" group-title="少儿频道",江苏优漫卡通
+http://39.134.136.161:6610/000000001000/6000000003000030492/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000003000030492
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/广东嘉佳卡通.png" group-title="少儿频道",广东嘉佳卡通
+http://39.134.136.161:6610/000000001000/1000000002000025964/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000025964
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/广东嘉佳卡通.png" group-title="少儿频道",广东嘉佳卡通
+http://39.134.136.161:6610/000000001000/6000000003000025508/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000003000025508
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/湖南金鹰卡通.png" group-title="少儿频道",湖南金鹰卡通
+http://39.134.136.161:6610/000000001000/1000000002000016601/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000016601
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/湖南金鹰卡通.png" group-title="少儿频道",湖南金鹰卡通
+http://39.134.136.161:6610/000000001000/5000000006000040024/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040024
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/湖南金鹰卡通.png" group-title="少儿频道",湖南金鹰卡通
+http://39.134.136.161:6610/000000001000/5201381050640253101/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=5201381050640253101
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/湖南金鹰卡通.png" group-title="少儿频道",湖南金鹰卡通
+http://39.134.136.161:6610/000000001000/6000000003000016791/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000003000016791
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/湖南金鹰卡通.png" group-title="少儿频道",湖南金鹰卡通
+http://39.134.136.161:6610/000000001000/8919073838942247498/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=8919073838942247498
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/北京卡酷少儿.png" group-title="少儿频道",北京卡酷少儿
+http://39.134.136.161:6610/000000001000/1000000002000002413/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000002413
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/北京卡酷少儿.png" group-title="少儿频道",北京卡酷少儿
+http://39.134.136.161:6610/000000001000/6000000003000002709/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000003000002709
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/北京卡酷少儿.png" group-title="少儿频道",北京卡酷少儿
+http://39.134.136.161:6610/000000001000/7589856436881630561/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=7589856436881630561
+#EXTINF:-1 tvg-name="电子竞技" tvg-logo="https://live.fanmingming.cn/tv/电子竞技.png" group-title="少儿频道",电子竞技
+http://39.134.136.161:6610/000000001000/2000000004000000015/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000015
+#EXTINF:-1 tvg-name="电子竞技" tvg-logo="https://live.fanmingming.cn/tv/电子竞技.png" group-title="少儿频道",电子竞技
+http://39.134.136.161:6610/000000001000/6000000003000011654/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000003000011654
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
 http://39.134.65.5/wh7f454c46tw1733608636_1684221022/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8?icpid=88888888&RTS=1554599506&from=1&hms_devid=4
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
-http://39.130.237.103/wh7f454c46tw2006555521_1631665290/hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225885/index.m3u8?icpid=88888894&RTS=1729937523&from=106&hms_devid=9959&online=1729937523&vqe=3
-#EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://live.fanmingming.com/tv/甘肃.png" group-title="少儿频道",甘肃少儿
-https://hls.gstv.com.cn/49048r/922k96.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江.png" group-title="少儿频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://live.fanmingming.com/tv/南京.png" group-title="少儿频道",南京少儿
-http://106.111.244.47:3000/udp/239.49.0.45:8000
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江.png" group-title="少儿频道",黑龙江少儿
 http://39.134.67.108/PLTV/88888888/224/3221225979/1.m3u8
 #EXTINF:-1 tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西.png" group-title="少儿频道",江西少儿
@@ -4039,10 +4475,6 @@ http://171.34.76.62:808/hls/6/index.m3u8
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://live.fanmingming.com/tv/黑龙江.png" group-title="少儿频道",黑龙江少儿
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古少儿频道" tvg-logo="https://live.fanmingming.com/tv/内蒙古少儿频道.png" group-title="少儿频道",内蒙古少儿频道
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://live.fanmingming.com/tv/龙华卡通.png" group-title="少儿频道",龙华卡通
-http://litv.zapi.us.kg/?id=litv-longturn01
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://live.fanmingming.com/tv/黑龙江文体.png" group-title="🏌体育频道",黑龙江文体
 http://39.134.64.179:6610/PLTV/88888888/224/3221226239/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🏌体育频道",CCTV5
