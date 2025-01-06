@@ -387,6 +387,7 @@ http://106.53.99.30/dl/bjyd.php?id=10
 http://106.53.99.30/dl/bjyd.php?id=11
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺央视频道",CCTV17
 http://106.53.99.30/dl/bjyd.php?id=12
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$可回看
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺央视频道",CCTV2
@@ -1975,6 +1976,84 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://39.135.133.161:80/wh7f454c46tw3613157627_1197904584/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8?icpid=88888888&RTS=1730291317&from=23&hms_devid=1244&online=1730291317&vqe=3
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="🛰卫视频道",重庆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="🛰卫视频道",北京卫视
+http://dsk.cc/php/xxtv.php?id=bjws
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="🛰卫视频道",东方卫视
+http://dsk.cc/php/xxtv.php?id=dfws
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="🛰卫视频道",天津卫视
+http://dsk.cc/php/xxtv.php?id=tjws
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="🛰卫视频道",重庆卫视
+http://dsk.cc/php/xxtv.php?id=cqws
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="🛰卫视频道",黑龙江卫视
+http://dsk.cc/php/xxtv.php?id=hljws
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="🛰卫视频道",吉林卫视
+http://dsk.cc/php/xxtv.php?id=jlws
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="🛰卫视频道",延边卫视
+http://dsk.cc/php/xxtv.php?id=ybws
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="🛰卫视频道",辽宁卫视
+http://dsk.cc/php/xxtv.php?id=lnws
+#EXTINF:-1 tvg-name="内蒙古蒙语" tvg-logo="https://live.fanmingming.cn/tv/内蒙古蒙语.png" group-title="🛰卫视频道",内蒙古蒙语
+http://dsk.cc/php/xxtv.php?id=nmmyws
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="🛰卫视频道",宁夏卫视
+http://dsk.cc/php/xxtv.php?id=nxws
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="🛰卫视频道",甘肃卫视
+http://dsk.cc/php/xxtv.php?id=gsws
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="🛰卫视频道",青海卫视
+http://dsk.cc/php/xxtv.php?id=qhws
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="🛰卫视频道",安多卫视
+http://dsk.cc/php/xxtv.php?id=adws
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="🛰卫视频道",陕西卫视
+http://dsk.cc/php/xxtv.php?id=sxws
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="🛰卫视频道",河北卫视
+http://dsk.cc/php/xxtv.php?id=hbws
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="🛰卫视频道",山西卫视
+http://dsk.cc/php/xxtv.php?id=sxiws
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
+http://dsk.cc/php/xxtv.php?id=sdws
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="🛰卫视频道",安徽卫视
+http://dsk.cc/php/xxtv.php?id=ahws
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="🛰卫视频道",湖北卫视
+http://dsk.cc/php/xxtv.php?id=hubws
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="🛰卫视频道",湖南卫视
+http://dsk.cc/php/xxtv.php?id=hunws
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="🛰卫视频道",江苏卫视
+http://dsk.cc/php/xxtv.php?id=jsws
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
+http://dsk.cc/php/xxtv.php?id=zjws
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="🛰卫视频道",东南卫视
+http://dsk.cc/php/xxtv.php?id=dnws
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="🛰卫视频道",厦门卫视
+http://dsk.cc/php/xxtv.php?id=xmws
+#EXTINF:-1 tvg-name="海峡晚上" tvg-logo="https://live.fanmingming.cn/tv/海峡晚上.png" group-title="🛰卫视频道",海峡晚上
+http://dsk.cc/php/xxtv.php?id=hxws
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="🛰卫视频道",广东卫视
+http://dsk.cc/php/xxtv.php?id=gdws
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="🛰卫视频道",深圳卫视
+http://dsk.cc/php/xxtv.php?id=szws
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="🛰卫视频道",大湾区卫视
+http://dsk.cc/php/xxtv.php?id=dwqws
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="🛰卫视频道",广西卫视
+http://dsk.cc/php/xxtv.php?id=gxws
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="🛰卫视频道",云南卫视
+http://dsk.cc/php/xxtv.php?id=ynws
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="🛰卫视频道",贵州卫视
+http://dsk.cc/php/xxtv.php?id=gzws
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="🛰卫视频道",四川卫视
+http://dsk.cc/php/xxtv.php?id=scws
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.cn/tv/康巴卫视.png" group-title="🛰卫视频道",康巴卫视
+http://dsk.cc/php/xxtv.php?id=kbws
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="🛰卫视频道",新疆卫视
+http://dsk.cc/php/xxtv.php?id=xjws
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="🛰卫视频道",兵团卫视
+http://dsk.cc/php/xxtv.php?id=btws
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="🛰卫视频道",西藏卫视
+http://dsk.cc/php/xxtv.php?id=xzws
+#EXTINF:-1 tvg-name="藏语卫视" tvg-logo="https://live.fanmingming.cn/tv/藏语卫视.png" group-title="🛰卫视频道",藏语卫视
+http://dsk.cc/php/xxtv.php?id=xzzyws
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="🛰卫视频道",海南卫视
+http://dsk.cc/php/xxtv.php?id=hinws
+
 #EXTINF:-1 tvg-name="软件由闲鱼店铺🌺" tvg-logo="https://live.fanmingming.com/tv/感谢捐赠支持的朋友.png" group-title="🔥关于软件",软件由闲鱼店铺🌺
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 #EXTINF:-1 tvg-name="资源宝藏库❤️" tvg-logo="https://live.fanmingming.com/tv/安徽影视频道.png" group-title="🔥关于软件",资源宝藏库❤️
