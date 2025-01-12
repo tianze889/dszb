@@ -4510,6 +4510,18 @@ http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8?channel=1&t=1727365957&ttl=3600&key=427e13368d7e4211bb3f1f6432084b3f
 #EXTINF:-1 tvg-name="东莞生活资讯" tvg-logo="https://live.fanmingming.com/tv/东莞生活资讯.png" group-title="广东频道",东莞生活资讯
 https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8?channel=1&t=1727366013&ttl=3600&key=2fad2b96c81c38c8e6b189c552c0f8ca
+#EXTINF:-1 tvg-name="汕头新闻综合" tvg-logo="https://live.fanmingming.com/tv/汕头新闻综合.png" group-title="广东频道",汕头新闻综合
+http://183.33.58.226:8686/udp/239.77.1.130:5146
+#EXTINF:-1 tvg-name="汕头新闻综合" tvg-logo="https://live.fanmingming.com/tv/汕头新闻综合.png" group-title="广东频道",汕头新闻综合
+http://113.93.53.233:5555/udp/239.77.1.130:5146
+#EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://live.fanmingming.com/tv/汕头经济生活.png" group-title="广东频道",汕汕头经济生活
+http://27.41.248.171:801/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://live.fanmingming.com/tv/汕头经济生活.png" group-title="广东频道",汕汕头经济生活
+http://183.15.121.223:9000/udp/239.21.0.102:3748
+#EXTINF:-1 tvg-name="汕头文旅体育" tvg-logo="https://live.fanmingming.com/tv/汕头文旅体育.png" group-title="广东频道",汕头文旅体育
+http://113.119.24.58:58888/udp/239.253.43.47:5146
+#EXTINF:-1 tvg-name="汕头文旅体育" tvg-logo="https://live.fanmingming.com/tv/汕头文旅体育.png" group-title="广东频道",汕头文旅体育
+http://183.15.121.223:9000/udp/239.21.0.100:3740
 #EXTINF:-1 tvg-name="肇庆公共频道" tvg-logo="https://live.fanmingming.com/tv/肇庆公共频道.png" group-title="广东频道",肇庆公共频道
 https://zqvlivestream.xjrb.com/zqtlive_slow/eed84230447e4eed917191d72b5d8b73_786.m3u8
 #EXTINF:-1 tvg-name="肇庆频道" tvg-logo="https://live.fanmingming.com/tv/肇庆频道.png" group-title="广东频道",肇庆频道
