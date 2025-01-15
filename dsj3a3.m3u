@@ -2776,11 +2776,11 @@ http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-name="忠县综合频道" tvg-logo="https://live.fanmingming.com/tv/忠县综合频道.png" group-title="🔥关于软件",忠县综合频道
 https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📡央卫IPV6源",CCTV1
-http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw210731412_242842946/ott.mobaibox.com/PLTV/3/224/3221227320/index.m3u8?icpid=3&RTS=1674380326&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📡央卫IPV6源",CCTV2
-http://[2409:8087:5e00:24::29]:6610/000000001000/1000000001000023315/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="📡央卫IPV6源",CCTV3
-http://[2409:8087:5e00:24::29]:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
+http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="📡央卫IPV6源",CCTV4
 http://[2409:8087:5e00:24::29]:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📡央卫IPV6源",CCTV5
