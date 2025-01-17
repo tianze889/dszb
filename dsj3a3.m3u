@@ -4437,19 +4437,19 @@ https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东频道",广东卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226248/index.m3u8?
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
-http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011655
+http://113.119.24.81:58888/udp/239.77.0.114:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
-http://39.134.136.161:6610/000000001000/2000000003000000033/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000033
+http://113.119.24.81:58888/udp/239.77.0.3:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
-http://183.15.123.104:9000/udp/239.20.0.111:2020
+http://183.15.122.204:9000/udp/239.20.0.111:2020
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
-http://www.aicarxc.top:8888/udp/239.10.0.62:1025
+http://113.86.205.59:8090/hls/105/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
-http://113.118.13.254:808/hls/83/index.m3u8
+http://sg8.jdiptv.cc/live/gdzj.m3u8?kdstime=1737125696&kdssign=596f47dcb999b37ca4b98bff0fec5f72
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
-http://113.101.119.62:808/hls/105/index.m3u8
+http://171.38.148.211:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
-http://183.33.59.210:8686/udp/239.77.0.114:5146
+http://171.38.150.20:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东频道",广东体育
 http://120.84.121.239:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东频道",广东体育
