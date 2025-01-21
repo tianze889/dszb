@@ -1309,6 +1309,15 @@ http://jp1.jdiptv.cc/live/hnwshd.m3u8?kdstime=1737444168&kdssign=717ad8ec225289b
 http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=1735579549&kdssign=d39a4975609ebcd15602db1e10f843bf
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="🛰卫视频道",东方卫视
+https://www.freetv.top/migu/651632648.m3u8?migutoken=2d48d4783cee921646ce906ce00564627db231ecbad76ba671bb935803e9deac02b5671cf5168b359d435a4efa0c40bc04d5d5534b2f2040c68e911443b8d21e1641a80cb49afa270d54cc0cfb
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="🛰卫视频道",江苏卫视
+https://www.freetv.top/migu/623899368.m3u8?migutoken=f8b9acf244389f947f01dc0b0aa3c8cbd8c88e8fe40d3ff0613a126b8972ba1056c3691877dafb15e48f43ac82b801902790a152e9c05f020234129d7cdd609f1850f5f044d6bc3f1f46c839d3
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="🛰卫视频道",河南卫视
+https://www.freetv.top/migu/790187291.m3u8?migutoken=5842e00b1ed2e4cf5150270eedcc5f5ac5170d6c2fcaa1f41c3ac49077ba27339aeaf55decce2f203a844b2b4f03f4d33b8840b8ce3177e726e6f351a1985d5cd7740c05601de4f84e4b15b580
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="🛰卫视频道",大湾区卫视
+https://www.freetv.top/migu/608917627.m3u8?migutoken=95785e146240bd058e9703e81316ec552b384a020ac34ac9ac8a1ac5fe953d0f78938ecf2b7d54813a2b2683c0f04ae438201542fc9f4b3947826b2a163c08a31a254059a616fd9d9398a9124e
+
 
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="🛰卫视频道",辽宁卫视
 http://223.105.252.8/PLTV/4/224/3221227410/index.m3u8?
@@ -3688,9 +3697,7 @@ http://39.134.64.179:6610/PLTV/88888888/224/3221226112/index.m3u8?
 #EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://live.fanmingming.com/tv/晴彩篮球.png" group-title="🏌体育频道",晴彩篮球
 http://39.134.64.179:6610/PLTV/88888888/224/3221226147/index.m3u8?
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东.png" group-title="🏌体育频道",广东体育
-http://183.29.197.170:8686/udp/239.77.0.112:5146
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东.png" group-title="🏌体育频道",广东体育
-http://116.11.141.87:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0
+http://222.128.55.152:9080/live/gdty.m3u8
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="🏌体育频道",北京体育休闲
 http://1.203.77.72:7788/udp/225.1.0.113:1025
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星.png" group-title="🏌体育频道",五星体育
@@ -3820,7 +3827,7 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东频道",广东卫视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226248/index.m3u8?
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="广东频道",深圳卫视
-http://cc-ynbit-wszhibo.ifengli.com:2000/live/szws-hd/2500.m3u8?innersid=15000776628606995758
+http://39.134.64.179:6610/PLTV/88888888/224/3221225739/index.m3u8?
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
 http://111.29.9.37:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
@@ -3828,11 +3835,11 @@ http://113.101.119.62:808/hls/105/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
 http://121.33.239.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
+http://222.128.55.152:9080/live/gdzj.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="广东频道",广东珠江
 http://121.33.239.242:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东频道",广东体育
-http://113.119.25.212:58888/udp/239.77.0.112:5146
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东频道",广东体育
-http://113.93.52.10:5555/udp/239.77.0.112:5146
+http://222.128.55.152:9080/live/gdty.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道",大湾区卫视
 http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=1735579549&kdssign=d39a4975609ebcd15602db1e10f843bf
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="广东频道",大湾区卫视
