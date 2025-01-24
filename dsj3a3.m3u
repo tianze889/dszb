@@ -367,6 +367,16 @@ http://39.134.64.179:6610/PLTV/88888888/224/3221226100/index.m3u8?
 http://39.134.64.179:6610/PLTV/88888888/224/3221225765/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV1
+http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv1hd&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737682681&sign=f204feb80da0637e0525635245ee677a&ev=20240918
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="📺央视频道",CCTV2
+http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv2hd&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737683005&sign=941d5e344f2911b55c4138bc1252d775&ev=20240918
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://z.b.bkpcp.top/m.php?id=cctv1
