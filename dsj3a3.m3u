@@ -370,6 +370,13 @@ http://39.134.64.179:6610/PLTV/88888888/224/3221225765/index.m3u8?
 http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv1hd&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737682681&sign=f204feb80da0637e0525635245ee677a&ev=20240918
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="📺央视频道",CCTV2
 http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv2hd&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737683005&sign=941d5e344f2911b55c4138bc1252d775&ev=20240918
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="📺央视频道",CCTV3
+http://utuxx.91kds.cn/live1/kds.m3u8?id=cctv3hd&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737683521&sign=1fd690aaebdcff2c3056fac18e6b6615&ev=20240918
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="📺央视频道",CCTV4
+http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv4hd&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737683855&sign=1fa3bba25419eefb62eff70d565518b6&ev=20240918
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="📺央视频道",CCTV5
+http://utuxx.91kds.cn/live1/shjd.m3u8?src=bestzb&bt=1500&id=5000000011000265005&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737683929&sign=c5a044e84f150948d4c3b920c7e09809&ev=20240918
+
 
 
 
