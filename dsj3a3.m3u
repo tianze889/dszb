@@ -367,6 +367,8 @@ http://39.134.64.179:6610/PLTV/88888888/224/3221226100/index.m3u8?
 http://39.134.64.179:6610/PLTV/88888888/224/3221225765/index.m3u8?
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV1
+http://utuxx.91kds.cn/live1/shjd.m3u8?src=bestzb&bt=1500&id=5000000011000265001&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737684645&sign=1acaabc6785099989c17b3894ed57917&ev=20240918
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv1hd&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737682681&sign=f204feb80da0637e0525635245ee677a&ev=20240918
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="📺央视频道",CCTV2
 http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv2hd&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737683005&sign=941d5e344f2911b55c4138bc1252d775&ev=20240918
@@ -376,7 +378,30 @@ http://utuxx.91kds.cn/live1/kds.m3u8?id=cctv3hd&app=com.jiaoxiang.fangnale&versi
 http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv4hd&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737683855&sign=1fa3bba25419eefb62eff70d565518b6&ev=20240918
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="📺央视频道",CCTV5
 http://utuxx.91kds.cn/live1/shjd.m3u8?src=bestzb&bt=1500&id=5000000011000265005&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737683929&sign=c5a044e84f150948d4c3b920c7e09809&ev=20240918
-
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺央视频道",CCTV6
+http://utuxx.91kds.cn/live1/shjd.m3u8?src=bestzb&bt=1500&id=5000000011000265006&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737684748&sign=2eca962a20507cd1b5cf53fee1c8689d&ev=20240918
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="📺央视频道",CCTV7
+http://utuxx.91kds.cn/live1/shjd.m3u8?src=bestzb&bt=1500&id=5000000005000026715&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737684857&sign=34764738f509f676c0343222d9529f63&ev=20240918
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="📺央视频道",CCTV8
+http://utuxx.91kds.cn/live1/shjd.m3u8?src=bestzb&bt=1500&id=5000000010000018377&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737684907&sign=f5b5fdc6d6884f2a23fb0517b53dacdd&ev=20240918
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="📺央视频道",CCTV9
+http://utuxx.91kds.cn/live1/shjd.m3u8?src=ystenlive&bt=1500&id=1000000001000028286&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737684975&sign=747411957222742fb9cbb0d81d0fea43&ev=20240918
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="📺央视频道",CCTV10
+http://utuxx.91kds.cn/live1/shjd.m3u8?src=bestzb&bt=1500&id=5000000010000016738&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737685033&sign=7f5b96385ead400c64fce9502566fb82&ev=20240918
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="📺央视频道",CCTV11
+http://utuxx.91kds.cn/live1/shjd.m3u8?src=bestzb&bt=1500&id=5000000006000040011&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737685104&sign=943334368fbce2537cb34a0905eed09d&ev=20240918
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="📺央视频道",CCTV12
+http://utuxx.91kds.cn/live1/shjd.m3u8?src=bestzb&bt=1500&id=5000000006000040012&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737685153&sign=9e7041e65768c7917706838d36d7d538&ev=20240918
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="📺央视频道",CCTV13
+http://utuxx.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv13hd&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737685237&sign=c1695aee6b18301792b3e3dc0504d9ab&ev=20240918
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="📺央视频道",CCTV14
+http://utuxx.91kds.cn/live1/shjd.m3u8?src=bestzb&bt=1500&id=5000000010000023358&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737685325&sign=d93028cd8f50648f0dfb65ef3caec293&ev=20240918
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="📺央视频道",CCTV15
+http://utuxx.91kds.cn/live1/shjd.m3u8?src=bestzb&bt=1500&id=5000000005000018417&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737685371&sign=114705cdaa8c38ed3706d337a9eaec7a&ev=20240918
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="📺央视频道",CCTV16
+http://utuxx.91kds.cn/live1/shjd.m3u8?src=ystenlive&bt=1500&id=1000000006000233001&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737685585&sign=19132f29afd17763cc7b5a26a2b278ad&ev=20240918
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺央视频道",CCTV17
+http://utuxx.91kds.cn/live1/shjd.m3u8?src=ystenlive&bt=1500&id=1000000005000265015&app=com.jiaoxiang.fangnale&version=2.3.3&mac=fu:ck:92:92:ff&nwtime=1737685504&sign=afddc18208b57d3e8996d61391cc3ffc&ev=20240918
 
 
 
