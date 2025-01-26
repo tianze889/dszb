@@ -5306,7 +5306,7 @@ http://59.175.226.142:280/gb28181/xwzh.m3u8
 #EXTINF:-1 tvg-name="池州生活" tvg-logo="https://live.fanmingming.com/tv/池州生活.png" group-title="湖北频道",池州生活
 http://wjsp.chiznews.com:8037/live/wjsh.m3u8
 #EXTINF:-1 tvg-name="民生频道" tvg-logo="https://live.fanmingming.com/tv/民生频道.png" group-title="河南频道",民生频道
-http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
+http://171.8.169.25:8800/udp/239.16.20.165:11650
 #EXTINF:-1 tvg-name="民生频道" tvg-logo="https://live.fanmingming.com/tv/民生频道.png" group-title="河南频道",民生频道
 http://49.71.75.18/tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=84be93c093d0f4ad34009e84193600a6&wsTime=1737914556&wsSession=3347c05785b581b71ff17e41-173790029805648&wsIPSercert=0190a0ea71b8bcd80a818342ea3e988a&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="法制频道" tvg-logo="https://live.fanmingming.com/tv/法制频道.png" group-title="河南频道",法制频道
@@ -5945,6 +5945,8 @@ http://117.72.68.25:9930/jilin.php?id=thxwzh
 http://117.72.68.25:9930/jilin.php?id=thjazh
 #EXTINF:-1 tvg-name="通化梅河口综合" tvg-logo="https://live.fanmingming.com/tv/通化梅河口.png" group-title="吉林频道",通化梅河口综合
 http://117.72.68.25:9930/jilin.php?id=thmhkzh
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="黑龙江频道",黑龙江卫视
+http://183.255.10.92:6610/200000001898/460000089800010056/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
 http://39.134.64.179:6610/PLTV/88888888/224/3221226298/index.m3u8?
 #EXTINF:-1 tvg-name="黑龙江影视" tvg-logo="https://live.fanmingming.com/tv/黑龙江影视.png" group-title="黑龙江频道",黑龙江影视
