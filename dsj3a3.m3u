@@ -4,13 +4,13 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="🌍港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="🌍港澳台",凤凰卫视中文台
-http://cdn.132.us.kg/live/fhzw/stream.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="🌍港澳台",凤凰卫视中文台
 http://ttkx.cc:778/65991%E7%A0%B4%E5%9D%8F/fh.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="🌍港澳台",凤凰卫视中文台
 http://qctv.fengshows.cn/live/0701pcc48.flv
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="🌍港澳台",凤凰卫视中文台
 http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="🌍港澳台",凤凰卫视中文台
+http://cdn.132.us.kg/live/fhzw/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="🌍港澳台",凤凰卫视中文台
 http://223.105.252.60:80/PLTV/3/224/3221228527/indindex.m3u8?icpid=3&from=1&hms_devid=6882
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="🌍港澳台",凤凰卫视中文台
@@ -5305,6 +5305,20 @@ https://yichang-live21.cjyun.org/10091/s10091-ycly.m3u8?auth_key=1735660799-0-0-
 http://59.175.226.142:280/gb28181/xwzh.m3u8
 #EXTINF:-1 tvg-name="池州生活" tvg-logo="https://live.fanmingming.com/tv/池州生活.png" group-title="湖北频道",池州生活
 http://wjsp.chiznews.com:8037/live/wjsh.m3u8
+#EXTINF:-1 tvg-name="民生频道" tvg-logo="https://live.fanmingming.com/tv/民生频道.png" group-title="河南频道",民生频道
+http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8
+#EXTINF:-1 tvg-name="民生频道" tvg-logo="https://live.fanmingming.com/tv/民生频道.png" group-title="河南频道",民生频道
+http://49.71.75.18/tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=84be93c093d0f4ad34009e84193600a6&wsTime=1737914556&wsSession=3347c05785b581b71ff17e41-173790029805648&wsIPSercert=0190a0ea71b8bcd80a818342ea3e988a&wsiphost=local&wsBindIP=1
+#EXTINF:-1 tvg-name="法制频道" tvg-logo="https://live.fanmingming.com/tv/法制频道.png" group-title="河南频道",法制频道
+http://49.71.75.18/tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=e77661e5780734aec4d317c9403e3e7f&wsTime=1737915041&wsSession=3347c05785b581b71ff17e41-173790079247325&wsIPSercert=0190a0ea71b8bcd80a818342ea3e988a&wsiphost=local&wsBindIP=1
+#EXTINF:-1 tvg-name="法制频道" tvg-logo="https://live.fanmingming.com/tv/法制频道.png" group-title="河南频道",法制频道
+http://k2p.1121.fun:4000/udp/225.1.4.54:1083
+#EXTINF:-1 tvg-name="法制频道" tvg-logo="https://live.fanmingming.com/tv/法制频道.png" group-title="河南频道",法制频道
+http://1.197.251.26:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="新闻频道" tvg-logo="https://live.fanmingming.com/tv/新闻频道.png" group-title="河南频道",新闻频道
+http://49.71.75.19/tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=add2bc670adcd15d62688a87a7c0fd93&wsTime=1737915201&wsSession=47fdaa80bfd7240dbf953528-173790097515735&wsIPSercert=0190a0ea71b8bcd80a818342ea3e988a&wsiphost=local&wsBindIP=1
+#EXTINF:-1 tvg-name="新闻频道" tvg-logo="https://live.fanmingming.com/tv/新闻频道.png" group-title="河南频道",新闻频道
+http://171.8.169.25:8800/udp/239.16.10.124:2000
 #EXTINF:-1 tvg-name="洛阳新闻频道" tvg-logo="https://live.fanmingming.com/tv/洛阳新闻频道.png" group-title="河南频道",洛阳新闻频道
 http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
 #EXTINF:-1 tvg-name="洛阳科教频道" tvg-logo="https://live.fanmingming.com/tv/洛阳科教频道.png" group-title="河南频道",洛阳科教频道
