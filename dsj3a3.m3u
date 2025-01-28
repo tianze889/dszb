@@ -343,8 +343,9 @@ http://mgsp-cty2.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/1200/index.m3u8?msis
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://mgsp-cty2.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3083ef101384f0a094458a9315f6c1829&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20250128183001&Channel_ID=0116_25000303-99000-101700010040002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=121.63.199.211&SecurityKey=20250128183001&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.1.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspipad&tid=ipad&conFee=0&encrypt=3a6e11f2667e5d17833cdc3e88bb3206
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
-https://www.yangshipin.cn/tv/home?pid=600001859
+http://mgsp-yx2.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3083ef101384f0a094458a9315f6c8513&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20250128193258&Channel_ID=0116_25000303-99000-101700010040002&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=121.63.199.211&SecurityKey=20250128193258&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.1.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspipad&tid=ipad&conFee=0&encrypt=c8c59d5eeae3db99021b00b9217bcdf2
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv1
