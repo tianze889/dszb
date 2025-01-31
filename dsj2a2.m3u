@@ -377,8 +377,6 @@ https://www.freetv.top/migu/608807419.m3u8?migutoken=6a212f7bbb565d15fa1837af03b
 https://www.freetv.top/migu/608807416.m3u8?migutoken=85c9fb128ac91587cf67086436bd4af8631774375811d0d14ba7158ffb2f56b528e7e92a2da4c2f8bd757394265b58efcbccdce316306a1dae700620a73e52c2ab049d8bd223c049567a8c10bf
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
-https://get.2sb.org/https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 https://get.2sb.org/https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
@@ -493,6 +491,8 @@ http://z.b.bkpcp.top/m.php?id=cctv17
 http://z.b.bkpcp.top/m.php?id=cctv4o
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="📺央视频道",CCTV4美洲
 http://z.b.bkpcp.top/m.php?id=cctv4m
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
+https://get.2sb.org/https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://39.134.64.179:6610/PLTV/88888888/224/3221226559/index.m3u8?
@@ -2979,10 +2979,6 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="📡央卫IPV6源",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 
-#EXTINF:-1 tvg-name="经典悬疑片" tvg-logo="" group-title="🎬电影轮播",经典悬疑片
-http://jiaojirentv.top/2020/yy.php?id=1382651363
-#EXTINF:-1 tvg-name="经典悬疑片" tvg-logo="" group-title="🎬电影轮播",经典悬疑片
-http://live.nctv.top/6688/yy.php?id=1382651363
 #EXTINF:-1 tvg-name="僵尸恐怖" tvg-logo="" group-title="🎬电影轮播",僵尸恐怖
 http://mtw.so/5FCWRo
 #EXTINF:-1 tvg-name="僵尸恐怖" tvg-logo="" group-title="🎬电影轮播",僵尸恐怖
@@ -2993,34 +2989,20 @@ http://zzy789.xyz/douyu1.php?id=2935323
 http://zzy789.xyz/douyu1.php?id=1377142
 #EXTINF:-1 tvg-name="动作影院" tvg-logo="" group-title="🎬电影轮播",动作影院
 http://jiaojirentv.top/2020/yy.php?id=1382745095
-#EXTINF:-1 tvg-name="动作影院" tvg-logo="" group-title="🎬电影轮播",动作影院
-http://live.nctv.top/6688/yy.php?id=1382745095
 #EXTINF:-1 tvg-name="盗墓电影" tvg-logo="" group-title="🎬电影轮播",盗墓电影
 http://cdn.jdshipin.com:8880/huya.php?id=21059552
-#EXTINF:-1 tvg-name="吃米滴虫" tvg-logo="" group-title="🎬电影轮播",吃米滴虫
-http://zzy789.xyz/douyu1.php?id=315457
-#EXTINF:-1 tvg-name="经典喜剧片" tvg-logo="" group-title="🎬电影轮播",经典喜剧片
-http://cdn.jdshipin.com:8880/huya.php?id=11352894
 #EXTINF:-1 tvg-name="经典影院" tvg-logo="" group-title="🎬电影轮播",经典影院
 http://jiaojirentv.top/2020/yy.php?id=23512910
-#EXTINF:-1 tvg-name="经典影院" tvg-logo="" group-title="🎬电影轮播",经典影院
-http://live.nctv.top/6688/yy.php?id=23512910
 #EXTINF:-1 tvg-name="国产影院" tvg-logo="" group-title="🎬电影轮播",国产影院
 http://jiaojirentv.top/2020/yy.php?id=1354210357
-#EXTINF:-1 tvg-name="国产影院" tvg-logo="" group-title="🎬电影轮播",国产影院
-http://live.nctv.top/6688/yy.php?id=1354210357
 #EXTINF:-1 tvg-name="综合院线" tvg-logo="" group-title="🎬电影轮播",综合院线
 http://jiaojirentv.top/2020/yy.php?id=1354143966
-#EXTINF:-1 tvg-name="综合院线" tvg-logo="" group-title="🎬电影轮播",综合院线
-http://live.nctv.top/6688/yy.php?id=1354143966
 #EXTINF:-1 tvg-name="李连杰电影" tvg-logo="" group-title="🎬电影轮播",李连杰电影
 http://cdn.jdshipin.com:8880/huya.php?id=11342390
 #EXTINF:-1 tvg-name="成龙电影" tvg-logo="" group-title="🎬电影轮播",成龙电影
 http://cdn.jdshipin.com:8880/huya.php?id=11342386
 #EXTINF:-1 tvg-name="周星驰电影" tvg-logo="" group-title="🎬电影轮播",周星驰电影
 http://cdn.jdshipin.com:8880/huya.php?id=11342412
-#EXTINF:-1 tvg-name="甄子丹电影" tvg-logo="" group-title="🎬电影轮播",甄子丹电影
-http://cdn.jdshipin.com:8880/huya.php?id=11352935
 #EXTINF:-1 tvg-name="黄渤电影" tvg-logo="" group-title="🎬电影轮播",黄渤电影
 http://cdn.jdshipin.com:8880/huya.php?id=11352876
 #EXTINF:-1 tvg-name="吴京电影" tvg-logo="" group-title="🎬电影轮播",吴京电影
@@ -3033,10 +3015,6 @@ http://cdn.jdshipin.com:8880/huya.php?id=11342424
 http://cdn.jdshipin.com:8880/huya.php?id=11601968
 #EXTINF:-1 tvg-name="徐克电影" tvg-logo="" group-title="🎬电影轮播",徐克电影
 http://cdn.jdshipin.com:8880/huya.php?id=11352909
-#EXTINF:-1 tvg-name="包青天" tvg-logo="" group-title="🎬电影轮播",包青天
-http://jiaojirentv.top/2020/yy.php?id=38498680
-#EXTINF:-1 tvg-name="包青天" tvg-logo="" group-title="🎬电影轮播",包青天
-http://live.nctv.top/6688/yy.php?id=38498680
 #EXTINF:-1 tvg-name="死神来了" tvg-logo="" group-title="🎬电影轮播",死神来了
 http://cdn.jdshipin.com:8880/huya.php?id=11352903
 #EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="" group-title="🎬电影轮播",欢乐剧场
@@ -3046,25 +3024,13 @@ http://cdn.jdshipin.com:8880/huya.php?id=11342428
 #EXTINF:-1 tvg-name="邵氏影院" tvg-logo="" group-title="🎬电影轮播",邵氏影院
 http://zzy789.xyz/douyu1.php?id=4246519
 #EXTINF:-1 tvg-name="怡宝影院" tvg-logo="" group-title="🎬电影轮播",怡宝影院
-http://live.nctv.top/6688/yy.php?id=1354936128
-#EXTINF:-1 tvg-name="怡宝影院" tvg-logo="" group-title="🎬电影轮播",怡宝影院
 http://jiaojirentv.top/2020/yy.php?id=1354936128
-#EXTINF:-1 tvg-name="新片放映厅" tvg-logo="" group-title="🎬电影轮播",新片放映厅
-http://live.nctv.top/6688/yy.php?id=1382749900
 #EXTINF:-1 tvg-name="新片放映厅" tvg-logo="" group-title="🎬电影轮播",新片放映厅
 http://jiaojirentv.top/2020/yy.php?id=1382749900
 #EXTINF:-1 tvg-name="高清大片" tvg-logo="" group-title="🎬电影轮播",高清大片
 http://jiaojirentv.top/2020/yy.php?id=1382736803
-#EXTINF:-1 tvg-name="高清大片" tvg-logo="" group-title="🎬电影轮播",高清大片
-http://live.nctv.top/6688/yy.php?id=1382736803
-#EXTINF:-1 tvg-name="战场战争片" tvg-logo="" group-title="🎬电影轮播",战场战争片
-http://live.nctv.top/6688/yy.php?id=1354930204
-#EXTINF:-1 tvg-name="战场战争片" tvg-logo="" group-title="🎬电影轮播",战场战争片
-http://jiaojirentv.top/2020/yy.php?id=1354930204
 #EXTINF:-1 tvg-name="经典港片" tvg-logo="" group-title="🎬电影轮播",经典港片
 http://cdn.jdshipin.com:8880/huya.php?id=11602043
-#EXTINF:-1 tvg-name="恐怖惊悚" tvg-logo="" group-title="🎬电影轮播",恐怖惊悚
-http://zzy789.xyz/douyu1.php?id=96577
 #EXTINF:-1 tvg-name="恐怖鬼怪" tvg-logo="" group-title="🎬电影轮播",恐怖鬼怪
 http://zzy789.xyz/douyu1.php?id=1165374
 #EXTINF:-1 tvg-name="灾难片" tvg-logo="" group-title="🎬电影轮播",灾难片
@@ -3072,23 +3038,15 @@ http://zzy789.xyz/douyu1.php?id=9651304
 #EXTINF:-1 tvg-name="功夫影院" tvg-logo="" group-title="🎬电影轮播",功夫影院
 http://zzy789.xyz/douyu1.php?id=508118
 #EXTINF:-1 tvg-name="经典宫庭频道" tvg-logo="" group-title="🎬电影轮播",经典宫庭频道
-http://live.nctv.top/6688/yy.php?id=1354932429
-#EXTINF:-1 tvg-name="经典宫庭频道" tvg-logo="" group-title="🎬电影轮播",经典宫庭频道
 http://jiaojirentv.top/2020/yy.php?id=1354932429
 #EXTINF:-1 tvg-name="好莱坞大片" tvg-logo="" group-title="🎬电影轮播",好莱坞大片
 http://zby.xjqxz.top/hlwdy1/live.m3u8
 #EXTINF:-1 tvg-name="好莱坞大片" tvg-logo="" group-title="🎬电影轮播",好莱坞大片
 http://cdn.jdshipin.com:8880/huya.php?id=11601977
-#EXTINF:-1 tvg-name="经典谍战片" tvg-logo="" group-title="🎬电影轮播",经典谍战片
-http://cdn.jdshipin.com:8880/huya.php?id=21059585
-#EXTINF:-1 tvg-name="抗日战争" tvg-logo="" group-title="🎬电影轮播",抗日战争
-http://live.nctv.top/6688/yy.php?id=1354931585
 #EXTINF:-1 tvg-name="抗日战争" tvg-logo="" group-title="🎬电影轮播",抗日战争
 http://jiaojirentv.top/2020/yy.php?id=1354931585
 #EXTINF:-1 tvg-name="怪兽电影" tvg-logo="" group-title="🎬电影轮播",怪兽电影
 http://cdn.jdshipin.com:8880/huya.php?id=21059554
-#EXTINF:-1 tvg-name="赵本山小品" tvg-logo="" group-title="🎬电影轮播",赵本山小品
-http://live.nctv.top/6688/yy.php?id=1382683959
 #EXTINF:-1 tvg-name="赵本山小品" tvg-logo="" group-title="🎬电影轮播",赵本山小品
 http://jiaojirentv.top/2020/yy.php?id=1382683959
 #EXTINF:-1 tvg-name="开心麻花小品" tvg-logo="" group-title="🎬电影轮播",开心麻花小品
@@ -3096,11 +3054,7 @@ http://zzy789.xyz/douyu1.php?id=10153463
 #EXTINF:-1 tvg-name="宋小宝小品" tvg-logo="" group-title="🎬电影轮播",宋小宝小品
 http://zzy789.xyz/douyu1.php?id=9817729
 #EXTINF:-1 tvg-name="吐槽大会" tvg-logo="" group-title="🎬电影轮播",吐槽大会
-http://live.nctv.top/6688/yy.php?id=1354936145
-#EXTINF:-1 tvg-name="吐槽大会" tvg-logo="" group-title="🎬电影轮播",吐槽大会
 http://jiaojirentv.top/2020/yy.php?id=1354936145
-#EXTINF:-1 tvg-name="脱口秀大会" tvg-logo="" group-title="🎬电影轮播",脱口秀大会
-http://live.nctv.top/6688/yy.php?id=1354932379
 #EXTINF:-1 tvg-name="脱口秀大会" tvg-logo="" group-title="🎬电影轮播",脱口秀大会
 http://jiaojirentv.top/2020/yy.php?id=1354932379
 #EXTINF:-1 tvg-name="CCTV电影轮播" tvg-logo="" group-title="🎬电影轮播",CCTV电影轮播
@@ -3119,8 +3073,6 @@ http://cdn.jdshipin.com:8880/huya.php?id=11352886
 http://cdn.jdshipin.com:8880/huya.php?id=11352962
 #EXTINF:-1 tvg-name="电影_枪战" tvg-logo="" group-title="🎬电影轮播",电影_枪战
 http://cdn.jdshipin.com:8880/huya.php?id=21059579
-#EXTINF:-1 tvg-name="电影_海盗" tvg-logo="" group-title="🎬电影轮播",电影_海盗
-http://cdn.jdshipin.com:8880/huya.php?id=21059595
 #EXTINF:-1 tvg-name="荒野求生" tvg-logo="" group-title="🎬电影轮播",荒野求生
 http://cdn.jdshipin.com:8880/huya.php?id=24766781
 #EXTINF:-1 tvg-name="电影_赛车" tvg-logo="" group-title="🎬电影轮播",电影_赛车
@@ -3139,8 +3091,6 @@ http://cdn.jdshipin.com:8880/huya.php?id=21059592
 http://cdn.jdshipin.com:8880/huya.php?id=11352877
 #EXTINF:-1 tvg-name="电影_国产" tvg-logo="" group-title="🎬电影轮播",电影_国产
 http://cdn.jdshipin.com:8880/huya.php?id=11352973
-#EXTINF:-1 tvg-name="电影_发哥" tvg-logo="" group-title="🎬电影轮播",电影_发哥
-http://cdn.jdshipin.com:8880/huya.php?id=11342387
 #EXTINF:-1 tvg-name="电影_王晶" tvg-logo="" group-title="🎬电影轮播",电影_王晶
 http://cdn.jdshipin.com:8880/huya.php?id=11602058
 #EXTINF:-1 tvg-name="电影_强森" tvg-logo="" group-title="🎬电影轮播",电影_强森
@@ -3159,8 +3109,6 @@ http://cdn.jdshipin.com:8880/huya.php?id=11601986
 http://cdn.jdshipin.com:8880/huya.php?id=11352941
 #EXTINF:-1 tvg-name="电影_黑帮片" tvg-logo="" group-title="🎬电影轮播",电影_黑帮片
 http://cdn.jdshipin.com:8880/huya.php?id=11336719
-#EXTINF:-1 tvg-name="电影_灾难片" tvg-logo="" group-title="🎬电影轮播",电影_灾难片
-http://cdn.jdshipin.com:8880/huya.php?id=11602075
 #EXTINF:-1 tvg-name="电影_谍战片" tvg-logo="" group-title="🎬电影轮播",电影_谍战片
 http://cdn.jdshipin.com:8880/huya.php?id=21059587
 #EXTINF:-1 tvg-name="电影_战争片" tvg-logo="" group-title="🎬电影轮播",电影_战争片
@@ -3179,8 +3127,6 @@ http://cdn.jdshipin.com:8880/huya.php?id=11602044
 http://cdn.jdshipin.com:8880/huya.php?id=11342395
 #EXTINF:-1 tvg-name="电影_快意江湖" tvg-logo="" group-title="🎬电影轮播",电影_快意江湖
 http://cdn.jdshipin.com:8880/huya.php?id=11342435
-#EXTINF:-1 tvg-name="电影_黑帮斗争" tvg-logo="" group-title="🎬电影轮播",电影_黑帮斗争
-http://cdn.jdshipin.com:8880/huya.php?id=11342419
 #EXTINF:-1 tvg-name="电影_古墓系列" tvg-logo="" group-title="🎬电影轮播",电影_古墓系列
 http://cdn.jdshipin.com:8880/huya.php?id=11352913
 #EXTINF:-1 tvg-name="电影_女神系列" tvg-logo="" group-title="🎬电影轮播",电影_女神系列
@@ -3241,6 +3187,112 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5250352837791566632_hlsb.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5218546164654879826_hlsb.m3u8
 #EXTINF:-1 tvg-name="警察故事" tvg-logo="" group-title="🎬电影轮播",警察故事
 https://ukzy.ukubf3.com/20220402/N3nfxJ6i/index.m3u8
+#EXTINF:-1 tvg-name="邵氏影院台" tvg-logo="" group-title="🎬电影轮播",邵氏影院台
+http://php.666230.xyz/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/proxy/斗鱼.php?id=4246519
+#EXTINF:-1 tvg-name="緯來電影台" tvg-logo="" group-title="🎬电影轮播",緯來電影台
+http://122.117.71.103:8554/
+#EXTINF:-1 tvg-name="龍華電影台" tvg-logo="" group-title="🎬电影轮播",龍華電影台
+http://122.117.71.103:8555/
+#EXTINF:-1 tvg-name="HBO频道台" tvg-logo="" group-title="🎬电影轮播",HBO频道台
+http://122.117.71.103:8556/
+#EXTINF:-1 tvg-name="AXN频道台" tvg-logo="" group-title="🎬电影轮播",AXN频道台
+http://122.117.71.103:8557/
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="" group-title="🎬电影轮播",CINEMAX
+http://122.117.71.103:8558/
+#EXTINF:-1 tvg-name="AMC電影台" tvg-logo="" group-title="🎬电影轮播",AMC電影台
+http://122.117.71.103:8559/
+#EXTINF:-1 tvg-name="東森戲劇" tvg-logo="" group-title="🎬电影轮播",東森戲劇
+http://122.117.71.103:8529/
+#EXTINF:-1 tvg-name="緯來戲劇" tvg-logo="" group-title="🎬电影轮播",緯來戲劇
+http://122.117.71.103:8532/
+#EXTINF:-1 tvg-name="龍華戲劇台" tvg-logo="" group-title="🎬电影轮播",龍華戲劇台
+http://122.117.71.103:8533/
+#EXTINF:-1 tvg-name="八大戲劇" tvg-logo="" group-title="🎬电影轮播",八大戲劇
+http://122.117.71.103:8530/
+#EXTINF:-1 tvg-name="東森幼幼" tvg-logo="" group-title="🎬电影轮播",東森幼幼
+http://122.117.71.103:8515/
+#EXTINF:-1 tvg-name="龍華卡通台" tvg-logo="" group-title="🎬电影轮播",龍華卡通台
+http://122.117.71.103:8516/
+#EXTINF:-1 tvg-name="重温经典台" tvg-logo="" group-title="🎬电影轮播",重温经典台
+https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+#EXTINF:-1 tvg-name="重温经典台" tvg-logo="" group-title="🎬电影轮播",重温经典台
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-name="重温经典台" tvg-logo="" group-title="🎬电影轮播",重温经典台
+http://mtw.so/5NPX0U
+#EXTINF:-1 tvg-name="搞笑恐怖" tvg-logo="" group-title="🎬电影轮播",搞笑恐怖
+http://iptv.com.gerss.cn/huya/11601960
+#EXTINF:-1 tvg-name="周星驰" tvg-logo="" group-title="🎬电影轮播",周星驰
+http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+#EXTINF:-1 tvg-name="好先生" tvg-logo="" group-title="🎬电影轮播",好先生
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9650792
+#EXTINF:-1 tvg-name="庆余年" tvg-logo="" group-title="🎬电影轮播",庆余年
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5908256
+#EXTINF:-1 tvg-name="欢乐综艺" tvg-logo="" group-title="🎬电影轮播",欢乐综艺
+http://huanqiuzhibo.cn/manifest/douyu.php?id=131977
+#EXTINF:-1 tvg-name="万合出品" tvg-logo="" group-title="🎬电影轮播",万合出品
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9220456
+#EXTINF:-1 tvg-name="漫威影院" tvg-logo="" group-title="🎬电影轮播",漫威影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6140589
+#EXTINF:-1 tvg-name="特辑电影" tvg-logo="" group-title="🎬电影轮播",特辑电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
+#EXTINF:-1 tvg-name="粤语电影" tvg-logo="" group-title="🎬电影轮播",粤语电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
+#EXTINF:-1 tvg-name="国产电影" tvg-logo="" group-title="🎬电影轮播",国产电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5423
+#EXTINF:-1 tvg-name="喜剧电影" tvg-logo="" group-title="🎬电影轮播",喜剧电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=323876
+#EXTINF:-1 tvg-name="恐怖电影" tvg-logo="" group-title="🎬电影轮播",恐怖电影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=218859
+#EXTINF:-1 tvg-name="恐怖鬼怪" tvg-logo="" group-title="🎬电影轮播",恐怖鬼怪
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1165374
+#EXTINF:-1 tvg-name="童年阴影" tvg-logo="" group-title="🎬电影轮播",童年阴影
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2935323
+#EXTINF:-1 tvg-name="华语影院" tvg-logo="" group-title="🎬电影轮播",华语影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3928
+#EXTINF:-1 tvg-name="神乐影院" tvg-logo="" group-title="🎬电影轮播",神乐影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
+#EXTINF:-1 tvg-name="冰冰影厅" tvg-logo="" group-title="🎬电影轮播",冰冰影厅
+http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
+#EXTINF:-1 tvg-name="刀刀影院" tvg-logo="" group-title="🎬电影轮播",刀刀影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
+#EXTINF:-1 tvg-name="奶虫影院" tvg-logo="" group-title="🎬电影轮播",奶虫影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
+#EXTINF:-1 tvg-name="贝爷壹厅" tvg-logo="" group-title="🎬电影轮播",贝爷壹厅
+http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
+#EXTINF:-1 tvg-name="贝爷贰厅" tvg-logo="" group-title="🎬电影轮播",贝爷贰厅
+http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
+#EXTINF:-1 tvg-name="贝爷叁厅" tvg-logo="" group-title="🎬电影轮播",贝爷叁厅
+http://huanqiuzhibo.cn/manifest/douyu.php?id=36337
+#EXTINF:-1 tvg-name="凌儿影院" tvg-logo="" group-title="🎬电影轮播",凌儿影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1377142
+#EXTINF:-1 tvg-name="花卷影院" tvg-logo="" group-title="🎬电影轮播",花卷影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=52787
+#EXTINF:-1 tvg-name="橙記港剧" tvg-logo="" group-title="🎬电影轮播",橙記港剧
+http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169
+#EXTINF:-1 tvg-name="大宝影院" tvg-logo="" group-title="🎬电影轮播",大宝影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=805235
+#EXTINF:-1 tvg-name="蚂蚱影院" tvg-logo="" group-title="🎬电影轮播",蚂蚱影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6079455
+#EXTINF:-1 tvg-name="怡寶影院" tvg-logo="" group-title="🎬电影轮播",怡寶影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=434971
+#EXTINF:-1 tvg-name="圆子影院" tvg-logo="" group-title="🎬电影轮播",圆子影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6566658
+#EXTINF:-1 tvg-name="贝贝影院" tvg-logo="" group-title="🎬电影轮播",贝贝影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=431460
+#EXTINF:-1 tvg-name="可乐影院" tvg-logo="" group-title="🎬电影轮播",可乐影院
+http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+#EXTINF:-1 tvg-name="下饭神剧" tvg-logo="" group-title="🎬电影轮播",下饭神剧
+http://huanqiuzhibo.cn/manifest/douyu.php?id=276200
+#EXTINF:-1 tvg-name="古装神剧" tvg-logo="" group-title="🎬电影轮播",古装神剧
+http://huanqiuzhibo.cn/manifest/douyu.php?id=338759
+#EXTINF:-1 tvg-name="热门港剧" tvg-logo="" group-title="🎬电影轮播",热门港剧
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5522351
+#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="" group-title="🎬电影轮播",爱情公寓
+http://huanqiuzhibo.cn/manifest/douyu.php?id=2838296
+#EXTINF:-1 tvg-name="绍兴影院" tvg-logo="" group-title="🎬电影轮播",绍兴影院
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 tvg-name="新昌休闲" tvg-logo="" group-title="🎬电影轮播",新昌休闲
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 
 #EXTINF:-1 tvg-name="国语译制电影" tvg-logo="" group-title="电视剧轮播",国语译制电影
 http://liushizupu.site:35455/douyu/2436390
