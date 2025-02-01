@@ -4198,15 +4198,15 @@ https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8?channel=1&t=1727366013&
 #EXTINF:-1 tvg-name="汕头新闻综合" tvg-logo="https://live.fanmingming.com/tv/汕头新闻综合.png" group-title="广东频道",汕头新闻综合
 http://183.33.59.237:8686/udp/239.253.43.45:5146
 #EXTINF:-1 tvg-name="汕头新闻综合" tvg-logo="https://live.fanmingming.com/tv/汕头新闻综合.png" group-title="广东频道",汕头新闻综合
-http://183.15.123.149:9000/udp/239.21.0.101:3744
+http://183.15.121.0:9000/udp/239.21.0.101:3744
 #EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://live.fanmingming.com/tv/汕头经济生活.png" group-title="广东频道",汕汕头经济生活
-http://27.41.250.81:801/hls/41/index.m3u8
+http://113.119.24.90:58888/udp/239.77.1.131:5146
 #EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://live.fanmingming.com/tv/汕头经济生活.png" group-title="广东频道",汕汕头经济生活
-http://183.48.242.74:5050/udp/239.77.1.131:5146
+http://183.30.201.39:10002/udp/239.253.43.46:5146
 #EXTINF:-1 tvg-name="汕头文旅体育" tvg-logo="https://live.fanmingming.com/tv/汕头文旅体育.png" group-title="广东频道",汕头文旅体育
-http://27.41.250.81:801/hls/502/index.m3u8
+http://183.48.240.115:5050/udp/239.77.1.132:5146
 #EXTINF:-1 tvg-name="汕头文旅体育" tvg-logo="https://live.fanmingming.com/tv/汕头文旅体育.png" group-title="广东频道",汕头文旅体育
-http://183.234.156.66:10000/udp/239.253.43.47:5146
+http://183.48.240.115:5050/udp/239.253.43.47:5146
 #EXTINF:-1 tvg-name="肇庆公共频道" tvg-logo="https://live.fanmingming.com/tv/肇庆公共频道.png" group-title="广东频道",肇庆公共频道
 https://zqvlivestream.xjrb.com/zqtlive_slow/eed84230447e4eed917191d72b5d8b73_786.m3u8
 #EXTINF:-1 tvg-name="肇庆频道" tvg-logo="https://live.fanmingming.com/tv/肇庆频道.png" group-title="广东频道",肇庆频道
