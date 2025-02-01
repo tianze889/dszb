@@ -4196,7 +4196,7 @@ https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8?channel=1&t=1727365957&
 #EXTINF:-1 tvg-name="东莞生活资讯" tvg-logo="https://live.fanmingming.com/tv/东莞生活资讯.png" group-title="广东频道",东莞生活资讯
 https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8?channel=1&t=1727366013&ttl=3600&key=2fad2b96c81c38c8e6b189c552c0f8ca
 #EXTINF:-1 tvg-name="汕头新闻综合" tvg-logo="https://live.fanmingming.com/tv/汕头新闻综合.png" group-title="广东频道",汕头新闻综合
-http://113.119.24.149:58888/udp/239.77.1.130:5146
+http://183.33.59.237:8686/udp/239.253.43.45:5146
 #EXTINF:-1 tvg-name="汕头新闻综合" tvg-logo="https://live.fanmingming.com/tv/汕头新闻综合.png" group-title="广东频道",汕头新闻综合
 http://183.15.123.149:9000/udp/239.21.0.101:3744
 #EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://live.fanmingming.com/tv/汕头经济生活.png" group-title="广东频道",汕汕头经济生活
