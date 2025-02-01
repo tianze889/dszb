@@ -4026,7 +4026,7 @@ http://116.11.141.87:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="🏌体育频道",北京体育休闲
 http://1.203.77.72:7788/udp/225.1.0.113:1025
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星.png" group-title="🏌体育频道",五星体育
-http://223.167.74.47:4022/udp/239.45.3.210:5140
+http://223.167.74.126:4022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.com/tv/纬来.png" group-title="🏌体育频道",纬来体育
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="🏌体育频道",风云足球
@@ -4515,8 +4515,6 @@ http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 #EXTINF:-1 tvg-name="安徽经济生活频道" tvg-logo="https://live.fanmingming.com/tv/安徽经济生活频道.png" group-title="安徽频道",安徽经济生活频道
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-#EXTINF:-1 tvg-name="安徽综艺🏌体育频道" tvg-logo="https://live.fanmingming.com/tv/安徽综艺🏌体育频道.png" group-title="安徽频道",安徽综艺🏌体育频道
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 tvg-name="芜湖新闻频道" tvg-logo="https://live.fanmingming.com/tv/芜湖新闻频道.png" group-title="安徽频道",芜湖新闻频道
 https://live3.wuhunews.cn/news/playlist.m3u8?_upt=63df40ad1725344791
 #EXTINF:-1 tvg-name="芜湖生活频道" tvg-logo="https://live.fanmingming.com/tv/芜湖生活频道.png" group-title="安徽频道",芜湖生活频道
@@ -6442,7 +6440,7 @@ http://39.134.136.161:6610/000000001000/2000000002000000013/index.m3u8?livemode=
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星.png" group-title="上海频道",五星体育
 http://39.134.136.161:6610/000000001000/2000000002000000007/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000007
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星.png" group-title="上海频道",五星体育
-http://223.167.74.47:4022/udp/239.45.3.210:5140
+http://223.167.74.126:4022/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="上海国际频道" tvg-logo="" group-title="上海频道",上海国际频道
 http://39.134.136.161:6610/000000001000/2000000002000000001/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000001
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png" group-title="上海频道",上海纪实人文
