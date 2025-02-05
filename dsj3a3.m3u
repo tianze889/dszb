@@ -4382,14 +4382,27 @@ http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 http://cm-wshls.homecdn.com/live/2aa50.m3u8
 #EXTINF:-1 tvg-name="镇江民生频道" tvg-logo="https://live.fanmingming.com/tv/镇江民生频道.png" group-title="江苏频道",镇江民生频道
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="安徽频道",安徽卫视
+https://tvpull.careryun.com/tv/ahws.m3u8
+#EXTINF:-1 tvg-name="安徽综艺" tvg-logo="https://live.fanmingming.com/tv/安徽综艺.png" group-title="安徽频道",安徽综艺
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 tvg-name="安徽综艺" tvg-logo="https://live.fanmingming.com/tv/安徽综艺.png" group-title="安徽频道",安徽综艺
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
+#EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://live.fanmingming.com/tv/安徽影视.png" group-title="安徽频道",安徽影视
+http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+#EXTINF:-1 tvg-name="安徽经济" tvg-logo="https://live.fanmingming.com/tv/安徽经济.png" group-title="安徽频道",安徽经济
+http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
+#EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://live.fanmingming.com/tv/JJ斗地主.png" group-title="安徽频道",JJ斗地主
+http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
+#EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://live.fanmingming.com/tv/JJ斗地主.png" group-title="安徽频道",JJ斗地主
+http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://live.fanmingming.com/tv/安徽经济生活.png" group-title="安徽频道",安徽经济生活
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://live.fanmingming.com/tv/安徽综艺.png" group-title="安徽频道",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 tvg-name="安徽影视频道" tvg-logo="https://live.fanmingming.com/tv/安徽影视频道.png" group-title="安徽频道",安徽影视频道
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-#EXTINF:-1 tvg-name="池州综合" tvg-logo="https://live.fanmingming.com/tv/池州.png" group-title="安徽频道",池州综合
-http://wjsp.chiznews.com:8037/live/xwzh.m3u8
 #EXTINF:-1 tvg-name="池州文教" tvg-logo="https://live.fanmingming.com/tv/池州文教.png" group-title="安徽频道",池州文教
 http://wjsp.chiznews.com:8037/live/wjsh.m3u8
 #EXTINF:-1 tvg-name="阜阳都市" tvg-logo="https://live.fanmingming.com/tv/阜阳都市.png" group-title="安徽频道",阜阳都市
@@ -4398,20 +4411,12 @@ http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=
 http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR
 #EXTINF:-1 tvg-name="固镇综合" tvg-logo="https://live.fanmingming.com/tv/固镇.png" group-title="安徽频道",固镇综合
 http://www.guzhenm.com:7001/hls/hd-live.m3u8
-#EXTINF:-1 tvg-name="歙县综合" tvg-logo="https://live.fanmingming.com/tv/歙县.png" group-title="安徽频道",歙县综合
-http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
-#EXTINF:-1 tvg-name="岳西综合" tvg-logo="https://live.fanmingming.com/tv/岳西.png" group-title="安徽频道",岳西综合
-http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
 #EXTINF:-1 tvg-name="固镇综合" tvg-logo="https://live.fanmingming.com/tv/固镇.png" group-title="安徽频道",固镇综合
 http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 #EXTINF:-1 tvg-name="灵璧综合" tvg-logo="https://live.fanmingming.com/tv/灵璧.png" group-title="安徽频道",灵璧综合
 http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 #EXTINF:-1 tvg-name="安徽经济生活频道" tvg-logo="https://live.fanmingming.com/tv/安徽经济生活频道.png" group-title="安徽频道",安徽经济生活频道
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-#EXTINF:-1 tvg-name="芜湖新闻频道" tvg-logo="https://live.fanmingming.com/tv/芜湖新闻频道.png" group-title="安徽频道",芜湖新闻频道
-https://live3.wuhunews.cn/news/playlist.m3u8?_upt=63df40ad1725344791
-#EXTINF:-1 tvg-name="芜湖生活频道" tvg-logo="https://live.fanmingming.com/tv/芜湖生活频道.png" group-title="安徽频道",芜湖生活频道
-https://live3.wuhunews.cn/channel3/playlist.m3u8?_upt=98a9b36f1725344821
 #EXTINF:-1 tvg-name="岳西频道" tvg-logo="https://live.fanmingming.com/tv/岳西频道.png" group-title="安徽频道",岳西频道
 http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
 #EXTINF:-1 tvg-name="滁州新闻频道" tvg-logo="https://live.fanmingming.com/tv/滁州新闻频道.png" group-title="安徽频道",滁州新闻频道
