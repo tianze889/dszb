@@ -5114,34 +5114,38 @@ http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 http://110.189.153.160:1001/zhpd.flv
 #EXTINF:-1 tvg-name="自贡文化生活" tvg-logo="https://live.fanmingming.com/tv/自贡文化生活.png" group-title="四川频道",自贡文化生活
 http://110.189.153.160:1002/ggpd.flv
-#EXTINF:-1 tvg-name="璧山综合" tvg-logo="https://live.fanmingming.com/tv/璧山.png" group-title="重庆频道",璧山综合
-http://222.179.42.129:8181/hls1.m3u8?zzhongqd
-#EXTINF:-1 tvg-name="垫江综合" tvg-logo="https://live.fanmingming.com/tv/垫江.png" group-title="重庆频道",垫江综合
-http://125.62.24.185:80/1.m3u8?zzhongqd
-#EXTINF:-1 tvg-name="铜梁综合" tvg-logo="https://live.fanmingming.com/tv/铜梁.png" group-title="重庆频道",铜梁综合
-http://183.64.174.171:40123/ch1.m3u8?zzhongqd
-#EXTINF:-1 tvg-name="万州综合" tvg-logo="https://live.fanmingming.com/tv/万州.png" group-title="重庆频道",万州综合
-http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8?zzhongqd
-#EXTINF:-1 tvg-name="万州三峡移民频道" tvg-logo="https://live.fanmingming.com/tv/万州三峡移民频道.png" group-title="重庆频道",万州三峡移民频道
-http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-#EXTINF:-1 tvg-name="万州影视文艺频道" tvg-logo="https://live.fanmingming.com/tv/万州影视文艺频道.png" group-title="重庆频道",万州影视文艺频道
-http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-#EXTINF:-1 tvg-name="万州科教频道" tvg-logo="https://live.fanmingming.com/tv/万州科教频道.png" group-title="重庆频道",万州科教频道
-http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
-#EXTINF:-1 tvg-name="合川综合" tvg-logo="https://live.fanmingming.com/tv/合川.png" group-title="重庆频道",合川综合
-http://125.62.24.72:8030/ch0.m3u8?zzhongqd
-#EXTINF:-1 tvg-name="江津新闻综合" tvg-logo="https://live.fanmingming.com/tv/江津.png" group-title="重庆频道",江津新闻综合
-http://222.179.155.21:1935/ch1.m3u8?zzhongqd
-#EXTINF:-1 tvg-name="武隆综合频道" tvg-logo="https://live.fanmingming.com/tv/武隆综合频道.png" group-title="重庆频道",武隆综合频道
-https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8?zzhongqd
-#EXTINF:-1 tvg-name="荣昌综合" tvg-logo="https://live.fanmingming.com/tv/荣昌.png" group-title="重庆频道",荣昌综合
-http://183.64.181.25:40023/rongchang01.m3u8?zzhongqd
-#EXTINF:-1 tvg-name="重庆新闻频道" tvg-logo="https://live.fanmingming.com/tv/重庆新闻频道.png" group-title="重庆频道",重庆新闻频道
-https://sjlivecdn9.cbg.cn/202409031400/app_2/_definst_/ls_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="荣昌综合频道" tvg-logo="https://live.fanmingming.com/tv/荣昌综合频道.png" group-title="重庆频道",荣昌综合频道
+
+#EXTINF:-1 tvg-name="璧山综合" tvg-logo="" group-title="重庆频道",璧山综合
+http://222.179.42.129:8181/hls1.m3u8
+#EXTINF:-1 tvg-name="荣昌综合" tvg-logo="" group-title="重庆频道",荣昌综合
 http://183.64.181.25:40023/rongchang01.m3u8
-#EXTINF:-1 tvg-name="忠县综合频道" tvg-logo="https://live.fanmingming.com/tv/忠县综合频道.png" group-title="重庆频道",忠县综合频道
-https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8
+#EXTINF:-1 tvg-name="万源新闻综合" tvg-logo="" group-title="重庆频道",万源新闻综合
+http://live.wanyuannews.com/wytv/hd/live.m3u8
+#EXTINF:-1 tvg-name="万州三峡移民" tvg-logo="" group-title="重庆频道",万州三峡移民
+http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
+#EXTINF:-1 tvg-name="万州综合" tvg-logo="" group-title="重庆频道",万州综合
+http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
+#EXTINF:-1 tvg-name="万州综合" tvg-logo="" group-title="重庆频道",万州综合
+http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
+#EXTINF:-1 tvg-name="璧山综合" tvg-logo="" group-title="重庆频道",璧山综合
+http://222.179.42.129:8181/hls1.m3u8?zzhongqd
+#EXTINF:-1 tvg-name="垫江综合" tvg-logo="" group-title="重庆频道",垫江综合
+http://125.62.24.185:80/1.m3u8?zzhongqd
+#EXTINF:-1 tvg-name="崇明电视台" tvg-logo="" group-title="重庆频道",崇明电视台
+https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
+#EXTINF:-1 tvg-name="铜梁综合" tvg-logo="" group-title="重庆频道",铜梁综合
+http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+#EXTINF:-1 tvg-name="万州三峡移民频道" tvg-logo="" group-title="重庆频道",万州三峡移民频道
+http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 tvg-name="万州影视文艺频道" tvg-logo="" group-title="重庆频道",万州影视文艺频道
+http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 tvg-name="万州科教频道" tvg-logo="" group-title="重庆频道",万州科教频道
+http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
+#EXTINF:-1 tvg-name="合川综合" tvg-logo="" group-title="重庆频道",合川综合
+http://125.62.24.72:8030/ch0.m3u8?zzhongqd
+#EXTINF:-1 tvg-name="荣昌综合" tvg-logo="" group-title="重庆频道",荣昌综合
+http://183.64.181.25:40023/rongchang01.m3u8?zzhongqd
+
 #EXTINF:-1 tvg-name="武汉新闻综合频道" tvg-logo="https://live.fanmingming.cn/tv/武汉新闻综合频道.png" group-title="湖北频道",武汉新闻综合频道
 http://stream.appwuhan.com/1tzb/sd/live.m3u8
 #EXTINF:-1 tvg-name="武汉电视剧频道" tvg-logo="https://live.fanmingming.cn/tv/武汉电视剧频道.png" group-title="湖北频道",武汉电视剧频道
@@ -6354,60 +6358,46 @@ http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
 https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 #EXTINF:-1 tvg-name="西宁生活" tvg-logo="https://live.fanmingming.com/tv/西宁生活.png" group-title="宁夏频道",西宁生活
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
-#EXTINF:-1 tvg-name="鄂托克旗电视台" tvg-logo="https://live.fanmingming.com/tv/鄂托克旗电视台.png" group-title="内蒙古频道",鄂托克旗电视台
+
+#EXTINF:-1 tvg-name="鄂托克旗电视台" tvg-logo="" group-title="内蒙古频道",鄂托克旗电视台
 http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
-#EXTINF:-1 tvg-name="乌兰察布新闻综合频道" tvg-logo="https://live.fanmingming.com/tv/乌兰察布新闻综合频道.png" group-title="内蒙古频道",乌兰察布新闻综合频道
+#EXTINF:-1 tvg-name="乌兰察布新闻综合频道" tvg-logo="" group-title="内蒙古频道",乌兰察布新闻综合频道
 https://pluslive.wrbtv.cn/xwzhpd/sd/live.m3u8?_upt=055343981725352740
-#EXTINF:-1 tvg-name="乌兰察布生活频道" tvg-logo="https://live.fanmingming.com/tv/乌兰察布生活频道.png" group-title="内蒙古频道",乌兰察布生活频道
+#EXTINF:-1 tvg-name="乌兰察布生活频道" tvg-logo="" group-title="内蒙古频道",乌兰察布生活频道
 http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
-#EXTINF:-1 tvg-name="内蒙古新闻综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古.png" group-title="内蒙古频道",内蒙古新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" group-title="内蒙古频道",内蒙古经济生活
-https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古少儿频道" tvg-logo="https://live.fanmingming.com/tv/内蒙古少儿频道.png" group-title="内蒙古频道",内蒙古少儿频道
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.com/tv/内蒙古文体娱乐.png" group-title="内蒙古频道",内蒙古文体娱乐
-https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古农牧频道" tvg-logo="https://live.fanmingming.com/tv/内蒙古农牧频道.png" group-title="内蒙古频道",内蒙古农牧频道
-https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古蒙语频道" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语频道.png" group-title="内蒙古频道",内蒙古蒙语频道
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-#EXTINF:-1 tvg-name="内蒙古文化频道" tvg-logo="https://live.fanmingming.com/tv/内蒙古文化频道.png" group-title="内蒙古频道",内蒙古文化频道
-https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-#EXTINF:-1 tvg-name="鄂托克旗综合频道" tvg-logo="https://live.fanmingming.com/tv/鄂托克旗综合频道.png" group-title="内蒙古频道",鄂托克旗综合频道
-http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
-#EXTINF:-1 tvg-name="奎屯汉语综合" tvg-logo="https://live.fanmingming.com/tv/奎屯汉语.png" group-title="内蒙古频道",奎屯汉语综合
+#EXTINF:-1 tvg-name="奎屯汉语综合" tvg-logo="" group-title="内蒙古频道",奎屯汉语综合
 http://218.84.12.186:8001/hls/main/playlist.m3u8
-#EXTINF:-1 tvg-name="奎屯哈萨克语" tvg-logo="https://live.fanmingming.com/tv/奎屯哈萨克语.png" group-title="内蒙古频道",奎屯哈萨克语
+#EXTINF:-1 tvg-name="奎屯哈萨克语" tvg-logo="" group-title="内蒙古频道",奎屯哈萨克语
 http://218.84.12.186:8002/hls/main/playlist.m3u8
-#EXTINF:-1 tvg-name="玛纳斯综合频道" tvg-logo="https://live.fanmingming.com/tv/玛纳斯综合频道.png" group-title="内蒙古频道",玛纳斯综合频道
+#EXTINF:-1 tvg-name="玛纳斯综合频道" tvg-logo="" group-title="内蒙古频道",玛纳斯综合频道
 http://218.84.127.245:1026/hls/main1/playlist.m3u8
-#EXTINF:-1 tvg-name="内蒙古综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古.png" group-title="内蒙古频道",内蒙古综合
-https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" group-title="内蒙古频道",内蒙古经济生活
-https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://live.fanmingming.com/tv/内蒙古.png" group-title="内蒙古频道",内蒙古少儿
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.com/tv/内蒙古文体娱乐.png" group-title="内蒙古频道",内蒙古文体娱乐
-https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://live.fanmingming.com/tv/内蒙古农牧.png" group-title="内蒙古频道",内蒙古农牧
-https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语卫视.png" group-title="内蒙古频道",内蒙古蒙语卫视
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-#EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.com/tv/内蒙古蒙语文化.png" group-title="内蒙古频道",内蒙古蒙语文化
-https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-#EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://live.fanmingming.com/tv/呼和浩特.png" group-title="内蒙古频道",呼和浩特新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=70072e9dff1f4042fcefde5b001af668&txTime=771E8800
-#EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://live.fanmingming.com/tv/包头.png" group-title="内蒙古频道",包头新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=d5a1fe0898512f4a1d513bc0f9c5b751&txTime=771E8800
-#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://live.fanmingming.com/tv/鄂尔多斯.png" group-title="内蒙古频道",鄂尔多斯新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=b7f46f8c1bcd9e2db3aa285e7afd6255&txTime=771E8800
-#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://live.fanmingming.com/tv/巴彦淖尔.png" group-title="内蒙古频道",巴彦淖尔新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=7b16e82a11c42b867ae27383922ef7f9&txTime=771E8800
-#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://live.fanmingming.com/tv/赤峰.png" group-title="内蒙古频道",赤峰新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=08be8d464e60db2c3aa1e8e7d742f71d&txTime=771E8800
-#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://live.fanmingming.com/tv/乌兰察布.png" group-title="内蒙古频道",乌兰察布新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=8bca81250fd7df3b633efcbb6150b0c6&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙新闻" tvg-logo="" group-title="内蒙古频道",内蒙新闻
+https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙经济" tvg-logo="" group-title="内蒙古频道",内蒙经济
+https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙少儿" tvg-logo="" group-title="内蒙古频道",内蒙少儿
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙文体" tvg-logo="" group-title="内蒙古频道",内蒙文体
+https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
+#EXTINF:-1 tvg-name="内蒙农牧" tvg-logo="" group-title="内蒙古频道",内蒙农牧
+https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
+#EXTINF:-1 tvg-name="蒙语卫视" tvg-logo="" group-title="内蒙古频道",蒙语卫视
+https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
+#EXTINF:-1 tvg-name="蒙语文化" tvg-logo="" group-title="内蒙古频道",蒙语文化
+https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
+#EXTINF:-1 tvg-name="呼市新闻综合" tvg-logo="" group-title="内蒙古频道",呼市新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
+#EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="" group-title="内蒙古频道",包头新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
+#EXTINF:-1 tvg-name="鄂尔多斯新闻" tvg-logo="" group-title="内蒙古频道",鄂尔多斯新闻
+https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
+#EXTINF:-1 tvg-name="巴彦淖尔新闻" tvg-logo="" group-title="内蒙古频道",巴彦淖尔新闻
+https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
+#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="" group-title="内蒙古频道",赤峰新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
+#EXTINF:-1 tvg-name="乌兰察布新闻" tvg-logo="" group-title="内蒙古频道",乌兰察布新闻
+https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
+
 #EXTINF:-1 tvg-name="青海经视频道" tvg-logo="https://live.fanmingming.com/tv/青海经视频道.png" group-title="青海频道",青海经视频道
 http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=e4e9fe741725348067
 #EXTINF:-1 tvg-name="青海都市频道" tvg-logo="https://live.fanmingming.com/tv/青海都市频道.png" group-title="青海频道",青海都市频道
