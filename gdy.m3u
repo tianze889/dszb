@@ -4874,10 +4874,16 @@ http://60.29.124.66:6080/hls/7/index.m3u8
 http://60.29.124.66:6080/hls/5/index.m3u8
 #EXTINF:-1 tvg-name="滨海新闻" tvg-logo="" group-title="天津频道",滨海新闻
 http://ikuai.xushining.com:50000/udp/225.1.2.7:5002
-#EXTINF:-1 tvg-name="津南一套" tvg-logo="" group-title="天津频道",津南一套
-https://play.jinnantv.top/live/JNTV1/playlist.m3u8
+#EXTINF:-1 tvg-name="滨海新闻" tvg-logo="" group-title="天津频道",滨海新闻
+http://traffic.jbh.tjbh.com/live/bhtv10/chunklist_w163242749.m3u8
 #EXTINF:-1 tvg-name="滨海综艺" tvg-logo="" group-title="天津频道",滨海综艺
 https://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
+#EXTINF:-1 tvg-name="滨海综艺" tvg-logo="" group-title="天津频道",滨海综艺
+http://traffic.jbh.tjbh.com/live/bhtv20/playlist.m3u8
+#EXTINF:-1 tvg-name="津南一套" tvg-logo="" group-title="天津频道",津南一套
+https://play.jinnantv.top/live/JNTV1/playlist.m3u8
+#EXTINF:-1 tvg-name="宝坻一套" tvg-logo="" group-title="天津频道",宝坻一套
+https://player4.juyun.tv/tv/143100176.m3u8
 
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="山东频道",山东卫视
 http://gf.you123.fun:35455/itv/1000000005000265019.m3u8?cdn=ystenlive
