@@ -3104,54 +3104,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-name="精彩综艺" tvg-logo="https://live.fanmingming.cn/tv/精彩综艺.png" group-title="📡央卫IPV6源",精彩综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 
-#EXTINF:-1 tvg-name="邵氏影院" tvg-logo="" group-title="🎬电影轮播",邵氏影院
-http://dns.yiandrive.com:15907/douyu/4246519
-#EXTINF:-1 tvg-name="1905影院" tvg-logo="" group-title="🎬电影轮播",1905影院
-http://dns.yiandrive.com:15907/1905/1905a
-#EXTINF:-1 tvg-name="1905经典" tvg-logo="" group-title="🎬电影轮播",1905经典
-http://dns.yiandrive.com:15907/1905/1905b
-#EXTINF:-1 tvg-name="恐怖影院" tvg-logo="" group-title="🎬电影轮播",恐怖影院
-http://dns.yiandrive.com:15907/douyu/2935323
-#EXTINF:-1 tvg-name="恐怖频道" tvg-logo="" group-title="🎬电影轮播",恐怖频道
-http://dns.yiandrive.com:15907/douyu/1165374
-#EXTINF:-1 tvg-name="香港鬼片" tvg-logo="" group-title="🎬电影轮播",香港鬼片
-http://dns.yiandrive.com:15907/douyu/8009547
-#EXTINF:-1 tvg-name="变种人台" tvg-logo="" group-title="🎬电影轮播",变种人台
-http://dns.yiandrive.com:15907/douyu/9651304
-#EXTINF:-1 tvg-name="斗鱼影院" tvg-logo="" group-title="🎬电影轮播",斗鱼影院
-http://dns.yiandrive.com:15907/douyu/434971
-#EXTINF:-1 tvg-name="国产大片" tvg-logo="" group-title="🎬电影轮播",国产大片
-http://dns.yiandrive.com:15907/yy/1354926655
-#EXTINF:-1 tvg-name="经典港剧" tvg-logo="" group-title="🎬电影轮播",经典港剧
-http://dns.yiandrive.com:15907/douyu/5261342
-#EXTINF:-1 tvg-name="战争巨片" tvg-logo="" group-title="🎬电影轮播",战争巨片
-http://dns.yiandrive.com:15907/yy/1354936249
-#EXTINF:-1 tvg-name="緯來電影" tvg-logo="" group-title="🎬电影轮播",緯來電影
-http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
-#EXTINF:-1 tvg-name="龍華電影" tvg-logo="" group-title="🎬电影轮播",龍華電影
-http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
-#EXTINF:-1 tvg-name="HBO 频道" tvg-logo="" group-title="🎬电影轮播",HBO 频道
-http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 tvg-name="AXN 频道" tvg-logo="" group-title="🎬电影轮播",AXN 频道
-http://122.117.71.103:8557/http/61.222.53.250:8081/hls/71/813/ch43.m3u8
-#EXTINF:-1 tvg-name="CINEM AX" tvg-logo="" group-title="🎬电影轮播",CINEM AX
-http://122.117.71.103:8558/http/61.222.53.250:8081/hls/71/813/ch42.m3u8
-#EXTINF:-1 tvg-name="AMC 電影" tvg-logo="" group-title="🎬电影轮播",AMC 電影
-http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
-#EXTINF:-1 tvg-name="東森戲劇" tvg-logo="" group-title="🎬电影轮播",東森戲劇
-http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/806/ch13.m3u8
-#EXTINF:-1 tvg-name="龍華戲劇" tvg-logo="" group-title="🎬电影轮播",龍華戲劇
-http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
-#EXTINF:-1 tvg-name="八大戲劇" tvg-logo="" group-title="🎬电影轮播",八大戲劇
-http://122.117.71.103:8530/http/61.222.53.250:8081/hls/66/808/ch23.m3u8
-#EXTINF:-1 tvg-name="東森幼幼" tvg-logo="" group-title="🎬电影轮播",東森幼幼
-http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
-#EXTINF:-1 tvg-name="龍華卡通" tvg-logo="" group-title="🎬电影轮播",龍華卡通
-http://122.117.71.103:8516/http/61.222.53.250:8068/hls/14/80/cstv14.m3u8
-#EXTINF:-1 tvg-name="搞笑恐怖" tvg-logo="" group-title="🎬电影轮播",搞笑恐怖
-http://iptv.com.gerss.cn/huya/11601960
-#EXTINF:-1 tvg-name="神乐影院" tvg-logo="" group-title="🎬电影轮播",神乐影院
-http://124.156.142.24:8888/douyu/122402
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="" group-title="🎬电影轮播",周星驰
 http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 #EXTINF:-1 tvg-name="欢乐综艺" tvg-logo="" group-title="🎬电影轮播",欢乐综艺
