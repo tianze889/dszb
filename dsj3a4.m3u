@@ -1199,6 +1199,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="🛰卫视频道",厦门卫视
 https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="🛰卫视频道",厦门卫视
+https://live1.kxm.xmtv.cn/xmtjsws/YyHQqp/live.m3u8
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🛰卫视频道",北京卫视
 http://mh0.asia:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
@@ -2206,10 +2208,6 @@ http://39.135.133.175:80/wh7f454c46tw2765006493_-1264747621/ottrrs.hl.chinamobil
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="🛰卫视频道",青海卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="🛰卫视频道",厦门卫视
-http://39.134.136.161:6610/000000001000/1000000005000266006/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266006
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="🛰卫视频道",厦门卫视
-http://home.await.moe:30000/udp/239.3.1.143:4120
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.cn/tv/山东教育卫视.png" group-title="🛰卫视频道",山东教育卫视
 http://39.135.133.175:80/wh7f454c46tw3137178556_551747837/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8?icpid=88888888&RTS=1730368151&from=23&hms_devid=1252&online=1730368151&vqe=3
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="🛰卫视频道",山东卫视
