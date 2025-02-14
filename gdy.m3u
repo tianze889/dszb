@@ -6,7 +6,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.cn/tv/香港卫视.png" group-title="🌍港澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="🌍港澳台",凤凰卫视中文台
-http://211.75.171.121:8577/http/61.67.128.137:8078/hls/21/80/phoenixch.m3u8
+http://ttkx.cc:1380/公开源/fh.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="🌍港澳台",凤凰卫视中文台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="🌍港澳台",凤凰卫视中文台
@@ -20,7 +20,7 @@ http://223.105.252.60:80/PLTV/3/224/3221228527/indindex.m3u8?icpid=3&from=1&hms_
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="🌍港澳台",凤凰卫视中文台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="🌍港澳台",凤凰卫视资讯台
-http://211.75.171.121:8576/http/61.67.128.137:8078/hls/20/80/phoenixif.m3u8
+http://ttkx.cc:1380/公开源/fh.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="🌍港澳台",凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="🌍港澳台",凤凰卫视资讯台
@@ -33,6 +33,8 @@ http://223.105.252.60:80/PLTV/3/224/3221228524/indindex.m3u8?icpid=3&from=1&hms_
 http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="🌍港澳台",凤凰卫视香港台
 http://223.105.252.60:80/PLTV/3/224/3221228530/indindex.m3u8?icpid=3&from=1&hms_devid=6882
+#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="🌍港澳台",凤凰卫视香港台
+http://ttkx.cc:1380/公开源/fh.php?id=fhhk
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="🌍港澳台",凤凰卫视香港台
 http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="🌍港澳台",翡翠台
