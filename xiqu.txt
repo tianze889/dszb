@@ -8,14 +8,10 @@
       "name": "🌹爱尚戏曲🌹",
          "type": 3,
       "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735218550736/aishang.jar;md5;b7ba53fabc55bb1ef770f1dbf00b5e14",
-      "ext": {
-        "json": "./xiqu.json",
-        "type": "",
-        "cookie": ""
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "戏曲自定义",
