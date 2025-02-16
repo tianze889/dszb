@@ -167,16 +167,12 @@ https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 #EXTINF:-1 tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.cn/tv/韩国电影2.png" group-title="🌍港澳台",韩国电影2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-#EXTINF:-1 tvg-name="韩国电影3" tvg-logo="https://live.fanmingming.cn/tv/韩国电影3.png" group-title="🌍港澳台",韩国电影3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 #EXTINF:-1 tvg-name="红牛运动" tvg-logo="https://live.fanmingming.cn/tv/红牛运动.png" group-title="🌍港澳台",红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-name="广州竞赛频道" tvg-logo="https://live.fanmingming.cn/tv/广州竞赛频道.png" group-title="🌍港澳台",广州竞赛频道
 https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
 #EXTINF:-1 tvg-name="广州新闻频道" tvg-logo="https://live.fanmingming.cn/tv/广州新闻频道.png" group-title="🌍港澳台",广州新闻频道
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
-#EXTINF:-1 tvg-name="无线新闻频道" tvg-logo="https://live.fanmingming.cn/tv/无线新闻频道.png" group-title="🌍港澳台",无线新闻频道
-https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="无线翡翠频道" tvg-logo="https://live.fanmingming.cn/tv/无线翡翠频道.png" group-title="🌍港澳台",无线翡翠频道
 http://php.jdshipin.com/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="无线华丽频道" tvg-logo="https://live.fanmingming.cn/tv/无线华丽频道.png" group-title="🌍港澳台",无线华丽频道
@@ -1453,8 +1449,6 @@ http://8.138.90.107/公众号睡眼迷离的猫/kk.php?id=hinws
 
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png" group-title="🛰卫视频道",安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🛰卫视频道",东方卫视
-http://tv.20191209.xyz:37377/migu/651632648.m3u8?migutoken=a9a2b71c87ef01a1f546b80d3776d4e2ab5a03525b06b379f6d3ebca3a7a40f732115ab805783c8a8a73e5580900755cdfb3b6d3c2b9308a46141d56b6b629038613c381a9027a60e527e1c8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🛰卫视频道",江苏卫视
 http://tv.20191209.xyz:37377/migu/623899368.m3u8?migutoken=0c1255f44cf0460d401afd9fdc722c6398b97c5880dc9c45f00ae3faa4d208ecd6942cc08a2f3f09bac00b520297cc93d1b83c17d52ade00620508eae303d397c58e8b1deb59c8ac4158cd7d
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🛰卫视频道",河南卫视
@@ -1485,18 +1479,12 @@ http://211.101.234.24:866/aishang/migu.php/migu.php?id=jxws
 http://211.101.234.24:866/aishang/migu.php/migu.php?id=jsws
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="🛰卫视频道",大湾区卫视
 http://211.101.234.24:866/aishang/migu.php/migu.php?id=dwqws
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="🛰卫视频道",辽宁卫视
-http://182.245.198.42:30080/wh7f454c46tw3725148472_-473696735/01000200/01000000000000000000000001826568/01.m3u8?fmt=ts2hls,222,01.m3u8,0,8532,0,0&accountinfo=%2C%2C112.117.225.9%2C20250214102359%2C90000001000000050000000000000253%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001826568%2CEND&GuardEncType=2&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReqJHM2ADTydKpiat34b0Rg27YwgAZXmW%2BYMFqp1YBAdfw%3D%3D&Playtype=1&servicetype=1&HlsSubType=1&HlsProfileId=1&CommPrivateInfo=3
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🛰卫视频道",东方卫视
-http://182.245.198.36:30080/wh7f454c46tw3516883803_1212748388/01000200/01000000000000000000000001827477/01.m3u8?fmt=ts2hls,221,01.m3u8,0,3432,0,0&accountinfo=%2C%2C112.117.225.9%2C20250214102031%2C90000001000000050000000000000414%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001827477%2CEND&GuardEncType=2&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReon6B%2FCodIZZy3HFZuzM1kwi7FgufruZNIEqT7zVjG9pw%3D%3D&Playtype=1&servicetype=1&HlsSubType=1&HlsProfileId=1&CommPrivateInfo=3
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🛰卫视频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="🛰卫视频道",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="🛰卫视频道",厦门卫视
-https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.cn/tv/厦门卫视.png" group-title="🛰卫视频道",厦门卫视
-https://live1.kxm.xmtv.cn/xmtjsws/YyHQqp/live.m3u8
+http://113.118.15.210:808/hls/17/index.m3u8
 
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="🛰卫视频道",安徽卫视
 http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=ANHUIHD
@@ -2022,10 +2010,6 @@ https://stream1.freetv.fun/gui-zhou-wei-shi-gao-qing-3.ctv
 https://stream1.freetv.fun/he-bei-wei-shi-90.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="🛰卫视频道",河南卫视
 https://stream1.freetv.fun/he-nan-wei-shi-89.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="🛰卫视频道",河南卫视
-https://stream1.freetv.fun/he-nan-wei-shi-50.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="🛰卫视频道",河南卫视
-https://stream1.freetv.fun/he-nan-wei-shi-64.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="🛰卫视频道",黑龙江卫视
 https://stream1.freetv.fun/hei-long-jiang-wei-shi-2.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="🛰卫视频道",黑龙江卫视
