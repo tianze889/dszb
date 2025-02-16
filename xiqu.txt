@@ -4,11 +4,11 @@
   
   "sites": [
     {
-      "key": "戏曲自定义",
-      "name": "🌹爱尚戏曲🌹",
+      "key": "豆豆",
+      "name": "🌹爱尚🌹 秋水tv1.2更新 ,前面三个频道有扫码下载",
          "type": 3,
-      "api": "csp_Bili",
-      "indexs": 2,
+      "api": "csp_DouDou",
+      "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
