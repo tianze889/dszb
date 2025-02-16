@@ -5217,6 +5217,10 @@ http://14.112.86.85:4022/udp/239.77.0.253:5146
 http://125.89.163.44:8888/udp/239.77.0.253:5146
 #EXTINF:-1 tvg-name="云浮综合" tvg-logo="https://live.fanmingming.com/tv/云浮综合.png" group-title="广东频道",云浮综合
 http://14.19.151.0:9900/udp/239.77.0.253:5146
+#EXTINF:-1 tvg-name="中山综合" tvg-logo="" group-title="广东频道",中山综合
+http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
+#EXTINF:-1 tvg-name="中山香山文化" tvg-logo="" group-title="广东频道",中山香山文化
+http://v.zsbtv.com.cn/lsdream/H3QclaV/2000/live.m3u8
 #EXTINF:-1 tvg-name="江门侨乡生活" tvg-logo="https://live.fanmingming.com/tv/江门侨乡生活.png" group-title="广东频道",江门侨乡生活
 http://14.112.86.85:4022/udp/239.77.0.202:5146
 #EXTINF:-1 tvg-name="江门侨乡生活" tvg-logo="https://live.fanmingming.com/tv/江门侨乡生活.png" group-title="广东频道",江门侨乡生活
