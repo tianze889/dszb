@@ -7572,46 +7572,89 @@ http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 #EXTINF:-1 tvg-name="文山综合" tvg-logo="https://live.fanmingming.com/tv/文山.png" group-title="云南频道",文山综合
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="湖南频道",湖南卫视
-http://tvpull.careryun.com/tv/cn_hunws.m3u8
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.cn/tv/湖南经视.png" group-title="湖南频道",湖南经视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="" group-title="湖南频道",湖南卫视
+http://jp1.jdiptv.cc/live/hnwshd.m3u8?kdstime=1737444168&kdssign=717ad8ec225289b3d4d0f4784a5cecf9
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="" group-title="湖南频道",湖南经视
 http://tvbox6.icu/tv/mgtv.php?id=280
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://live.fanmingming.cn/tv/湖南电影.png" group-title="湖南频道",湖南电影
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="" group-title="湖南频道",湖南电影
 http://tvbox6.icu/tv/mgtv.php?id=221
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.cn/tv/湖南都市.png" group-title="湖南频道",湖南都市
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="" group-title="湖南频道",湖南都市
 http://tvbox6.icu/tv/mgtv.php?id=346
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.cn/tv/湖南电视剧.png" group-title="湖南频道",湖南电视剧
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="" group-title="湖南频道",湖南电视剧
 http://tvbox6.icu/tv/mgtv.php?id=484
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.cn/tv/湖南爱晚.png" group-title="湖南频道",湖南爱晚
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="" group-title="湖南频道",湖南爱晚
 http://tvbox6.icu/tv/mgtv.php?id=261
-#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://live.fanmingming.cn/tv/湖南国际.png" group-title="湖南频道",湖南国际
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="" group-title="湖南频道",湖南国际
 http://tvbox6.icu/tv/mgtv.php?id=229
-#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.cn/tv/湖南娱乐.png" group-title="湖南频道",湖南娱乐
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="" group-title="湖南频道",湖南娱乐
 http://tvbox6.icu/tv/mgtv.php?id=344
-#EXTINF:-1 tvg-name="长沙新闻" tvg-logo="https://live.fanmingming.cn/tv/长沙新闻.png" group-title="湖南频道",长沙新闻
+#EXTINF:-1 tvg-name="长沙新闻" tvg-logo="" group-title="湖南频道",长沙新闻
 http://tvbox6.icu/tv/mgtv.php?id=269
-#EXTINF:-1 tvg-name="长沙政法" tvg-logo="https://live.fanmingming.cn/tv/长沙政法.png" group-title="湖南频道",长沙政法
+#EXTINF:-1 tvg-name="长沙政法" tvg-logo="" group-title="湖南频道",长沙政法
 http://tvbox6.icu/tv/mgtv.php?id=254
-#EXTINF:-1 tvg-name="长沙女性" tvg-logo="https://live.fanmingming.cn/tv/长沙女性.png" group-title="湖南频道",长沙女性
+#EXTINF:-1 tvg-name="长沙女性" tvg-logo="" group-title="湖南频道",长沙女性
 http://tvbox6.icu/tv/mgtv.php?id=230
-#EXTINF:-1 tvg-name="湘潭综合" tvg-logo="https://live.fanmingming.cn/tv/湘潭综合.png" group-title="湖南频道",湘潭综合
+#EXTINF:-1 tvg-name="湘潭综合" tvg-logo="" group-title="湖南频道",湘潭综合
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/湖南经视.png" group-title="湖南频道",湖南经视
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="" group-title="湖南频道",湖南经视
 http://php.jdshipin.com:8880/iptv.php?id=hnjs
-#EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/湖南都市.png" group-title="湖南频道",湖南都市
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="" group-title="湖南频道",湖南都市
 http://php.jdshipin.com:8880/iptv.php?id=hnds
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="湖南频道",湖南爱晚
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="" group-title="湖南频道",湖南爱晚
 http://php.jdshipin.com:8880/iptv.php?id=hngg
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://live.fanmingming.com/tv/湖南电视剧.png" group-title="湖南频道",湖南电视剧
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="" group-title="湖南频道",湖南电视剧
 http://php.jdshipin.com:8880/iptv.php?id=hndsj
-#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/湖南娱乐.png" group-title="湖南频道",湖南娱乐
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="" group-title="湖南频道",湖南娱乐
 http://php.jdshipin.com:8880/iptv.php?id=hnyl
-#EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://live.fanmingming.com/tv/湖南国际.png" group-title="湖南频道",湖南国际
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="" group-title="湖南频道",湖南国际
 http://php.jdshipin.com:8880/iptv.php?id=hngj
-#EXTINF:-1 tvg-name="南县综合" tvg-logo="https://live.fanmingming.com/tv/南县综合.png" group-title="湖南频道",南县综合
+#EXTINF:-1 tvg-name="南县综合" tvg-logo="" group-title="湖南频道",南县综合
 http://hnstnx.chinashadt.com:2037/live/10001.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-name="黄陂新闻" tvg-logo="https://live.fanmingming.com/tv/黄陂新闻.png" group-title="湖南频道",黄陂新闻
+#EXTINF:-1 tvg-name="黄陂新闻" tvg-logo="" group-title="湖南频道",黄陂新闻
 http://livehprm.hptv.com.cn/zbpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="" group-title="湖南频道",金鹰纪实
+http://116.52.233.90:30080/01000200/01000000000000000000000001827581/index.m3u8?zoneoffset=0&servicetype=1&icpid=&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReqVOSAPEKe578c6WxQ60SZ4bOOtqCUURiqT3U1aexrUdw%3D%3D&accountinfo=%2C%2C112.117.225.9%2C20250219155054%2C90000001000000050000000000000425%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001827581%2CEND&GuardEncType=2&Playtype=1
+#EXTINF:-1 tvg-name="湖南国际" tvg-logo="" group-title="湖南频道",湖南国际
+http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmcz04NWRiNzg4ZmJlZTc2YzIxZmYzNjE4ZWFmZDc5NmRhZiZ1aWQ9JnV1aWQ9NDg3YjE1ZWE0Y2IyM2U1N2NiZDFkZjZmYTlhNDE1ZDItNzA3ZTUyNTcmdj0yJmFzPTAmZXM9MTczOTk4MDMyNA,,/HNGJMPP360.m3u8
+#EXTINF:-1 tvg-name="湖南经视" tvg-logo="" group-title="湖南频道",湖南经视
+http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmcz1hNmMyN2ZkYTUzNWQyOTgwZjRkYzBmM2JkOTU5ZTFmYiZ1aWQ9JnV1aWQ9ZGU4ZmY5MmJmMWI1MTBjNTA2OGYyOTdkODQ4NTllNTktNzA3ZTUyNTcmdj0yJmFzPTAmZXM9MTczOTk4MDQwMw,,/HNJSMPP360.m3u8
+#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="" group-title="湖南频道",湖南电视剧
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJnM9OWFiZGJlN2QzOGRlNzcyMzVhMzU4NDg0NjlkOTZiOWYmdWlkPSZ1dWlkPWRkMDY0ZTk4OWU4MzVmOTY1ODBiYTU5ZmIzZDY3YjZmLTcwN2U1MjU3JnY9MiZhcz0wJmVzPTE3Mzk5ODA0Njg,/HNDSJMPP360.m3u8
+#EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="" group-title="湖南频道",湖南娱乐
+http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmcz1kM2E1YzY2YTc5OTRmNWQzMTA5Yzc2OWJlNDhlODA2OCZ1aWQ9JnV1aWQ9NmE2MjQwYmUyYTUwZmMwYTQ5NWIxMDc5NjI4MDQzNGUtNzA3ZTUyNTcmdj0yJmFzPTAmZXM9MTczOTk4MDI1Mg,,/HNYLMPP360.m3u8
+#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="" group-title="湖南频道",湖南爱晚
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJnM9Yjc4N2NmNGI3ZjYzZGIzN2Y3ZGMwYmNjMjQ0ZWY2MWQmdWlkPSZ1dWlkPWFhZTNhYjMxNTBmYjRhZjA5YmVlYjI3Yzk0OTYwNDM3LTcwN2U1MjU3JnY9MiZhcz0wJmVzPTE3Mzk5ODAzNDQ,/HNGGMPP360.m3u8
+#EXTINF:-1 tvg-name="湖南都市" tvg-logo="" group-title="湖南频道",湖南都市
+http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmcz03MTc3MTExNTk1ZWJhODU4NjJkNjU5MzIxYzVjMGZiOSZ1aWQ9JnV1aWQ9OTkwMTU3NTQzNWNkOGQ1YWQ1MDMzOGUyMTNkZjcwZDItNzA3ZTUyNTcmdj0yJmFzPTAmZXM9MTczOTk4MDYxNA,,/HNDSMPP360.m3u8
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="" group-title="湖南频道",茶频道
+http://182.245.198.37:30080/wh7f454c46tw493166584_102347983/01000200/01000000000000000000000001827141/01.m3u8?fmt=ts2hls,221,01.m3u8,0,4499,0,0&accountinfo=%2C%2C112.117.225.9%2C20250219155754%2C90000001000000050000000000000300%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001827141%2CEND&GuardEncType=2&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KRerOno7NgFcqrTkFK3cJcvfULRdQZorpNFjjnMnJFzbFxg%3D%3D&Playtype=1&servicetype=1&HlsSubType=1&HlsProfileId=1&CommPrivateInfo=3
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="" group-title="湖南频道",先锋乒羽
+http://116.52.233.90:30080/01000200/01000000000000000000000001827001/index.m3u8?rrsip=116.52.233.90:30080&zoneoffset=0&servicetype=1&icpid=&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KRepuXypyyOk9R2S9QxJOHoty%2FRZNrsvefCx3kMpb1uzvxQ%3D%3D&accountinfo=%2C%2C112.117.225.9%2C20250219155841%2C00000001000000050000000000000566%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001827001%2CEND&GuardEncType=2&Playtype=1
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="" group-title="湖南频道",快乐垂钓
+http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmcz1mNGI0NjI5ODI3NjVkY2IyYjI2MTYzYjE3ZmRlZDM1NCZ1aWQ9JnV1aWQ9YTMwMGI1NTQwYzg2NmVjODUzNjE5NjcwM2E2MmNiYWItNzA3ZTUyNTcmdj0yJmFzPTAmZXM9MTczOTk4MDY0OA,,/KLCDMPP360.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="" group-title="湖南频道",金鹰纪实
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJnM9ZjNkNGM3ZWZiMzJjNzc2ZGY4NGJiOGUxMzc0ZDcyZjAmdWlkPSZ1dWlkPWJiZGNjZjBmZjIzNzFkNzJkNWYxMjMyNzNiZDZlNjJkLTcwN2U1MjU3JnY9MiZhcz0wJmVzPTE3Mzk5ODA4NTQ,/JYJSMPP360.m3u8
+#EXTINF:-1 tvg-name="湖南电影" tvg-logo="" group-title="湖南频道",湖南电影
+http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1od19waG9uZSZzPWEyNjE1OGI4MTlkMmRmOTRkYTE0YTM1ZTg5YTQ3NjJiJnVpZD0mdXVpZD0zZDVlZjM4MGFkZDU5MmUzZmU4MjA2MTY5NTYzYTEzZS03MDdlNTI1NyZ2PTImYXM9MCZlcz0xNzM5OTgwODkx/HNDYMPP360.m3u8
+#EXTINF:-1 tvg-name="长沙新闻频道" tvg-logo="" group-title="湖南频道",长沙新闻频道
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD10eF9waG9uZV9saXZlJnM9Y2VlZjdlMmYxNDcwYjc5NjI5MWRiNjlhMmEwNmNiMTQmdWlkPSZ1dWlkPTE0ZDk5ODU3OGExNGFmZDAxOTM3ZTkwMjg4NTA1YzIyLTcwN2U1MjU3JnY9MiZhcz0wJmVzPTE3Mzk5ODA4MzQ,/CSXWMPP360.m3u8
+#EXTINF:-1 tvg-name="长沙政法综合" tvg-logo="" group-title="湖南频道",长沙政法综合
+http://phoneal.qing.mgtv.com/nn_live/nn_x64/dWlwPTExMi4xMjYuODIuODcmcWlkPSZjZG5leF9pZD1hbF9waG9uZTMmcz0zMTBhNDNjNTdhMDRjMDBhNmUyZTQ0MGY0ZmUxNWZlNCZ1aWQ9JnV1aWQ9ZmIyYjQwMTk5MTEzZTNhMGZmMmJmOTRkMTJkNDEzMzUtNzA3ZTUyNTcmdj0yJmFzPTAmZXM9MTczOTk4MDgzNw,,/CSZFMPP360.m3u8
+#EXTINF:-1 tvg-name="湘潭新闻综合" tvg-logo="" group-title="湖南频道",湘潭新闻综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="怀化新闻综合" tvg-logo="" group-title="湖南频道",怀化新闻综合
+http://118.251.62.158:8888/udp/239.76.248.12:1234
+#EXTINF:-1 tvg-name="常德新闻综合" tvg-logo="" group-title="湖南频道",常德新闻综合
+http://live-cdtv.cdqmw.cn:9020/cdtvxwzh/xwzh.m3u8?auth_key=1739970528-0-0-N_FCfnLqarM0yXth01V6_A
+#EXTINF:-1 tvg-name="邵阳新闻综合" tvg-logo="" group-title="湖南频道",邵阳新闻综合
+https://live2.sytv.net.cn/xwzh/playlist.m3u8?sign=ac8d4f8b86ba75dfe5673bfb49d3563d&t=1739959818
+#EXTINF:-1 tvg-name="邵阳文旅民生" tvg-logo="" group-title="湖南频道",邵阳文旅民生
+https://live2.sytv.net.cn/ggpd/ggpd/live.m3u8?sign=32ee99f33444c0a5884b7427927b19d3&t=1739952664
+#EXTINF:-1 tvg-name="郴州新闻综合" tvg-logo="" group-title="湖南频道",郴州新闻综合
+https://live.ngcz.tv/aczxw/20221028/live.m3u8?auth_key=1739960482-0-0-f4a673fe821c7ab9a49f67368f4446be
+#EXTINF:-1 tvg-name="郴州公共都市" tvg-logo="" group-title="湖南频道",郴州公共都市
+https://live.ngcz.tv/acz/czgg20221025/live.m3u8?auth_key=1739960575-0-0-ab6b2fcb61f1dca114d7cdb42ff57d6b
+
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
 http://182.245.198.43:30080/wh7f454c46tw4261193023_1412581025/01000200/01000000000000000000000001824307/01.m3u8?fmt=ts2hls,222,01.m3u8,0,3913,0,0&accountinfo=%2C%2C112.117.225.9%2C20250214103255%2C00005000000000000000000000000263%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001824307%2CEND&GuardEncType=2&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReojSi2k8KLkrijz1l9s0cFcaZsKVqrtGuSwnEXN3RcYxA%3D%3D&Playtype=1&servicetype=1&HlsSubType=1&HlsProfileId=1&CommPrivateInfo=3
 #EXTINF:-1 tvg-name="上海东方影视" tvg-logo="" group-title="上海频道",上海东方影视
