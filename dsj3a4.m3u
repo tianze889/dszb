@@ -4438,6 +4438,8 @@ https://vip.ffzy-play7.com/20221113/4138_27357f3c/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="金装武术电影大全" tvg-logo="" group-title="🏠家庭影院",金装武术电影大全
 https://vip.ffzy-play7.com/20230512/24614_d66a3f5d/2000k/hls/mixed.m3u8
 
+#EXTINF:-1 tvg-name="中国国际少儿" tvg-logo="" group-title="🎒少儿频道",中国国际少儿
+https://livesec.mudu.tv/watch/bk8coj.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="" group-title="🎒少儿频道",黑莓动画
 http://183.255.10.91:6610/200000001898/460000089800010002/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="" group-title="🎒少儿频道",浙江少儿
@@ -4448,6 +4450,8 @@ http://171.34.76.62:808/hls/6/index.m3u8
 http://wouu.net:9977/udp/239.93.0.251:5140
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="" group-title="🎒少儿频道",优漫卡通
 http://qjrhc.jydjd.top:2911/udp/224.1.100.119:11111
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="" group-title="🎒少儿频道",卡酷少儿
+http://182.245.198.39:30080/wh7f454c46tw468255888_1144165704/01000200/01000000000000000000000001825395/index.m3u8?rrsip=116.52.233.90:30080&zoneoffset=0&servicetype=1&icpid=11&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReqAzIq2Z%2FNLzA3lZwRJ1PZy7kf9RGHQ4PoiazHdcq%2FgDg%3D%3D&accountinfo=%2C%2C112.117.225.9%2C20250219144554%2C00000001000000050000000000000150%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001825395%2CEND&GuardEncType=2&Playtype=1&RTS=1739947554&from=2100&hms_devid=225&online=1739947554
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="" group-title="🎒少儿频道",卡酷少儿
 http://61.138.128.226:19901/tsfile/live/1017_1.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="" group-title="🎒少儿频道",卡酷少儿
@@ -6705,6 +6709,53 @@ http://stream10.jlntv.cn/huadian/playlist.m3u8
 http://stream5.jlntv.cn/ps/playlist.m3u8
 #EXTINF:-1 tvg-name="舒兰综合" tvg-logo="" group-title="辽宁频道",舒兰综合
 http://stream8.jlntv.cn/shulan/playlist.m3u8
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="" group-title="北京频道",北京卫视
+http://182.245.198.40:30080/wh7f454c46tw4056092404_372673577/01000200/01000000000000000000000001824295/index.m3u8?zoneoffset=0&servicetype=1&icpid=11&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KRepvok13PVvAmgGDdi%2BEKIvsXpitdIsgokkRkNH4NdtFIA%3D%3D&accountinfo=%2C%2C112.117.225.9%2C20250219143407%2C00000001000000050000000000000194%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001824295%2CEND&GuardEncType=2&Playtype=1&RTS=1739946847&from=2100&hms_devid=223&online=1739946847
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="" group-title="北京频道",北京纪实科教
+http://182.245.198.37:30080/wh7f454c46tw4260930539_-348316967/01000200/01000000000000000000000001826416/01.m3u8?fmt=ts2hls,221,01.m3u8,0,3914,0,0&accountinfo=%2C%2C112.117.225.9%2C20250219143732%2C90000001000000050000000000000219%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001826416%2CEND&GuardEncType=2&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReqXYN1QYP8OBKJdACTWDmdb%2FaIBu5PhV0%2FqXZOHzQiPUA%3D%3D&Playtype=1&servicetype=1&HlsSubType=1&HlsProfileId=1&CommPrivateInfo=3
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="" group-title="北京频道",北京影视
+http://1.203.76.39:7788/udp/225.1.8.82:8000
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="" group-title="北京频道",北京财经
+http://1.203.76.39:7788/udp/225.1.1.2:8000
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="" group-title="北京频道",北京体育休闲
+http://222.130.86.106:4022/udp/239.3.1.97:8001
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="" group-title="北京频道",北京生活
+http://1.203.76.39:7788/udp/225.1.8.127:8002
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="" group-title="北京频道",北京新闻
+http://1.203.76.39:7788/udp/225.1.8.83:8000
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="" group-title="北京频道",北京卡酷少儿
+http://182.245.198.39:30080/wh7f454c46tw468255888_1144165704/01000200/01000000000000000000000001825395/index.m3u8?rrsip=116.52.233.90:30080&zoneoffset=0&servicetype=1&icpid=11&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReqAzIq2Z%2FNLzA3lZwRJ1PZy7kf9RGHQ4PoiazHdcq%2FgDg%3D%3D&accountinfo=%2C%2C112.117.225.9%2C20250219144554%2C00000001000000050000000000000150%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001825395%2CEND&GuardEncType=2&Playtype=1&RTS=1739947554&from=2100&hms_devid=225&online=1739947554
+#EXTINF:-1 tvg-name="北京国际" tvg-logo="" group-title="北京频道",北京国际
+http://123.117.162.237:8118/udp/239.3.1.235:8000
+#EXTINF:-1 tvg-name="中国交通频道" tvg-logo="" group-title="北京频道",中国交通频道
+http://171.213.130.234:58888/udp/239.93.0.142:5140
+#EXTINF:-1 tvg-name="生态环境频道" tvg-logo="" group-title="北京频道",生态环境频道
+http://182.245.198.42:30080/wh7f454c46tw707203132_2087458965/01000200/01000000000000000000000001828109/01.m3u8?fmt=ts2hls,222,01.m3u8,0,2655,0,0&accountinfo=%2C%2C112.117.225.9%2C20250219144953%2C90000001000000050000000000000489%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001828109%2CEND&GuardEncType=2&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReqV9zgnJVb4VxFM96Fytj1J0yk22WoaWSXurBzOE7YE5Q%3D%3D&Playtype=1&servicetype=1&HlsSubType=1&HlsProfileId=1&CommPrivateInfo=3
+#EXTINF:-1 tvg-name="车迷频道" tvg-logo="" group-title="北京频道",车迷频道
+http://182.245.198.36:30080/wh7f454c46tw742046179_988545490/01000200/01000000000000000000000001827999/01.m3u8?fmt=ts2hls,221,01.m3u8,0,2467,0,0&accountinfo=%2C%2C112.117.225.9%2C20250219145028%2C90000001000000050000000000000491%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001827999%2CEND&GuardEncType=2&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReph%2BBZ3VdhIX%2F%2F6tEM%2F0crCB0PHGM%2Fb5tD7j00CHuxIyg%3D%3D&Playtype=1&servicetype=1&HlsSubType=1&HlsProfileId=1&CommPrivateInfo=3
+#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="" group-title="北京频道",优优宝贝
+http://182.245.198.35:30080/wh7f454c46tw986186605_1097880535/01000200/01000000000000000000000001828097/01.m3u8?fmt=ts2hls,224,01.m3u8,0,2655,0,0&accountinfo=%2C%2C112.117.225.9%2C20250219145432%2C90000001000000050000000000000490%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001828097%2CEND&GuardEncType=2&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReoNgGrVuipPLLNoBRT5x3dQu215lCLrUfy%2Fo4ja486NUg%3D%3D&Playtype=1&servicetype=1&HlsSubType=1&HlsProfileId=1&CommPrivateInfo=3
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="" group-title="北京频道",四海钓鱼
+http://116.52.233.90:30080/01000200/01000000000000000000000001828113/index.m3u8?rrsip=116.52.233.90:30080&zoneoffset=0&servicetype=1&icpid=&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReqXGh4uDLPiCUsc3XXyL9jXIevxauEAm5hyIa2w7OAHiA%3D%3D&accountinfo=%2C%2C112.117.225.9%2C20250219145605%2C90000001000000050000000000000488%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001828113%2CEND&GuardEncType=2&Playtype=1
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="" group-title="北京频道",环球旅游
+http://116.52.233.90:30080/01000200/01000000000000000000000001827995/index.m3u8?zoneoffset=0&servicetype=1&icpid=&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReor9jp7jiQVD%2F0n7tPkdn7f31edy5kT9hmAOD9R4ovunA%3D%3D&accountinfo=%2C%2C112.117.225.9%2C20250219150134%2C90000001000000050000000000000492%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001827995%2CEND&GuardEncType=2&Playtype=1
+#EXTINF:-1 tvg-name="中华特产" tvg-logo="" group-title="北京频道",中华特产
+http://116.52.233.90:30080/01000200/01000000000000000000000001827821/index.m3u8?zoneoffset=0&servicetype=1&icpid=&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KReqBA7sFu4v1Q%2BwgeXNekXeIrCWaFOZCeOG7UlFmUtrCsg%3D%3D&accountinfo=%2C%2C112.117.225.9%2C20250219150210%2C90000001000000050000000000000472%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001827821%2CEND&GuardEncType=2&Playtype=1
+#EXTINF:-1 tvg-name="房山电视台" tvg-logo="" group-title="北京频道",房山电视台
+http://1.203.76.39:7788/udp/225.1.0.250:1025
+#EXTINF:-1 tvg-name="大兴电视台" tvg-logo="" group-title="北京频道",大兴电视台
+https://pull-c1.videocc.net/record/717295415820200204113332659.m3u8?auth_key=1739948713-0-0-68146510398709deb45df544370c0dc5
+#EXTINF:-1 tvg-name="延庆电视台" tvg-logo="" group-title="北京频道",延庆电视台
+https://videoplay.yanqingrmzx.com/yanqappvideo/yqingappvideo.m3u8?auth_key=1725670927-0-0-692111986e725c19ea6478b894e23911
+#EXTINF:-1 tvg-name="顺义电视台" tvg-logo="" group-title="北京频道",顺义电视台
+https://livebjsy.chinamcache.com/live/zb02.flv
+#EXTINF:-1 tvg-name="密云电视台" tvg-logo="" group-title="北京频道",密云电视台
+http://1.203.76.39:7788/udp/225.1.0.86:8001
+#EXTINF:-1 tvg-name="昌平综合频道" tvg-logo="" group-title="北京频道",昌平综合频道
+https://49866.hlsplay.aodianyun.com/tv_radio_49866/tv_channel_3341.m3u8?auth_key=1740035315-0-0-fd25c505a0b7c6c14ae178bad1a61c01&extra_key=4eMJkCzaI6sq2B1ZiCwRIdp0dOLH9SGjDZwKL0lsgP2sQ73eIwZL-ISQyAdqKw19dOeQe-iN4GmJ1ibQcxXYvgLtzYuvekCdIimHdWMnorwFc8tcoHULzE3dpRccr_BUwKF0MNRrmz9Zdn-EbzdUK15eZqtN_fpA2v3LQm_CIZQ
+#EXTINF:-1 tvg-name="中国国际少儿" tvg-logo="" group-title="北京频道",中国国际少儿
+https://livesec.mudu.tv/watch/bk8coj.m3u8
 
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="" group-title="贵州频道",贵州卫视
 http://182.245.198.43:30080/wh7f454c46tw718380219_2064341201/01000200/01000000000000000000000001827565/01.m3u8?fmt=ts2hls,222,01.m3u8,0,8579,0,0&accountinfo=%2C%2C112.117.225.9%2C20250219133828%2C90000001000000050000000000000419%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001827565%2CEND&GuardEncType=2&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KRerfFpLkNUP%2BfxVwUGuM15yGAHzXhHon5OWt5PBiSbFkSg%3D%3D&Playtype=1&servicetype=1&HlsSubType=1&HlsProfileId=1&CommPrivateInfo=3
