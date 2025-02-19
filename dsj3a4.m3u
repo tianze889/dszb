@@ -7408,27 +7408,36 @@ http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
 #EXTINF:-1 tvg-name="陕西移动电视" tvg-logo="https://live.fanmingming.com/tv/陕西移动电视.png" group-title="陕西频道",陕西移动电视
 http://stream.snrtv.com/sxbc-yd-fkmxy6.m3u8
-#EXTINF:-1 tvg-name="吴忠公共" tvg-logo="https://live.fanmingming.com/tv/吴忠公共.png" group-title="宁夏频道",吴忠公共
+
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="" group-title="宁夏频道",宁夏卫视
+http://116.52.233.90:30080/01000200/01000000000000000000000001825379/index.m3u8?rrsip=116.52.233.90:30080&zoneoffset=0&servicetype=1&icpid=&tenantId=8601&AuthInfo=xQdf230TDSBUIz0a%2FQrUj%2Bx2rloWnwgvr%2Bn7%2FA0KRepA%2Bk6TphAdMZLaMuV76L5RnywboxBJ5DfcOfjwSM19ug%3D%3D&accountinfo=%2C%2C112.117.225.9%2C20250219153627%2C00000001000000050000000000000082%2C%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C-1%2C%2C-1%2C%2C%2C%2C1%2C%2C01000000000000000000000001825379%2CEND&GuardEncType=2&Playtype=1
+#EXTINF:-1 tvg-name="宁夏经济" tvg-logo="" group-title="宁夏频道",宁夏经济
+https://stream.nxtv.com.cn/jjpd/sd/live.m3u8?_upt=efdaacac1693377737
+#EXTINF:-1 tvg-name="宁夏少儿" tvg-logo="" group-title="宁夏频道",宁夏少儿
+http://stream.nxtv.com.cn/sepd/sd/live.m3u8
+#EXTINF:-1 tvg-name="宁夏文旅" tvg-logo="" group-title="宁夏频道",宁夏文旅
+https://stream.nxtv.com.cn/yspd/sd/live.m3u8?_upt=2c8430be1693377743
+#EXTINF:-1 tvg-name="吴忠公共" tvg-logo="" group-title="宁夏频道",吴忠公共
 http://live.kanwz.net/ggpd/sd/live.m3u8?zningxd
-#EXTINF:-1 tvg-name="吴忠综合" tvg-logo="https://live.fanmingming.com/tv/吴忠.png" group-title="宁夏频道",吴忠综合
+#EXTINF:-1 tvg-name="吴忠综合" tvg-logo="" group-title="宁夏频道",吴忠综合
 http://live.kanwz.net/zhpd/sd/live.m3u8?zningxd
-#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="宁夏频道",安多卫视
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="" group-title="宁夏频道",安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
-#EXTINF:-1 tvg-name="门源综合" tvg-logo="https://live.fanmingming.com/tv/门源.png" group-title="宁夏频道",门源综合
+#EXTINF:-1 tvg-name="门源综合" tvg-logo="" group-title="宁夏频道",门源综合
 http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
-#EXTINF:-1 tvg-name="化隆综合" tvg-logo="https://live.fanmingming.com/tv/化隆.png" group-title="宁夏频道",化隆综合
+#EXTINF:-1 tvg-name="化隆综合" tvg-logo="" group-title="宁夏频道",化隆综合
 http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
-#EXTINF:-1 tvg-name="民和综合" tvg-logo="https://live.fanmingming.com/tv/民和.png" group-title="宁夏频道",民和综合
+#EXTINF:-1 tvg-name="民和综合" tvg-logo="" group-title="宁夏频道",民和综合
 http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
-#EXTINF:-1 tvg-name="兴海综合" tvg-logo="https://live.fanmingming.com/tv/兴海.png" group-title="宁夏频道",兴海综合
+#EXTINF:-1 tvg-name="兴海综合" tvg-logo="" group-title="宁夏频道",兴海综合
 http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="大通电视" tvg-logo="https://live.fanmingming.com/tv/大通电视.png" group-title="宁夏频道",大通电视
+#EXTINF:-1 tvg-name="大通电视" tvg-logo="" group-title="宁夏频道",大通电视
 http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
-#EXTINF:-1 tvg-name="湟中电视" tvg-logo="https://live.fanmingming.com/tv/湟中电视.png" group-title="宁夏频道",湟中电视
+#EXTINF:-1 tvg-name="湟中电视" tvg-logo="" group-title="宁夏频道",湟中电视
 http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
-#EXTINF:-1 tvg-name="西宁综合" tvg-logo="https://live.fanmingming.com/tv/西宁.png" group-title="宁夏频道",西宁综合
+#EXTINF:-1 tvg-name="西宁综合" tvg-logo="" group-title="宁夏频道",西宁综合
 https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
-#EXTINF:-1 tvg-name="西宁生活" tvg-logo="https://live.fanmingming.com/tv/西宁生活.png" group-title="宁夏频道",西宁生活
+#EXTINF:-1 tvg-name="西宁生活" tvg-logo="" group-title="宁夏频道",西宁生活
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 
 #EXTINF:-1 tvg-name="鄂托克旗电视台" tvg-logo="" group-title="内蒙古频道",鄂托克旗电视台
