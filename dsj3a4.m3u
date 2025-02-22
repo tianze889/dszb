@@ -343,41 +343,43 @@ http://iptv.0564.org:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 http://goo.bkpcp.top/mg/cctv17
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv1
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺央视频道",CCTV2
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv2
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv2
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="📺央视频道",CCTV3
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv3
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv3
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="📺央视频道",CCTV4
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv4
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv4
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="📺央视频道",CCTV5
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv5
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="📺央视频道",CCTV5+
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv5p
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="📺央视频道",CCTV6
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv6
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="📺央视频道",CCTV7
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv7
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv7
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="📺央视频道",CCTV8
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv8
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="📺央视频道",CCTV9
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv9
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv9
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="📺央视频道",CCTV10
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv10
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv10
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="📺央视频道",CCTV11
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv11
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv11
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="📺央视频道",CCTV12
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv12
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv12
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="📺央视频道",CCTV13
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv13
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv13
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="📺央视频道",CCTV14
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv14
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="📺央视频道",CCTV15
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv15
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="📺央视频道",CCTV16
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv16
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="📺央视频道",CCTV17
-http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv17
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="📺央视频道",CCTV4美洲
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv4a
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="📺央视频道",CCTV4欧洲
+http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv4o
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 https://get.2sb.org/https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
