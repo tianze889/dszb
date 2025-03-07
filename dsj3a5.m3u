@@ -5112,8 +5112,10 @@ http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="" group-title="广东频道",大湾区卫视
 http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=1735579549&kdssign=d39a4975609ebcd15602db1e10f843bf
-#EXTINF:-1 tvg-name="广州频道" tvg-logo="" group-title="广东频道",广州频道
+#EXTINF:-1 tvg-name="广州综合频道" tvg-logo="" group-title="广东频道",广州综合频道
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
+#EXTINF:-1 tvg-name="广州综合频道" tvg-logo="" group-title="广东频道",广州综合频道
+https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=b12257737dcebc4227bca82b77af650c&txTime=1956eaafce4
 #EXTINF:-1 tvg-name="广州影视频道" tvg-logo="" group-title="广东频道",广州影视频道
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0
 #EXTINF:-1 tvg-name="广州新闻频道" tvg-logo="" group-title="广东频道",广州新闻频道
@@ -5154,8 +5156,7 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.152:11111
 http://121.33.239.242:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="4K南国都市" tvg-logo="" group-title="广东频道",4K南国都市
 https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=daf0738d94787ac64d25644076012591&txTime=1956eaafce4
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="" group-title="广东频道",广州综合
-https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=b12257737dcebc4227bca82b77af650c&txTime=1956eaafce4
+
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="" group-title="广东频道",广州综合
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="" group-title="广东频道",广州新闻
