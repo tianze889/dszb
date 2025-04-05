@@ -17,27 +17,6 @@ CCTV14,http://goo.bkpcp.top/mg/cctv14
 CCTV15,http://goo.bkpcp.top/mg/cctv15
 CCTV17,http://goo.bkpcp.top/mg/cctv17
 
-
-CCTV1,http://ali.hlspull.yximgs.com/live/6d70582cee65a5178d6364c998a64ea8.flv
-CCTV2,http://ali.hlspull.yximgs.com/live/c6bedbc10c6fb7ad0d99b054d6a4278e.flv
-CCTV3,http://ali.hlspull.yximgs.com/live/58b9a4755c03bdc31424a797cacc16db.flv
-CCTV4,http://ali.hlspull.yximgs.com/live/22ba060b5558859443fb9116b352767c.flv
-CCTV5,http://ali.hlspull.yximgs.com/live/39849493190a53b9bc5fbedbafb9653f.flv
-CCTV5+,http://220.231.144.42:2025/zb.php?id=1220
-CCTV6,http://ali.hlspull.yximgs.com/live/c7a168ac95cb09d1dac550e45df83b3f.flv
-CCTV7,http://ali.hlspull.yximgs.com/live/29366e83838595f1d02492c2b8f35b74.flv
-CCTV8,http://ali.hlspull.yximgs.com/live/6c6b58ee506478717a2c021b77935d52.flv
-CCTV9,http://ali.hlspull.yximgs.com/live/1c12ac8660283ae47ce9682732a36c30.flv
-CCTV10,http://ali.hlspull.yximgs.com/live/ff333432fd26e01151dfe4dba2679946.flv
-CCTV11,http://ali.hlspull.yximgs.com/live/f503a8fa73f5e48737f756494a81e758.flv
-CCTV12,http://ali.hlspull.yximgs.com/live/cc848c2d61fbf2fbb2dc00c05c8636d9.flv
-CCTV13,http://ali.hlspull.yximgs.com/live/4eb48ad326eadbddf833ec3e36e02f43.flv
-CCTV14,http://ali.hlspull.yximgs.com/live/3983cd256f132c06c0728a5bee438443.flv
-CCTV15,http://ali.hlspull.yximgs.com/live/e411d0f2e61e17d985d05bdf8ceb83a1.flv
-CCTV16,http://ali.hlspull.yximgs.com/live/02d1a7eafb8a03d76170296be24da5d7.flv
-CCTV17,http://ali.hlspull.yximgs.com/live/34f45385aa163f69ab95bb5eebec4c65.flv
-
-
 CCTV1,https://get.2sb.org/https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 CCTV1,https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv0929.m3u8
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
