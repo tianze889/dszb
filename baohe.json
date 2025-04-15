@@ -84,6 +84,69 @@
         "danmu": true
       }
     },
+        {
+      "key": "FourKTV",
+      "name": "⚡4K秒播⚡",
+      "type": 3,
+      "api": "csp_FourKTV",
+      "jar": "https://lz.qaiu.top/d/lz/iZZiO2rkmy5g",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "柠檬",
+      "name": "🍋秒播柠檬🍋",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "jar": "http://cdn.qiaoji8.com/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
+    },
+     {
+      "key": "海纳TV",
+      "name": "📺海纳TV📺",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "ext": {
+        "主页url": "https://hainatv.net/",
+        "分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"
+      }
+    },
+    {
+      "key": "drpyS_5点电影[S]",
+      "name": "5点电影",
+      "type": 4,
+      "api": "http://117.72.120.174:5757/api/5点电影[S]?pwd=zy",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": ""
+    },
+    {
+      "key": "一个G",
+      "name": "💪毅哥蓝光💪",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "圥忈制作",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</span>",
+        "分类url": "https://www.ddmf.net/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+      }
+    },
     {
       "key": "狐狸君",
       "name": "狐狸君｜4K",
