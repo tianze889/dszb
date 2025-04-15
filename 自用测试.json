@@ -101,6 +101,18 @@
       "api": "csp_LocalFile"
     },
     {
+      "key": "浪酷影视",
+      "name": "🍋浪酷｜影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.lkuys.cn"
+      }
+    },
+    {
       "key": "虎牙直播",
       "name": "《虎牙🔹直播》",
       "type": 3,
@@ -233,15 +245,29 @@
         "分类": "电影$2#电视剧$1#动漫$3#综艺$4#短剧$39"
       }
     },
-    {
+     {
       "key": "天天影视",
-      "name": "《天天🔹影视》",
+      "name": "🍊天天｜影视",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+      "ext": {
+        "url": "http://tt.ysdqjs.cn"
+      }
+    },
+     {
+      "key": "热播影视",
+      "name": "🍉热播｜影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
     },
     {
       "key": "荐片",
@@ -250,15 +276,6 @@
       "type": 3,
       "playerType": "2",
       "ext": "http://api2.rinhome.com"
-    },
-    {
-      "key": "苹果影视",
-      "name": "《苹果🔹弹幕》",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "来看影视",
