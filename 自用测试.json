@@ -12,6 +12,21 @@
       "changeable": 1
     },
     {
+      "key": "人人影视",
+      "name": "人人┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片类型": "盒子迷",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
+        "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+      }
+    },
+    {
       "key": "配置中心",
       "name": "《配置｜中心》",
       "type": 3,
@@ -181,21 +196,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "人人影视",
-      "name": "人人┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "影片类型": "盒子迷",
-        "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
-        "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
-      }
-    },
      {
       "key": "白嫖者联盟2",
       "name": "️白嫖┃影视",
@@ -242,22 +242,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
-    },
-    {
-      "key": "金牌影视",
-      "name": "《天微🔹金牌》",
-      "type": 3,
-      "api": "csp_Jpys"
-    },
-    {
-      "key": "csp_XYQHiker_农民影视",
-      "name": "《天微🔹农民》",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/农民影视.json"
     },
     {
       "key": "荐片",
