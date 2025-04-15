@@ -13,14 +13,14 @@
   ],
 	"sites":[
 
-{"key":"少儿教育","name":"少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/少儿教育.json"},
-{"key":"drpy_js_兔小贝","name":"儿童┃启蒙","type":3,"api":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/兔小贝.js"},
-{"key":"小学课堂","name":"小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/小学课堂.json"},
-{"key":"初中课堂","name":"初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/初中课堂.json"},
-{"key":"高中课堂","name":"高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/高中课堂.json"},
-{"key":"外语课堂","name":"外语┃课堂","type":3,"api":"csp_Bili","jar":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/jar/duo1.jar;5C5116C70E15343433C8480C3B448408",
+{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/少儿教育.json"},
+{"key":"drpy_js_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/兔小贝.js"},
+{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/小学课堂.json"},
+{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/初中课堂.json"},
+{"key":"高中课堂","name":"📚高中┃课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/高中课堂.json"},
+{"key":"外语课堂","name":"📚外语┃课堂","type":3,"api":"csp_Bili","jar":"https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/jar/duo1.jar;5C5116C70E15343433C8480C3B448408",
 "searchable":0,"quickSearch":1,"filterable":1,"ext":"https://image-c.weimobwmc.com/ol-OlSf/11ac56458b5049bbaddf42c9cea883da.jpg"},
-    {
+{
       "key": "国学经典",
       "name": "国学┃经典",
       "type": 3,
@@ -64,7 +64,15 @@
       "filterable": 1,
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/e5509817319e446ba2b13f3c3d6b0d2e.jpg"
     },
-		   {
+{"key":"儿童口才","name":" 🧒口才┃儿童","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童口才.json"},
+{"key":"儿童拼音","name":" 🧒拼音┃儿童","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童拼音.json"},
+{"key":"儿童识字","name":" 🧒识字┃儿童","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童识字.json"},
+{"key":"儿童思维","name":" 🧒思维┃儿童","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童思维.json"},
+{"key":"儿童英语","name":" 🧒英语┃儿童","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童英语.json"},
+{"key":"儿童硬笔","name":" 🧒硬笔┃儿童","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童硬笔.json"},
+{"key":"儿童编程","name":" 🧒编程┃儿童","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童编程.json"},
+{"key":"儿童武术","name":" 🧒武术┃儿童","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/儿童武术.json"},		   
+{
       "key": "Aid",
       "name": "急救教学",
       "type": 3,
