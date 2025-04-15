@@ -13,8 +13,8 @@
 {"name": "Live直播","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&u=Gather","playerType": 2,"timeout": 10}
 ],
 "sites": [
-{"key":"豆瓣2","name":"📢公众号欧歌app","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢公众号欧歌app公告❤更新:4/15❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://alicliimg.clewm.net/342/790/68790342/17362297695164b4887eab40d6fafb492c936297ce9901736229766.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://tv.nxog.top/m//公告.php?b=公众号欧歌app"},
+{"key":"豆瓣2","name":"📢光速影视科技","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣1","name":"📢光速影视科技❤更新:4/15❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://alicliimg.clewm.net/342/790/68790342/17362297695164b4887eab40d6fafb492c936297ce9901736229766.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://tv.nxog.top/m//公告.php?b=公众号欧歌app"},
 
 
 //多jar挂
