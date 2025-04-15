@@ -2,7 +2,7 @@
 "wallpaper":"https://tv.nxog.top/m//t/",
 "logo":"https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
 "spider":"https://alicliimg.clewm.net/342/790/68790342/1744677539561f669cd36bccdb05b521727c89de0c3391744677532.jpg;md5;9c3d33dafd4608525862ad63ae21d4bd",
-"warningText":"公众号欧歌app提示:
+"warningText":"📢光速影视科提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 "lives":[
@@ -15,15 +15,6 @@
 "sites": [
 {"key":"豆瓣2","name":"📢光速影视科技","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣1","name":"📢光速影视科技❤更新:4/15❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://alicliimg.clewm.net/342/790/68790342/17362297695164b4887eab40d6fafb492c936297ce9901736229766.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://tv.nxog.top/m//公告.php?b=公众号欧歌app"},
-
-
-//多jar挂
-
-{"key": "config", "name": "🐲玩欧┃配置中心","type": 3,"jar":"https://alicliimg.clewm.net/342/790/68790342/17434808648667594d420d0fd6a734bb5db8a295d58861743480862.jpg;md5;ed63f201e8bddedd067443aff6091c42 ","api": "csp_Config","searchable": 0},
-{"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.597}},
-{"key":"csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"jar":"https://alicliimg.clewm.net/342/790/68790342/1744678393175596c02ea14ad12ddd603dce040d5984e1744678390.jpg;md5;ccb018d0031afdda28e531931d995d71","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw.xn--6qq986b3xl"],"url_key":"woog","threadinfo":{"chunksize":400,"threads":10}}},
-{"key":"csp_woog2","name":"🐲玩欧｜非会员4K","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"jar":"https://alicliimg.clewm.net/342/790/68790342/1744678393175596c02ea14ad12ddd603dce040d5984e1744678390.jpg;md5;ccb018d0031afdda28e531931d995d71","ext":{"site_urls":["https://woog.xn--dkw.xn--6qq986b3xl","https://woog.nxog.eu.org"],"url_key":"woog2","threadinfo":{"chunksize":243,"threads":60}}},
-{"key":"欧哥","name":"❤欧歌｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/json/og.json?"},
 
 //jar
 {"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com"},
@@ -91,6 +82,14 @@
 {"key":"剧迷","name":"🎃剧迷┃磁力","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"电影","name":"🎃Mp4┃磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"天堂","name":"🎃美剧┃磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
+
+//多jar挂
+
+{"key": "config", "name": "🐲玩欧┃配置中心","type": 3,"jar":"https://alicliimg.clewm.net/342/790/68790342/17434808648667594d420d0fd6a734bb5db8a295d58861743480862.jpg;md5;ed63f201e8bddedd067443aff6091c42 ","api": "csp_Config","searchable": 0},
+{"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.597}},
+{"key":"csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"jar":"https://alicliimg.clewm.net/342/790/68790342/1744678393175596c02ea14ad12ddd603dce040d5984e1744678390.jpg;md5;ccb018d0031afdda28e531931d995d71","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw.xn--6qq986b3xl"],"url_key":"woog","threadinfo":{"chunksize":400,"threads":10}}},
+{"key":"csp_woog2","name":"🐲玩欧｜非会员4K","type":3,"changeable":"0","api":"csp_DuopanGuard","filterable":1,"jar":"https://alicliimg.clewm.net/342/790/68790342/1744678393175596c02ea14ad12ddd603dce040d5984e1744678390.jpg;md5;ccb018d0031afdda28e531931d995d71","ext":{"site_urls":["https://woog.xn--dkw.xn--6qq986b3xl","https://woog.nxog.eu.org"],"url_key":"woog2","threadinfo":{"chunksize":243,"threads":60}}},
+{"key":"欧哥","name":"❤欧歌｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/json/og.json?"},
 
   //学习js
   
