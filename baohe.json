@@ -2,18 +2,19 @@
 "wallpaper":"https://tv.nxog.top/m//t/",
 "logo":"https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
 "spider":"https://alicliimg.clewm.net/342/790/68790342/1744677539561f669cd36bccdb05b521727c89de0c3391744677532.jpg;md5;9c3d33dafd4608525862ad63ae21d4bd",
-"warningText":"🌈光速影视科技提示:
-📢接口长期更新维护",
+"warningText":"公众号欧歌app提示:
+📢接口软件永远免费 
+📢长期维护切勿贩卖",
 "lives":[
 
-{"name":"🌈光速影视科技","type":0,"url":"https://tv.nxog.top/m//tv/","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
+{"name":"公众号欧歌app","type":0,"url":"https://tv.nxog.top/m//tv/","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
 {"name":"胖羊直播","type":3,"api":"csp_Feiyang","url":"https://tv.nxog.top/m//tv/胖羊.php","timeout":10,"ua":"okhttp/3.15","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"AI直播","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
 {"name": "Live直播","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&u=Gather","playerType": 2,"timeout": 10}
 ],
 "sites": [
-{"key":"豆瓣2","name":"🌈光速影视科技","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢光速影视科技❤更新:4/15❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://alicliimg.clewm.net/342/790/68790342/17362297695164b4887eab40d6fafb492c936297ce9901736229766.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://tv.nxog.top/m//公告.php?b=公众号欧歌app"},
+{"key":"豆瓣2","name":"📢公众号欧歌app","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣1","name":"📢公众号欧歌app公告❤更新:4/15❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://alicliimg.clewm.net/342/790/68790342/17362297695164b4887eab40d6fafb492c936297ce9901736229766.jpg;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://tv.nxog.top/m//公告.php?b=公众号欧歌app"},
 
 
 //多jar挂
@@ -26,11 +27,7 @@
 
 //jar
 {"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com"},
-
-	
-	
-	
-	{"key":"巧技","name":"💡巧巧｜影视","type":3,"api":"csp_qiao2","playerType":2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743396867051/cksp.txt"},
+{"key":"巧技","name":"💡巧巧｜影视","type":3,"api":"csp_qiao2","playerType":2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743396867051/cksp.txt"},
 {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1},
 {"key":"蝴蝶","name":"💡蝴蝶｜影视","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
 {"key":"低端","name":"💡低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
