@@ -26,6 +26,15 @@
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
       }
     },
+        {
+            "key": "蝴蝶",
+            "name": "蝴蝶┃影视",
+            "type": 3,
+            "api": "csp_Hudie",
+              "jar": "https://700sjro44343.vicp.fun/vip/jar/ouge.php",
+            "playerType": 2,
+            "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+        },
     {
       "key": "配置中心",
       "name": "《配置｜中心》",
