@@ -35,6 +35,13 @@
             "playerType": 2,
             "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
         },
+  {
+      "key": "2400部恐怖电影📲",
+      "name": "恐怖┃2400部电影",
+      "type": 3,
+      "api": "https://codeberg.org/huyuting/lt/raw/branch/main/lib/apiv26116万hys.js",
+      "ext": "https://codeberg.org/huyuting/lt/raw/branch/main/lib/2400部恐怖电影.js"
+    },
     {
       "key": "配置中心",
       "name": "《配置｜中心》",
