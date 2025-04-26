@@ -1,5 +1,5 @@
 {
-  "spider": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/jar/tvkj.jar",
+  "spider": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/jar/tvkj.jar",
   "wallpaper": "https://wp.upx8.com/api.php",
   "warningText": "资源由资源宝藏库提供！",
   "sites": [
@@ -67,7 +67,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/aliShare.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/aliShare.json"
     },
     {
       "key": "夸克云盘",
@@ -81,7 +81,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/quarkShare.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/quarkShare.json"
     },
     {
       "key": "UC",
@@ -95,7 +95,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/ucShare.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/ucShare.json"
     },
     {
       "key": "百度云盘",
@@ -132,8 +132,8 @@
       "key": "虎牙直播",
       "name": "《虎牙🔹直播》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/虎牙直播.js",
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/虎牙直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -143,8 +143,8 @@
       "key": "斗鱼直播",
       "name": "《斗鱼🔹直播》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/斗鱼直播.js",
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -154,34 +154,34 @@
       "key": "央视大全",
       "name": "《央视🔹大全》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy4.min.js",
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/drpy4.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/央视大全.js"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/央视大全.js"
     },
     {
       "key": "央视新闻",
       "name": "《央视🔹新闻》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy4.min.js",
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/drpy4.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/央视新闻.js"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/央视新闻.js"
     },
     {
       "key": "央视综合",
       "name": "《央视🔹综合》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy4.min.js",
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/drpy4.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/央视综合.js"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/央视综合.js"
     },
     {
       "key": "热播影视",
@@ -367,8 +367,8 @@
       "key": "追剧弹幕",
       "name": "《追剧🔹弹幕》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/追剧弹幕.js"
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/追剧弹幕.js"
     },
     {
       "key": "农民影视",
@@ -384,36 +384,36 @@
       "key": "腾讯弹幕",
       "name": "《腾翼🔹天翔》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/腾讯弹幕.js"
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/腾讯弹幕.js"
     },
     {
       "key": "优酷弹幕",
       "name": "《悠悠🔹岁月》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/优酷弹幕.js"
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/优酷弹幕.js"
     },
     {
       "key": "芒果弹幕",
       "name": "《茫茫🔹人海》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/芒果弹幕.js"
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/芒果弹幕.js"
     },
     {
       "key": "爱奇艺弹幕",
       "name": "《爱在🔹心意》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/爱奇艺弹幕.js"
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/爱奇艺弹幕.js"
     },
     {
       "key": "追剧弹幕",
       "name": "《追剧🔹弹幕》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/追剧弹幕.js"
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/追剧弹幕.js"
     },
     {
       "key": "火火影视",
@@ -427,8 +427,8 @@
       "key": "剧圈圈",
       "name": "《剧圈🔹影院》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/剧圈圈.js"
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/剧圈圈.js"
     },
     {
       "key": "电影",
@@ -442,7 +442,7 @@
       "key": "猎手影视",
       "name": "《猎手🔹影院》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/py/猎手影视.py",
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/py/猎手影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -473,7 +473,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/wogg.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/wogg.json"
     },
     {
       "key": "木偶",
@@ -483,7 +483,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/mogg.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/mogg.json"
     },
     {
       "key": "闪电",
@@ -494,7 +494,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/sd.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/sd.json"
     },
     {
       "key": "小米",
@@ -505,7 +505,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/xm.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/xm.json"
     },
     {
       "key": "至臻",
@@ -516,7 +516,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/zz.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/zz.json"
     },
     {
       "key": "二小",
@@ -527,7 +527,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/ex.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/ex.json"
     },
     {
       "key": "欧哥",
@@ -538,7 +538,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/og.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/og.json"
     },
     {
       "key": "百家",
@@ -549,7 +549,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/bj.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/bj.json"
     },
     {
       "key": "概念",
@@ -564,7 +564,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/hm.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/hm.json"
     },
     {
       "key": "Pan1",
@@ -579,7 +579,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/pan1.json?"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/pan1.json?"
     },
     {
       "key": "雷鲸",
@@ -643,7 +643,7 @@
       "key": "嗨皮影视",
       "name": "《嗨皮🔹影视》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/py/嗨皮影视.py",
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/py/嗨皮影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -823,7 +823,7 @@
       "name": "《秀儿🔹秒播》",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/秀儿影视.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/秀儿影视.json"
     },
     {
       "key": "骚火影视",
@@ -833,7 +833,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/骚火影视.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/骚火影视.json"
     },
     {
       "key": "八号影视",
@@ -843,18 +843,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/八号影视.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/八号影视.json"
     },
     {
       "key": "TVB云播_js",
       "name": "《云播🔹在线》",
       "type": 3,
-      "api": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
+      "api": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/js/TVB云播.js"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/js/TVB云播.js"
     },
     {
       "key": "子子影视",
@@ -864,7 +864,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/子子.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/子子.json"
     },
     {
       "key": "csp_xBPQ_奇优",
@@ -874,7 +874,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://get.2sb.org/https://github.com/tianze889/dszb/raw/main/json/qiyou.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/json/qiyou.json"
     },
     {
       "key": "木耳",
