@@ -1,16 +1,17 @@
 {
-  "spider": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/jar/tvkj.jar",
-  "wallpaper": "https://wp.upx8.com/api.php",
-  "warningText": "资源由资源宝藏库提供！",
-  "sites": [
-    {
-      "key": "豆瓣",
-      "name": "资源宝藏库：4K高清影视秒播！",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1
-    },
+    "spider": "./spider.jar",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "sites": [
+        {
+            "key": "豆豆豆",
+            "name": "4K高清影视秒播",
+            "type": 3,
+            "api": "csp_DouDou",
+            "indexs": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
     {
       "key": "人人影视",
       "name": "人人┃影视",
