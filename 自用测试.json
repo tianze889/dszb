@@ -1,17 +1,19 @@
 {
-    "spider": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/jar/spider.jar",
-    "wallpaper": "https://深色壁纸.xxooo.cf/",
-    "sites": [
-        {
-            "key": "豆豆豆",
-            "name": "4K高清影视秒播",
-            "type": 3,
-            "api": "csp_DouDou",
-            "indexs": 1,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
+ "spider": "https://github.moeyy.xyz/https://github.com/tianze889/dszb/raw/main/jar/spider.jar",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "logo": "https://qixing.myhkw.com/tw.jpg",
+  "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
+  "lives": [
+    {
+      "name": "天微live",
+      "type": 0,
+      "url": "https://7337.kstore.space/twkj/tvzb.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    }
+  ],
     {
       "key": "人人影视",
       "name": "人人┃影视",
