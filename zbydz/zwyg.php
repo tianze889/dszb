@@ -364,14 +364,14 @@ DAZN-体育贰,rtmp://f13h.mine.nu/sat/tv741
 momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 
 🌍港澳台4,#genre#
-中天新闻,rtmp://yj.zxhkuav.cn/live/yifatv-ztxw
+中天新闻,https://smt.goiptv.us.ci/ctiasia_twn/playlist.m3u8
 中天新闻,https://smt.goiptv.us.ci/ctinews/playlist.m3u8
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
 中天综合,https://smt.goiptv.us.ci/ctizhonghe/playlist.m3u8
-
-
-
+寰宇新闻,https://smt.goiptv.us.ci/huanyuxinwen_twn/playlist.m3u8
+寰宇新闻,http://nmk.ioapk.com:5050/of-litv-longturn14/index.m3u8?proxy=true
+寰宇新聞台灣,http://nmk.ioapk.com:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
 
 
 
