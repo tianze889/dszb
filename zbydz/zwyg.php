@@ -367,7 +367,8 @@ momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 中天新闻,rtmp://yj.zxhkuav.cn/live/yifatv-ztxw
 中天新闻,https://smt.goiptv.us.ci/ctinews/playlist.m3u8
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-
+中天综合,http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
+中天综合,https://smt.goiptv.us.ci/ctizhonghe/playlist.m3u8
 
 
 
