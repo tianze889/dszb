@@ -1,7 +1,5 @@
 正午阳光,#genre#
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
-广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
-广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 无线翡翠,http://iptv.4666888.xyz/iptv2A.php?id=34
