@@ -372,6 +372,14 @@ momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 寰宇新闻,https://smt.goiptv.us.ci/huanyuxinwen_twn/playlist.m3u8
 寰宇新闻,http://nmk.ioapk.com:5050/of-litv-longturn14/index.m3u8?proxy=true
 寰宇新聞台灣,http://nmk.ioapk.com:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
+凤凰中文台,https://smt.goiptv.us.ci/phoenixtv_hd/playlist.m3u8
+凤凰资讯台,https://smt.goiptv.us.ci/phoenixinfo_hd/playlist.m3u8
+凤凰香港台,http://2:2@113.89.101.0:9981/stream/channelid/1091885173?profile=htsp
+凤凰香港台,https://smt.goiptv.us.ci/hkphoenix_twn/playlist.m3u8
+
+
+
+
 
 
 
