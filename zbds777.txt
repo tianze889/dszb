@@ -2683,7 +2683,7 @@ CCTV17农业农村,http://115.52.127.45:880/CH017.m3u8
 
 🏞️4K演示片,#genre#
 4KHDR真彩,https://cn-gddg-ct-01-10.bilivideo.com/upgcxcode/88/45/31831164588/31831164588-1-192.mp4?e=ig8euxZM2rNcNbRH7bdVhwdlhWejhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&mid=0&nbs=1&gen=playurlv3&os=bcache&deadline=1773982201&platform=html5&og=hw&trid=0000b6f880caa6c9437bbaa8fa01c9cd885h&oi=2672524012&uipk=5&upsig=18e3fc7a99006ef7c77a4f89b939adcd&uparams=e,mid,nbs,gen,os,deadline,platform,og,trid,oi,uipk&cdnid=61310&bvc=vod&nettype=0&bw=1568455&agrr=0&buvid=&build=0&dl=0&f=h_0_0&orderid=0,1
-8K视频超高清120FPS真实色彩,https://www.bilibilix.com/video/BV1ZG4y1e7i1/?spm_id_from=333.337.search-card.all.click
+8K视频超高清120FPS真实色彩,blob:https://www.v2ob.com/dbc2766d-5a12-4f8c-bb8e-fd8a06a01539
 120 FPS(超高清)真实杜比视觉,https://www.bilibilix.com/video/BV1Ue4y1z79V/?spm_id_from=333.337.search-card.all.click&vd_source=7508704fdddada76df6c4de3597ae8ca
 【4K超高清视频】 最佳超高清水果视频,https://www.bilibilix.com/video/BV1T4421D7gj?spm_id_from=333.788.recommend_more_video.5&trackid=web_related_0.router-related-2206146-q9d4h.1761837801288.292&vd_source=7508704fdddada76df6c4de3597ae8ca
 4K HDR 杜比视界,https://www.bilibilix.com/video/BV1iLeGz8EW5?spm_id_from=333.788.player.switch&vd_source=7508704fdddada76df6c4de3597ae8ca
