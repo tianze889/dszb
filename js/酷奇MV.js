@@ -1,0 +1,25 @@
+var rule = {
+    title:'閰峰MV',
+    host:'https://www.kuqimv.com',
+    // homeUrl:'/play/',
+    url:'/play/fyclass_fypage.html',
+    searchUrl:'/search.php?key=**&pages=fypage',
+    searchable:2,
+    quickSearch:0,
+    // class_parse:'.main:eq(1)&&li;a&&Text;a&&href;.*/(\\d+)_1.html',
+    // class_parse:'.lei_class&&a;a&&Text;a&&href;.*/(\\d+)_1.html',
+    class_name:'鍗庤楂樻竻&鏃ラ煩绮鹃€�&娆х編MV&楂樻竻鐜板満&褰辫MV&澶滃簵瑙嗛&杞︽ā瑙嗛&鐑垶瑙嗛&缇庡コ鍐欑湡&缇庡コ鎵撶',
+    class_url:'1&2&3&4&5&6&7&8&9&10',
+    headers:{
+        'User-Agent':'MOBILE_UA'
+    },
+    timeout:5000,
+    play_parse:true,
+    lazy:'',
+    limit:6,
+    double:false,
+    鎺ㄨ崘:'*',
+    涓€绾�:'js:var d=[];pdfh=jsp.pdfh;pdfa=jsp.pdfa;pd=jsp.pd;var html=request(input);let list=pdfa(html,".mv_list&&li");list.forEach((it)=>{d.push({title:pdfh(it,".name&&Text"),desc:"馃帳"+pdfh(it,".singer&&Text")+"锝�"+pdfh(it,".time&&Text"),pic_url:pd(it,"img&&src"),url:pd(it,"a&&href"),})});setResult(d);',
+    浜岀骇:'*',
+    鎼滅储:'.video_list&&li;a&&title;;.singer&&Text;a&&href;.t_03:eq(1)&&Text',
+}
