@@ -1,37 +1,26 @@
 {
     "SiteUrl": "",
     "Domains": [
-        "http://cj.jiexi.news",
-        "http://baijia.dpdns.org",
-        "http://bj.885525.xyz",
-        "http://baijia.filegear-sg.me"
+        "http://103.45.162.207:20720"
     ],
-    "SiteWord": "bj",
-    "SiteName": "百家",
+    "SiteWord": "hb",
+    "SiteName": "虎斑",
     "Classes": [
         {
-            "type_name": "百家电影",
+            "type_name": "小虎斑电影",
             "type_id": "1"
         },
         {
-            "type_name": "百家剧集",
+            "type_name": "小虎斑剧集",
             "type_id": "2"
         },
         {
-            "type_name": "百家综艺",
+            "type_name": "小虎斑综艺",
             "type_id": "3"
         },
         {
-            "type_name": "百家动漫",
+            "type_name": "小虎斑动漫",
             "type_id": "4"
-        },
-        {
-            "type_name": "臻彩世界",
-            "type_id": "39"
-        },
-        {
-            "type_name": "天翼&123",
-            "type_id": "38"
         }
     ],
     "Filters": {

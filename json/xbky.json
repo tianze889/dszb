@@ -1,5 +1,10 @@
 {
-    "SiteUrl": "https://www.hmxz.org",
+    "SiteUrl": "",
+    "Domains": [
+        "http://xsayang.fun:12512"
+    ],
+    "SiteWord": "xbky",
+    "SiteName": "小斑快映",
     "Classes": [
         {
             "type_name": "电影",
@@ -11,12 +16,11 @@
         },
         {
             "type_name": "综艺",
-            "type_id": "5"
+            "type_id": "3"
         },
         {
             "type_name": "动漫",
-            "type_id": "3"
+            "type_id": "4"
         }
-    ],
-    "Cookie": "bbs_token=EfppUCZbdI_2B4Iz7iu9ezTv3IGEkQsAYdhrViEQ_3D_3D; bbs_sid=4kmtu43j3djfk4h00hof61nndf; _xn_accesscount_visited=1"
+    ]
 }
