@@ -1,4 +1,4 @@
-祖国同胞,#genre#
+祖国同胞_8657,#genre#
 凤凰卫视中文台_线路3,http://go2.bkpcp.top/cjds/classid=3&id=100&pathid=0
 凤凰卫视中文台_22,http://go2.bkpcp.top/cjds/classid=3&id=100&pathid=1
 凤凰卫视中文台_2,http://go2.bkpcp.top/cjds/classid=3&id=100&pathid=2
@@ -349,7 +349,7 @@ TVB 星河台 Xing He Live Online_高清,http://go2.bkpcp.top/cjds/classid=10&id
 华丽台（Wah Lai Toi） Live Online_高速,http://go2.bkpcp.top/cjds/classid=10&id=260164955&pathid=1
 
 
-体育,#genre#
+体育_8657,#genre#
 Arena2 Live Online_高清,http://go2.bkpcp.top/cjds/classid=4&id=260165355&pathid=0
 Arena2 Live Online_高清,http://go2.bkpcp.top/cjds/classid=4&id=260165355&pathid=1
 Arena2 Live Online_3,http://go2.bkpcp.top/cjds/classid=4&id=260165355&pathid=2
@@ -560,7 +560,7 @@ Abu Dhabi Sports 1 Live Online_3,http://go2.bkpcp.top/cjds/classid=4&id=598&path
 Abu Dhabi Sports 2 Live Online_link1,http://go2.bkpcp.top/cjds/classid=4&id=597&pathid=0
 Abu Dhabi Sports 2 Live Online_link2,http://go2.bkpcp.top/cjds/classid=4&id=597&pathid=1
 Abu Dhabi Sports 2 Live Online_link3,http://go2.bkpcp.top/cjds/classid=4&id=597&pathid=2
-央视,#genre#
+央视_8657,#genre#
 CCTV5+体育赛事_YM,http://go2.bkpcp.top/cjds/classid=1&id=154&pathid=0
 CCTV5+体育赛事_YN-HL,http://go2.bkpcp.top/cjds/classid=1&id=154&pathid=1
 CCTV5+体育赛事_YN-US,http://go2.bkpcp.top/cjds/classid=1&id=154&pathid=2
@@ -656,7 +656,7 @@ CCTV-F法语国际_1,http://go2.bkpcp.top/cjds/classid=1&id=152&pathid=0
 CCTV-F法语国际_2,http://go2.bkpcp.top/cjds/classid=1&id=152&pathid=1
 CCTV-E西班牙语国际_1,http://go2.bkpcp.top/cjds/classid=1&id=153&pathid=0
 CCTV-E西班牙语国际_2,http://go2.bkpcp.top/cjds/classid=1&id=153&pathid=1
-卫视,#genre#
+卫视_8657,#genre#
 深圳卫视_YN-HL,http://go2.bkpcp.top/cjds/classid=2&id=620&pathid=0
 深圳卫视_YN-US,http://go2.bkpcp.top/cjds/classid=2&id=620&pathid=1
 北京卫视(BeiJing Satellite TV)_YN-HL,http://go2.bkpcp.top/cjds/classid=2&id=200&pathid=0
