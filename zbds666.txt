@@ -2497,7 +2497,7 @@ CCTV17农业农村,http://115.52.127.45:880/CH017.m3u8
 
 
 🏞️4K演示片,#genre#
-4KHDR真彩,https://jx.dmflv.cc/?url=https://www.bilibilix.com/video/BV1iLeGz8EW5?spm_id_from=333.788.player.switch&vd_source=7508704fdddada76df6c4de3597ae8ca
+4KHDR真彩,https://jx.dmflv.cc/?url=https://www.bilibili.com/video/BV1SUqVBmEDU/
 8K视频超高清120FPS真实色彩,https://jx.dmflv.cc/?url=https://www.bilibilix.com/video/BV1ZG4y1e7i1/?spm_id_from=333.337.search-card.all.click
 120 FPS(超高清)真实杜比视觉,https://jx.dmflv.cc/?url=https://www.bilibilix.com/video/BV1Ue4y1z79V/?spm_id_from=333.337.search-card.all.click&vd_source=7508704fdddada76df6c4de3597ae8ca
 【4K超高清视频】 最佳超高清水果视频,https://www.bilibilix.com/video/BV1T4421D7gj?spm_id_from=333.788.recommend_more_video.5&trackid=web_related_0.router-related-2206146-q9d4h.1761837801288.292&vd_source=7508704fdddada76df6c4de3597ae8ca
