@@ -2496,35 +2496,6 @@ CCTV17农业农村,http://115.52.127.45:880/CH017.m3u8
 雪豹,http://cfss.cc/cdn/huya/29580970.flv
 
 
-🏞️4K演示片,#genre#
-4KHDR真彩,https://jx.dmflv.cc/?url=https://www.bilibili.com/video/BV1SUqVBmEDU/
-8K视频超高清120FPS真实色彩,https://jx.dmflv.cc/?url=https://www.bilibilix.com/video/BV1ZG4y1e7i1/?spm_id_from=333.337.search-card.all.click
-120 FPS(超高清)真实杜比视觉,https://jx.dmflv.cc/?url=https://www.bilibilix.com/video/BV1Ue4y1z79V/?spm_id_from=333.337.search-card.all.click&vd_source=7508704fdddada76df6c4de3597ae8ca
-【4K超高清视频】 最佳超高清水果视频,https://www.bilibilix.com/video/BV1T4421D7gj?spm_id_from=333.788.recommend_more_video.5&trackid=web_related_0.router-related-2206146-q9d4h.1761837801288.292&vd_source=7508704fdddada76df6c4de3597ae8ca
-4K HDR 杜比视界,https://www.bilibilix.com/video/BV1iLeGz8EW5?spm_id_from=333.788.player.switch&vd_source=7508704fdddada76df6c4de3597ae8ca
-8K HDR 《震撼视觉盛宴》,https://www.bilibilix.com/video/BV1bFe8zeED8?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-美丽的地球4K HDR 杜比视界,https://www.bilibilix.com/video/BV1sf421q7Fn?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-8K HDR画质测试屏幕极致HDR色彩体验,https://www.bilibilix.com/video/BV1Qa4y1Z7zJ?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-12K视频超高清HDR平滑240fps,https://www.bilibilix.com/video/BV1Q5cWeyEZe/?spm_id_from=333.337.search-card.all.click&vd_source=7508704fdddada76df6c4de3597ae8ca
-最佳动态杜比视界4K HDR 120fps极致画质,https://www.bilibilix.com/video/BV1pZcPeCENM?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-8K视频超高清DOLBY,https://www.bilibilix.com/video/BV1U3c6eDEEq?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-我们的星球8K HDR杜比视觉,https://www.bilibilix.com/video/BV13EwCeqE3N?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-地球的神秘之美12K HDR 120fps,https://www.bilibilix.com/video/BV1EwfeY2EJe?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-8K HDR OLED视觉效果,https://www.bilibilix.com/video/BV1LMfeYkEWo?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-世界上最酷的地方4K超高清,https://www.bilibilix.com/video/BV1kJfZYHETL?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-最佳杜比视界8K HDR 60fps,https://www.bilibilix.com/video/BV1rnfZYDEa5?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-杜比视界12K HDR 120fps,https://www.bilibilix.com/video/BV1f7fkYqEWn?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-真正的HDR 4K超高清,https://www.bilibilix.com/video/BV11YFkenEzd?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-瑞士16K超超高清-索尼演示,https://www.bilibilix.com/video/BV1yiFkeEEJU?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-12K HDR 240fps杜比视界,https://www.bilibilix.com/video/BV1GGP9euEo3?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-4K HDR 60FPS杜比视界极致画质,https://www.bilibilix.com/video/BV1NaPdePEmZ?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-世界奇观8K HDR 240FPS,https://www.bilibilix.com/video/BV19RPde7Edu?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-视觉效果极致画质,https://www.bilibilix.com/video/BV1LRP2e4E8b?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-超现实4K HDR 60FPS,https://www.bilibilix.com/video/BV1MmP1eVEUs?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-12K HDR Dolby Vision,https://www.bilibilix.com/video/BV1zgPUeNEed?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-16K杜比视界HDR体验,https://www.bilibilix.com/video/BV13MNWeWE5J?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-放松享受4K HDR 60FPS,https://www.bilibilix.com/video/BV1AXNPeQEFs?spm_id_from=333.788.videopod.sections&vd_source=7508704fdddada76df6c4de3597ae8ca
-
 🎬电影轮播,#genre#
 粤语星爷电影,http://cfss.cc/cdn/huya/11336587.flv
 粤语星爷电影,http://cfss.cc/cdn/huya/11336587.flv
@@ -5526,3 +5497,6 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 河豚中毒急救法,https://vod.youlai.cn/54bb6f7f430a4b01ba135a81d44adf4b/80c3fb00cc0b4316a27a1a78c8c73666-ee55ff49bd654f85e212eeb11fefe2a6-sd.mp4
 煤气中毒急救法,https://vod.youlai.cn/ff4732cb61da4459b3d1f05d438f6960/060bb35b8c8f48f1a42a640cf3645392-5e96ffaf9ba8489beaca87363f591ad7-sd.mp4
 亚硝酸盐急救法,https://vod.youlai.cn/bb65c8d09d4d4e6485ec713adba0bbae/c782c5de3f3943a7930c35b45b7db3e1-0628404169396ded4d136ee9b75fb855-sd.mp4
+
+🚗驾考宝典,#genre#
+科目二：侧方停车,https://qu.ax/x/dPUMT.mp4
