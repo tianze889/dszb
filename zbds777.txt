@@ -132,6 +132,138 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
 綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
 
+🇺🇳国际电视频道_8657,#genre#
+🇪🇸西班牙DW Español Ⓢ,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+🇲🇽墨西哥Alcarria TV,http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+🇮🇹意大利Food Network,https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+🇫🇮芬兰Alfa Ⓢ,https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
+🇨🇷哥斯达黎加Canal 8,http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+🇨🇱智利UCV Televisión,https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+🇧🇾白俄罗斯Radio HIT Orsk,http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+🇹🇷土耳其TRT World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
+🇳🇱荷兰Omrop Fryslân,https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
+🇮🇩印度尼西亚CNN Indonesia,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+🇹🇭泰国Thai PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+🇺🇦乌克兰KPBIM,https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
+🇶🇦卡塔尔Al Jazeera Arabic,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+🇰🇷韩国AriangTV,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+🇰🇷韩国GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+🇺🇸美国Fox weather,https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+🇺🇸美国Pac-12 Network,https://pac12-samsungus.amagi.tv/playlist480_p.m3u8
+🇮🇳印度9Bharatvarsh,https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
+🇮🇳印度colorsbangla,https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+半岛新闻,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+CBS新闻,https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+GBN新闻,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+美国·彭博财经,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+加拿大·Global新闻,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+日本电影台,http://v2.catcast.tv/content/40546/index.m3u8
+俄罗斯Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+美国Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
+美国Palm Beaches TV,https://live.feed.thepalmbeaches.tv/index.m3u8
+美国Travelxp,https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+泰国ASTV-News,http://news1.live14.com/stream/news1_hi.m3u8
+菲律宾NDTV,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+俄罗斯camapa,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+韩国KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+韩国阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国Gsmyshop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+韩国NBS新闻,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国CJB新闻,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+韩国EBS+1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/PLAYLIST.m3u8
+韩国EBD-Kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+韩国NBS,https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+韩国KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+FTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+联合国UNTV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+Travel Escapes TV,https://b385eb878e03425999616e7aedfe3605.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/TCLTVPlus_TravelEscapes/playlist.m3u8
+PAC-12 TV,https://pac12-samsungus.amagi.tv/playlist.m3u8
+GB News,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+Euronews,https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
+TRT World,https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+Newsmax 2,https://nmxlive.akamaized.net/hls/live/529965/Live_1/1.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+Newsy,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
+HollyWire,https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+Redbull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+Premier Sports 1,http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/2160/index.m3u8
+World Poker,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u
+Trace Sport Stars,https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
+BEIN Sports Xtra,https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Love Nature,https://jmp2.uk/rok-479fe0d11f3f5132a3f36b617547da3b.m3u8
+MovieSphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+韩·BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+韩·EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩·EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩·EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩·EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+韩·EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩·EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+韩·EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩·EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩·EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩·KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+韩·Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩·KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+韩·TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+韩·KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+韩·KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+韩·KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+韩·KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
+韩·KBS 1TV,http://mytv.dothome.co.kr/ch/public/1.php
+韩·KBS 2TV,http://mytv.dothome.co.kr/ch/public/3.php
+韩·OUN,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+韩·大田MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+韩·木浦MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩·济州MBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+韩·KFN,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+Love the Planet,https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+STADIUM,https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
+C31 TV,https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+Gusto TV,https://gusto-localnow.amagi.tv/playlist.m3u8
+Inside Crime,https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8
+Wicked Tuna,https://amg00353-lionsgatestudio-wickedtuna-samsunguk-ajti1.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsunguk/playlist.m3u8
+WORLD FASHION,https://cdn.wfc.tv/cdn/stream-eng.m3u8
+DELUXE MUSIC TV,https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+DUCK TV,https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
+Hi-YAH!,https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+Toon Goggles,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+AfreecaTV Billiards,https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+Agro TV,https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+Failarmy,https://d89ea9d7a37f40408057298b5ea93acc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FailArmy/playlist.m3u8
+KroneHit TV,https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist.m3u8
+CGTN Documentary,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+Smurf TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=6627
+
+Darcizzle,http://30a-tv.com/darcizzle.m3u8
+CJ onstyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+CJ onstyle plus,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+EBS Kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
+KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+
+
 🇨🇳中国台湾,#genre#
 寰宇新闻,http://rihou.cc:555/tv/[Uk]寰宇新闻
 民视新闻,http://rihou.cc:555/tv/[Uk]民视新闻
@@ -169,6 +301,120 @@ FOCUS,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 ANIMAX,https://stream1.freetv.fun/animax-1.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+
+🛰️数字频道_8657,#genre#
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV2,http://gslbserv.itv.cmvideo.cn:80/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV3,http://gslbserv.itv.cmvideo.cn:80/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV3,http://gslbserv.itv.cmvideo.cn:80/8378175926191110263/1.m3u8?channel-id=ystenlive&Contentid=8378175926191110263&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$2M HD
+CCTV4,http://gslbserv.itv.cmvideo.cn:80/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV5,http://gslbserv.itv.cmvideo.cn:80/1000000001000004794/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$2M HD
+CCTV6,http://gslbserv.itv.cmvideo.cn:80/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV7,http://gslbserv.itv.cmvideo.cn:80/1000000001000017218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV8,http://gslbserv.itv.cmvideo.cn:80/1000000001000003736/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV9,http://gslbserv.itv.cmvideo.cn:80/1000000001000028286/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1000000001000026367/1.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV11,http://gslbserv.itv.cmvideo.cn:80/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV12,http://gslbserv.itv.cmvideo.cn:80/1000000001000001640/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV13,http://gslbserv.itv.cmvideo.cn:80/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/1000000001000021349/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV15,http://gslbserv.itv.cmvideo.cn:80/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+CCTV16,http://gslbserv.itv.cmvideo.cn:80/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$8M FHD
+CCTV17,http://gslbserv.itv.cmvideo.cn:80/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+中国教育1台,http://gslbserv.itv.cmvideo.cn:80/1000000002000027253/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027253&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+中国教育2台,http://gslbserv.itv.cmvideo.cn:80/1000000005000266004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266004&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+中国教育4台,http://gslbserv.itv.cmvideo.cn:80/1000000005000025333/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025333&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+CGTN,http://gslbserv.itv.cmvideo.cn:80/1000000002000009569/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+CGTN纪录,http://gslbserv.itv.cmvideo.cn:80/8428799834696888424/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$2M SD
+CGTN俄语,http://gslbserv.itv.cmvideo.cn:80/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+CGTN法语,http://gslbserv.itv.cmvideo.cn:80/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+CGTN阿拉伯语,http://gslbserv.itv.cmvideo.cn:80/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+湖南卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+东方卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+江苏卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000004684/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+江苏卫视,http://gslbserv.itv.cmvideo.cn:80/4690153511271751319/1.m3u8?channel-id=ystenlive&Contentid=4690153511271751319&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$2M HD
+广东卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000028357/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+浙江卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+北京卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000017156/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+深圳卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000011645/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+天津卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000000831/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+山东卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000012807/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+安徽卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000020780/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+江西卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000013731/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+黑龙江卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000009082/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+四川卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000016825/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+贵州卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+湖北卫视,http://gslbserv.itv.cmvideo.cn:80/1000000001000010355/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+辽宁卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000024033/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+广西卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000019837/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+重庆卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+东南卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+吉林卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000027730/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+海南卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000023773/1.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+云南卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000024694/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+厦门卫视,http://gslbserv.itv.cmvideo.cn:80/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+河南卫视,http://gslbserv.itv.cmvideo.cn:80/7304224304099543804/1.m3u8?channel-id=ystenlive&Contentid=7304224304099543804&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$2M SD
+河北卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000017118/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+陕西卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+山西卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000021220/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+甘肃卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+甘肃卫视,http://gslbserv.itv.cmvideo.cn:80/8938598377512027715/1.m3u8?channel-id=ystenlive&Contentid=8938598377512027715&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$2M SD
+宁夏卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000031451/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+青海卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+西藏卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000015894/1.m3u8?channel-id=ystenlive&Contentid=1000000002000015894&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+新疆卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+内蒙古卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+内蒙古卫视,http://gslbserv.itv.cmvideo.cn:80/5559214655508729688/1.m3u8?channel-id=ystenlive&Contentid=5559214655508729688&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$2M SD
+农林卫视,http://gslbserv.itv.cmvideo.cn:80/1000000005000266003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266003&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+兵团卫视,http://gslbserv.itv.cmvideo.cn:80/1000000005000266005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266005&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+山东教育卫视,http://gslbserv.itv.cmvideo.cn:80/1000000002000004097/1.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+超级电视剧,http://gslbserv.itv.cmvideo.cn:80/1000000006000268003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$8M FHD
+精品大剧,http://gslbserv.itv.cmvideo.cn:80/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+家庭剧场,http://gslbserv.itv.cmvideo.cn:80/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+军旅剧场,http://gslbserv.itv.cmvideo.cn:80/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+古装剧场,http://gslbserv.itv.cmvideo.cn:80/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+欢乐剧场,http://gslbserv.itv.cmvideo.cn:80/1000000005000266012/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266012&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+东北热剧,http://gslbserv.itv.cmvideo.cn:80/1000000005000266013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266013&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+惊悚悬疑,http://gslbserv.itv.cmvideo.cn:80/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+爱情喜剧,http://gslbserv.itv.cmvideo.cn:80/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+热播精选,http://gslbserv.itv.cmvideo.cn:80/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+明星大片,http://gslbserv.itv.cmvideo.cn:80/1000000004000019008/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+黑莓电影,http://gslbserv.itv.cmvideo.cn:80/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+黑莓电影,http://gslbserv.itv.cmvideo.cn:80/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+黑莓动画,http://gslbserv.itv.cmvideo.cn:80/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+黑莓动画,http://gslbserv.itv.cmvideo.cn:80/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+哒啵赛事,http://gslbserv.itv.cmvideo.cn:80/1000000001000003775/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003775&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+哒啵赛事,http://gslbserv.itv.cmvideo.cn:80/5320946857686967621/1.m3u8?channel-id=ystenlive&Contentid=5320946857686967621&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+超级电影,http://gslbserv.itv.cmvideo.cn:80/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$8M FHD
+动作电影,http://gslbserv.itv.cmvideo.cn:80/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+动作电影,http://gslbserv.itv.cmvideo.cn:80/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+超级体育,http://gslbserv.itv.cmvideo.cn:80/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$8M FHD
+精品体育,http://gslbserv.itv.cmvideo.cn:80/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+中国功夫,http://gslbserv.itv.cmvideo.cn:80/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+武搏世界,http://gslbserv.itv.cmvideo.cn:80/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+超级综艺,http://gslbserv.itv.cmvideo.cn:80/1000000006000268002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268002&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$8M FHD
+金牌综艺,http://gslbserv.itv.cmvideo.cn:80/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+魅力潇湘,http://gslbserv.itv.cmvideo.cn:80/1000000001000006197/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+炫舞未来,http://gslbserv.itv.cmvideo.cn:80/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+农业致富,http://gslbserv.itv.cmvideo.cn:80/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+军事评论,http://gslbserv.itv.cmvideo.cn:80/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+精品萌宠,http://gslbserv.itv.cmvideo.cn:80/1000000006000032328/1.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+潮妈辣婆,http://gslbserv.itv.cmvideo.cn:80/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+怡伴健康,http://gslbserv.itv.cmvideo.cn:80/1000000005000266011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+怡伴健康,http://gslbserv.itv.cmvideo.cn:80/7820874641606664941/1.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+精品纪录,http://gslbserv.itv.cmvideo.cn:80/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
+睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$8M FHD
+睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1000000006000270001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$8M FHD
+睛彩青少,http://gslbserv.itv.cmvideo.cn:80/3000000020000031315/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$8M FHD
+睛彩青少,http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$8M FHD
+睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$8M FHD
+睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1000000006000270002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$8M FHD
+中华美食,http://gslbserv.itv.cmvideo.cn:80/1000000005000266015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266015&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+优漫卡通,http://gslbserv.itv.cmvideo.cn:80/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+哈哈炫动,http://gslbserv.itv.cmvideo.cn:80/1000000002000000172/1.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M SD
+
 
 👽综合频道,#genre#
 凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
