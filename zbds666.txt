@@ -2,10 +2,11 @@
 软件作者,https://cdn6.163189.xyz/163189/fhzw
 资源宝藏库,https://cdn6.163189.xyz/163189/fhzx
 制作维护,https://cdn6.163189.xyz/163189/fhhk
-捐赠10元可领取,https://cdn6.163189.xyz/163189/tvbxh
-4K高清影视软件2个,https://cdn6.163189.xyz/163189/yzwx
+捐赠5元获取频道密码,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 捐赠10元可获取,https://cdn.163189.xyz/163189/now
 最新版本电视家,https://cdn8.163189.xyz/163189/lhdy
+捐赠10元可领取,https://cdn6.163189.xyz/163189/tvbxh
+4K高清影视软件2个,https://cdn6.163189.xyz/163189/yzwx
 捐赠30元可获取,https://cdn.163189.xyz/163189/hoy78
 最新港澳台直播,https://cdn6.163189.xyz/163189/hoy
 U盘版港澳台65元,https://cdn2.163189.xyz/163189/hoyjj
@@ -132,49 +133,6 @@ CCTV14,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
 CCTV15,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
 CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
-
-CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=yu&mode=1&$4M
-CCTV2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=yu&mode=1&$4M
-CCTV3,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=yu&mode=1&$4M
-CCTV4,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=yu&mode=1&$4M
-CCTV5,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=yu&mode=1&$4M
-CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=yu&mode=1&$4M
-CCTV5+,http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
-CCTV6,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=yu&mode=1&$4M
-CCTV7,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=yu&mode=1&$4M
-CCTV8,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=yu&mode=1&$4M
-CCTV9,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=yu&mode=1&$4M
-CCTV10,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=yu&mode=1&$4M
-CCTV11,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=yu&mode=1&$4M
-CCTV12,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=yu&mode=1&$4M
-CCTV13,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=yu&mode=1&$4M
-CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=yu&mode=1&$4M
-CCTV14,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000000172&livemode=1&stbId=yu&mode=1&$4M
-CCTV15,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=yu&mode=1&$4M
-CCTV16,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=yu&mode=1&$8M
-CCTV17,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=yu&mode=1&$4M
-CCTV风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-CGTN,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=yu&mode=1&$4M
-CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN阿语,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=yu&mode=1&$4M
-CGTN阿语,https://0472.org/hls/cgtna.m3u8?3.24.160:5140
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN法语,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=yu&mode=1&$4M
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN俄语,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=yu&mode=1&$4M
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8?3.24.170:5140
-CGTN记录,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=yu&mode=1&$2M
-CGTN记录,https://0472.org/hls/cgtnd.m3u8?3.24.120:5140
-CGTN记录,https://0472.org/hls/cgtnd.m3u8
-CETV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000027253&livemode=1&stbId=yu&mode=1&$4M
-CETV2,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266004&livemode=1&stbId=yu&mode=1&$4M
-CETV4,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000025333&livemode=1&stbId=yu&mode=1&$4M
-CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 CCTV01,http://j.s.bkpcp.top/jj/cctv1
 CCTV02,http://j.s.bkpcp.top/jj/cctv2
@@ -514,53 +472,6 @@ CCTV-17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 青海卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
 吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 黑龙江视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
-
-山东卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000012807&livemode=1&stbId=yu&mode=1&$4M
-湖南卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=yu&mode=1&$4M
-浙江卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=yu&mode=1&$4M
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8$1甘电HD直
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$2甘电FD直
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$3甘电FD直
-江苏卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1&stbId=yu&mode=1&$4M
-东方卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=yu&mode=1&$4M
-北京卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=yu&mode=1&$4M
-辽宁卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000024033&livemode=1&stbId=yu&mode=1&$4M
-贵州卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=yu&mode=1&$4M
-安徽卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000020780&livemode=1&stbId=yu&mode=1&$4M
-黑龙江卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=yu&mode=1&$4M
-黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-河北卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000017118&livemode=1&stbId=yu&mode=1&$4M
-四川卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000016825&livemode=1&stbId=yu&mode=1&$4M
-天津卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000000831&livemode=1&stbId=yu&mode=1&$4M
-湖北卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=yu&mode=1&$4M
-广东卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000028357&livemode=1&stbId=yu&mode=1&$4M
-重庆卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000018937&livemode=1&stbId=yu&mode=1&$4M
-云南卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=yu&mode=1&$4M
-云南卫视,http://111.43.126.240:9003/hls/60/index.m3u8
-江西卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000013731&livemode=1&stbId=yu&mode=1&$4M
-兵团卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266005&livemode=1&stbId=yu&mode=1&$4M
-甘肃卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000017827&livemode=1&stbId=yu&mode=1&$4M
-深圳卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000001000011645&livemode=1&stbId=yu&mode=1&$4M
-东南卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=yu&mode=1&$4M
-广西卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=yu&mode=1&$4M
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7304224304099543804&livemode=1&stbId=yu&mode=1&$2M
-青海卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000013359&livemode=1&stbId=yu&mode=1&$4M
-陕西卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000007495&livemode=1&stbId=yu&mode=1&$4M
-内蒙古卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000014080&livemode=1&stbId=yu&mode=1&$4M
-山西卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000021220&livemode=1&stbId=yu&mode=1&$4M
-宁夏卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000031451&livemode=1&stbId=yu&mode=1&$4M
-延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
-大湾区卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000011619&livemode=1&stbId=yu&mode=1&$4M
-大湾区卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=toShengfen&mode=1&$4M-ystenlive
-厦门卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266006&livemode=1&stbId=yu&mode=1&$4M
-农林卫视,http://8.138.7.223/%E3%80%90%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86%E3%80%91/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.m3u8
-海峡卫视,http://8.138.7.223/tv/hxws.m3u8
-新疆卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000029441&livemode=1&stbId=yu&mode=1&$4M
-山东教育卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000004097&livemode=1&stbId=yu&mode=1&$4M
-
 
 CCTV-01,http://m.061899.xyz/mg/cctv1
 CCTV-02,http://m.061899.xyz/mg/cctv2
@@ -1514,7 +1425,7 @@ CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=32
 青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
 
 
-🏞️4K超清频道,#genre#
+🏞️4K超清频道(捐赠5元获取密码)_8657,#genre#
 东方卫视4K,http://go.bkpcp.top/mg/dfws
 浙江卫视4K,http://go.bkpcp.top/mg/zjws
 湖南卫视4K,http://go.bkpcp.top/mg/hunws
@@ -1741,7 +1652,7 @@ CCTV16-4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16
 山东教育,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 
 
-🎞️轮播剧场,#genre#
+🎞️轮播剧场(捐赠5元获取密码)_8657,#genre#
 荒野求生其他,http://cfss.cc/cdn/huya/593667.flv
 野行者其他,http://cfss.cc/cdn/huya/20072663.flv
 跳舞其他,http://cfss.cc/cdn/huya/24634408.flv
@@ -2062,7 +1973,7 @@ CCTV16-4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16
 咪视通-44,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691
 咪视通-45,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669
 
-🎦影视频道,#genre#
+🎦影视频道(捐赠5元获取密码)_8657,#genre#
 放映厅轮播,http://cfss.cc/cdn/huya/11602077.flv
 刘德华轮播,http://cfss.cc/cdn/huya/11342424.flv
 许冠英轮播,http://cfss.cc/cdn/huya/11601972.flv
@@ -2606,7 +2517,7 @@ CCTV17农业农村,http://115.52.127.45:880/CH017.m3u8
 陕西卫视,http://115.52.127.45:880/CH040.m3u8
 
 
-✨明星剧场,#genre#
+✨明星剧场(捐赠5元获取密码)_8657,#genre#
 成龙,http://cfss.cc/cdn/huya/11342386.flv
 黄渤,http://cfss.cc/cdn/huya/11352876.flv
 沈腾,http://cfss.cc/cdn/huya/11601968.flv
@@ -2668,7 +2579,7 @@ CCTV17农业农村,http://115.52.127.45:880/CH017.m3u8
 雪豹,http://cfss.cc/cdn/huya/29580970.flv
 
 
-🎬电影轮播,#genre#
+🎬电影轮播(捐赠5元获取密码)_8657,#genre#
 粤语星爷电影,http://cfss.cc/cdn/huya/11336587.flv
 粤语星爷电影,http://cfss.cc/cdn/huya/11336587.flv
 渗透电视轮播,http://cfss.cc/cdn/huya/30080244.flv
@@ -2813,7 +2724,7 @@ Han国动作片,http://cfss.cc/cdn/huya/11352884.flv
 误杀3,http://cfss.cc/cdn/huya/880219.flv
 
 
-📽️电视剧场,#genre#
+📽️电视剧场_(捐赠5元获取密码)_8657,#genre#
 亮剑电视轮播,http://cfss.cc/cdn/huya/30080238.flv
 雪豹电视轮播,http://cfss.cc/cdn/huya/29580970.flv
 寻秦记播频道,http://cfss.cc/cdn/huya/29465848.flv
@@ -3164,7 +3075,7 @@ Big3专场,http://cfss.cc/cdn/huya/30847442.flv
 我们的客栈专场,http://cfss.cc/cdn/huya/24609812.flv
 变形计专场,http://cfss.cc/cdn/huya/23903164.flv
 
-📺电视剧场,#genre#
+📺电视剧场(捐赠5元获取密码)_8657,#genre#
 探案剧专区,http://cfss.cc/cdn/huya/20969144.flv
 都市剧专区,http://cfss.cc/cdn/huya/29982666.flv
 刑侦剧专区,http://cfss.cc/cdn/huya/20969130.flv
@@ -5627,7 +5538,7 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 煤气中毒急救法,https://vod.youlai.cn/ff4732cb61da4459b3d1f05d438f6960/060bb35b8c8f48f1a42a640cf3645392-5e96ffaf9ba8489beaca87363f591ad7-sd.mp4
 亚硝酸盐急救法,https://vod.youlai.cn/bb65c8d09d4d4e6485ec713adba0bbae/c782c5de3f3943a7930c35b45b7db3e1-0628404169396ded4d136ee9b75fb855-sd.mp4
 
-🛰️数字频道,#genre#
+🛰️数字频道(捐赠5元获取密码)_8657,#genre#
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
 CCTV2,http://gslbserv.itv.cmvideo.cn:80/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
 CCTV3,http://gslbserv.itv.cmvideo.cn:80/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=toShengfen&/PLTV/&mode=0&yw=&$4M FHD
