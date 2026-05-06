@@ -2,9 +2,12 @@
 软件作者,http://iptv.4666888.xyz/iptv2A.php?id=27
 资源宝藏库,http://iptv.4666888.xyz/iptv2A.php?id=28
 制作维护,https://cdn6.163189.xyz/163189/fhhk
-捐赠5元获取频道密码,http://r.jdshipin.com/CkuBd
-捐赠10元可获取4K高清影视软件2个,http://r.jdshipin.com/CkuBd
-捐赠10元可获取最新电视家,https://cdn6.163189.xyz/163189/yzwx
+捐赠5元获取,https://mytv.cdn.loc.cc/o12.php?id=fct
+频道密码,http://r.jdshipin.com/CkuBd
+捐赠10元可获取,http://r.jdshipin.com/Voac4
+4K高清影视软件2个,http://r.jdshipin.com/CkuBd
+捐赠10元可获取,https://cdn6.101.qzz.io/163189/yzwx
+最新本版电视家,https://cdn6.163189.xyz/163189/yzwx
 捐赠30元可获取,https://cdn.163189.xyz/163189/hoy78
 最新港澳台直播,https://cdn6.163189.xyz/163189/hoy
 U盘版港澳台软件65元,https://cdn2.163189.xyz/163189/hoyjj
@@ -113,6 +116,7 @@ tvbs闽南频道,http://61.221.215.25:8800/hls/9/index.m3u8
 中天娱乐频道,http://61.221.215.25:8800/hls/47/index.m3u8
 纬来精彩频道,http://61.221.215.25:8800/hls/48/index.m3u8
 动物星球频道,http://61.221.215.25:8800/hls/57/index.m3u8
+
 
 
 📡港澳台,#genre#
