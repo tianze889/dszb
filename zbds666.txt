@@ -938,7 +938,7 @@ CCTV15,http://116.76.254.170:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0
 十二大美女-.修复歌曲,https://vdse.bdstatic.com//0e24446e72ae93b97f7b026097bf05be.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2026-02-11T16%3A58%3A57Z%2F-1%2Fhost%2F53d51d3ec8c205e67dc86383bec533598b62a63237395ead8162b394bd0d49bb&vid=12446329619533354686
 十二大美女-爱情一阵风,https://vdse.bdstatic.com//5e37b3a54bed836f2d5f58493427ff08.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2026-02-04T19%3A40%3A38Z%2F-1%2Fhost%2Fd1fbd38c613eba6042e1f4a4925f9f5f20f4788dcae96ba3f22717a8e1db1153&vid=2318966086876078718
 
-🛒付费频道(捐赠5元获取密码_8657),#genre#
+🛒付费频道(捐赠5元获取密码)_8657,#genre#
 鳳凰中文,https://cdn6.163189.xyz/163189/fhzw
 鳳凰資訊,https://cdn6.163189.xyz/163189/fhzx
 鳳凰HK,https://cdn6.163189.xyz/163189/fhhk
