@@ -531,6 +531,77 @@ CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 金色剧场,http://m.061899.xyz/mg/jsjc
 乡村振兴,http://m.061899.xyz/mg/xczx
 
+🥇2026世界杯(體育世界)_8657,#genre#
+世界杯4,https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+世界杯8,https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+CCTV 5,http://69.30.245.50/live/cctv5.m3u8
+BBC One,http://193.239.186.231/BBC1/index.m3u8
+BBC One HD UK,http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/19176/index.m3u8
+台视HD,http://211.72.174.95:8112/0.ts
+SportTV,http://178.124.179.122:8080/SportTV/mpegts
+7,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410747
+TUDN,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410746
+1410745,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410745
+1410744,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410744
+ROS 2,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410743
+ROS 1,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410742
+TSN 5,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410741
+TSN 4,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410740
+TSN 3,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410739
+TSN 2,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410738
+TSN 1,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410737
+FS 1,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410736
+SPORT X,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410732
+V2 SPORT,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410731
+V2,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410730
+2 DR,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410729
+1 DR,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410728
+TV2 SPORT2,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410727
+TV2 SPORT2,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410726
+TV2 SPORT2,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410725
+SPORZA 1,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410703
+SPORZA 2,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410704
+RTS 2,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410708
+LA 2,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410710
+ORF 1,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410711
+SERUS,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410713
+SVT 1,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410714
+SVT 2,http://ip365.cx:80/CBDD6BBD/A58C2D94/1410715
+
+Eurosport 1,http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/141/index.m3u8
+Eurosport 2 HD orig,http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/5076/index.m3u8
+Setanta Sports 1 HD,http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/271/index.m3u8
+Setanta Sports 2 HD,http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/270/index.m3u8
+Viju+ Sport HD,http://c5497742.ottrast.com/iptv/HBWPN23GZMELXN/2007/index.m3u8
+TSN 1 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3Ni50cw==
+TSN 2 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3NS50cw==
+TSN 3 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3NC50cw==
+TSN 4 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3My50cw==
+TSN 5 HD,https://virtual.anbox.dpdns.org/resolve?src=aHR0cDovL2xpbmUuZGluby53cy9saXZlL2IxNjU2ZWU0ODkvZWUwMjAxYTVlMzk1LzYyNjg3Mi50cw==
+ASTRO Football,https://tv.media4u.top:443/live/media4u/media4u/995128
+ASTRO Grandstand,https://tv.media4u.top:443/live/media4u/media4u/735770
+ASTRO Premier League,https://tv.media4u.top:443/live/media4u/media4u/980980
+ASTRO Premier League 2,https://tv.media4u.top:443/live/media4u/media4u/291387
+ASTRO Sports Plus,https://tv.media4u.top:443/live/media4u/media4u/499499
+BEIN SPORTS 1 [ID],https://tv.media4u.top:443/live/media4u/media4u/847964
+BEIN SPORTS 2 [ID],https://tv.media4u.top:443/live/media4u/media4u/300666
+HUB SPORTS 1 [SG],https://tv.media4u.top:443/live/media4u/media4u/404922
+HUB SPORTS 2 [SG],https://tv.media4u.top:443/live/media4u/media4u/844806
+HUB SPORTS 3 [SG],https://tv.media4u.top:443/live/media4u/media4u/645052
+HUB SPORTS 4 [SG],https://tv.media4u.top:443/live/media4u/media4u/666938
+HUB SPORTS 5 [SG],https://tv.media4u.top:443/live/media4u/media4u/833597
+STARHUB PREMIER 1 [SG],https://tv.media4u.top:443/live/media4u/media4u/906938
+STARHUB PREMIER 2 [SG],https://tv.media4u.top:443/live/media4u/media4u/709486
+STARHUB PREMIER 2 [SG],https://tv.media4u.top:443/live/media4u/media4u/291085
+STARHUB PREMIER 3 [SG],https://tv.media4u.top:443/live/media4u/media4u/959522
+STARHUB PREMIER 4 [SG],https://tv.media4u.top:443/live/media4u/media4u/598123
+STARHUB PREMIER 5 [SG],https://tv.media4u.top:443/live/media4u/media4u/601445
+TRUE PREMIERE LEAGUE 1 [TH],https://tv.media4u.top:443/live/media4u/media4u/746222
+TRUE PREMIERE LEAGUE 2 [TH],https://tv.media4u.top:443/live/media4u/media4u/362618
+TRUE PREMIERE LEAGUE 3 [TH],https://tv.media4u.top:443/live/media4u/media4u/509913
+TRUE PREMIERE LEAGUE 4 [TH],https://tv.media4u.top:443/live/media4u/media4u/147570
+TRUE PREMIERE LEAGUE 5 [TH],https://tv.media4u.top:443/live/media4u/media4u/648805
+MLB NETWORK HD,http://tvmaxxx.com:80/JosemarOliveira/24jos999064802/206108
 
 📺央视频道,#genre#
 CCTV1,https://live.chinacert.cftest5.cn/cnmg/live/608807420
