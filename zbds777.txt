@@ -446,39 +446,76 @@ Dream_Works夢工廠動畫,https://cdn12.178.indevs.in/163189/dreamworks
 景泰电视台,https://play.kankanlive.com/live/1624439143745981.m3u8
 
 🚀国际频道(捐赠5元获取密码)_8657,#genre#
+凤凰中文,http://45.192.97.170:8880/play/528.m3u8
+凤凰资讯,http://45.192.97.170:8880/play/529.m3u8
+凤凰香港,http://45.192.97.170:8880/play/530.m3u8
+纬来日本台,http://45.192.97.170:8880/play/471.m3u8
+纬来电影台,http://45.192.97.170:8880/play/472.m3u8
+龍華經典台,http://45.192.97.170:8880/play/473.m3u8
+龍華偶像台,http://45.192.97.170:8880/play/474.m3u8
+龍華日韓台,http://45.192.97.170:8880/play/475.m3u8
+龍華戲劇台,http://45.192.97.170:8880/play/476.m3u8
+龍華洋片台,http://45.192.97.170:8880/play/477.m3u8
+纬来体育台,http://45.192.97.170:8880/play/478.m3u8
+龍祥時代,http://45.192.97.170:8880/play/479.m3u8
+纬来综合台,http://45.192.97.170:8880/play/480.m3u8
+民視綜藝台,http://45.192.97.170:8880/play/481.m3u8
+民視第一台,http://45.192.97.170:8880/play/482.m3u8
+民視台灣台,http://45.192.97.170:8880/play/483.m3u8
+中視,http://45.192.97.170:8880/play/484.m3u8
+華視,http://45.192.97.170:8880/play/485.m3u8
+三立綜合台,http://45.192.97.170:8880/play/486.m3u8
+客家電視台,http://45.192.97.170:8880/play/487.m3u8
+八大綜藝台,http://45.192.97.170:8880/play/488.m3u8
+TVBS精采台,http://45.192.97.170:8880/play/489.m3u8
+INULTRA,http://45.192.97.170:8880/play/490.m3u8
+靖天綜合台,http://45.192.97.170:8880/play/491.m3u8
+靖天日本台,http://45.192.97.170:8880/play/492.m3u8
+新唐人亞太台,http://45.192.97.170:8880/play/493.m3u8
+ARIRANG阿里郎頻道,http://45.192.97.170:8880/play/494.m3u8
+Global Trekker,http://45.192.97.170:8880/play/495.m3u8
+LiveABC互動英語頻道,http://45.192.97.170:8880/play/496.m3u8
+鏡電視新聞台,http://45.192.97.170:8880/play/497.m3u8
+東森新聞台,http://45.192.97.170:8880/play/498.m3u8
+民視新聞台,http://45.192.97.170:8880/play/499.m3u8
+三立新聞iNEWS,http://45.192.97.170:8880/play/500.m3u8
+東森財經新聞台,http://45.192.97.170:8880/play/501.m3u8
+中視新聞,http://45.192.97.170:8880/play/502.m3u8
+寰宇新聞台,http://45.192.97.170:8880/play/503.m3u8
+寰宇新聞台灣台,http://45.192.97.170:8880/play/504.m3u8
+SBN全球財經台,http://45.192.97.170:8880/play/505.m3u8
+豬哥亮歌廳秀,http://45.192.97.170:8880/play/506.m3u8
+靖天育樂台,http://45.192.97.170:8880/play/507.m3u8
+靖天資訊台,http://45.192.97.170:8880/play/508.m3u8
+ROCK Entertainment,http://45.192.97.170:8880/play/509.m3u8
+Lifetime 娛樂頻道,http://45.192.97.170:8880/play/510.m3u8
+電影原聲台CMusic,http://45.192.97.170:8880/play/511.m3u8
+TRACE Urban,http://45.192.97.170:8880/play/512.m3u8
+CLASSICA 古典樂,http://45.192.97.170:8880/play/513.m3u8
+TRACE Sport Stars,http://45.192.97.170:8880/play/514.m3u8
+智林體育台,http://45.192.97.170:8880/play/515.m3u8
+公視戲劇,http://45.192.97.170:8880/play/516.m3u8
+民視影劇台,http://45.192.97.170:8880/play/517.m3u8
+HITS頻道,http://45.192.97.170:8880/play/518.m3u8
+八大精彩台,http://45.192.97.170:8880/play/519.m3u8
+靖天戲劇台,http://45.192.97.170:8880/play/520.m3u8
+中天新闻台,http://45.192.97.170:8880/play/521.m3u8
+中天亚洲台,http://45.192.97.170:8880/play/522.m3u8
+Now 爆谷台,http://45.192.97.170:8880/play/523.m3u8
+Now Sports 精選,http://45.192.97.170:8880/play/524.m3u8
+無綫新聞台,http://45.192.97.170:8880/play/525.m3u8
+美亞電影台,http://45.192.97.170:8880/play/526.m3u8
+翡翠台,http://45.192.97.170:8880/play/527.m3u8
 Now新闻,https://fast.hidns.vip/163189/now
-翡翠台4K,http://cdn6.cc.cd/163189/fct4k
-翡翠台,https://cdn6.cc.cd/163189/fct
-鳳凰中文,https://cdn6.cc.cd/163189/fhzw
-鳳凰資訊,https://cdn6.cc.cd/163189/fhzx
-鳳凰HK,https://cdn6.cc.cd/163189/fhhk
-TVB娱乐新闻台,http://cdn6.cc.cd/163189/ylxw
-华丽翡翠台,http://cdn6.cc.cd/163189/hlfct
 天映频道,https://10.fast.hidns.vip/163189/typd/
 天映经典,https://10.fast.hidns.vip/163189/ccm/
-八度空间,http://cdn6.cc.cd/163189/8tv
-CHU,http://cdn6.cc.cd/163189/chu
-CH5,http://cdn6.cc.cd/163189/ch5
-CH8,http://cdn6.cc.cd/163189/ch8
 Astro AOD,http://cdn3.indevs.in/stream/live/aod/
 Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
 Astro 欢喜台,http://cdn3.indevs.in/stream/live/hxt/
-TVB1,http://cdn6.cc.cd/163189/tvb1
-TVBJ1,http://cdn6.cc.cd/163189/j1
 ViuTV,https://10.fast.hidns.vip/163189/viu/
 ViuTVsix,https://10.fast.hidns.vip/163189/viu6/
-HOY77,https://cdn6.cc.cd/163189/hoy
 HOY资讯台,https://fast.hidns.vip/163189/hoy78
 HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
-翡翠剧集台,http://cdn6.cc.cd/163189/tvbd
-无线新闻台,https://cdn6.cc.cd/163189/wxxw
-TVB星河,https://cdn6.cc.cd/163189/tvbxh
-无线功夫,https://cdn6.cc.cd/163189/yzwx
-澳视澳门,http://cdn6.cc.cd/163189/asam
-澳视卫星,http://cdn6.cc.cd/163189/as
-澳门体育,http://cdn6.cc.cd/163189/amty
-澳门综艺,http://cdn6.cc.cd/163189/amzy
-澳门莲花,http://cdn6.cc.cd/163189/amlh
 RTHK31,https://fast.hidns.vip/163189/rthk31
 RTHK32,https://fast.hidns.vip/163189/rthk32
 龙华偶像,http://8.fast.hidns.vip/163189/lhox
@@ -490,21 +527,6 @@ RTHK32,https://fast.hidns.vip/163189/rthk32
 重温经典,http://8.138.7.223/tv/cwjd.php
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-民视影剧台,https://cdn12.178.indevs.in/163189/msyj
-公视戏剧,https://cdn12.178.indevs.in/163189/gsxj
-采昌影剧台,https://cdn12.178.indevs.in/163189/ccyj
-靖天映画,https://cdn12.178.indevs.in/163189/jtyh
-靖天戏剧台,https://cdn12.178.indevs.in/163189/jtxj
-靖天电影台,https://cdn12.178.indevs.in/163189/jtdy
-靖洋戏剧台,https://cdn12.178.indevs.in/163189/jyxj
-影迷数位电影台,https://cdn12.178.indevs.in/163189/ymswdyt
-amc电影台,https://cdn12.178.indevs.in/163189/amc
-CinemaWorld,https://cdn12.178.indevs.in/163189/cinemaworld
-My Cinema Europe,https://cdn12.178.indevs.in/163189/mce
-经典电影台,https://cdn12.178.indevs.in/163189/jddyt
-梦工厂动画,https://cdn12.178.indevs.in/163189/dreamworks
-精选动漫台,https://cdn12.178.indevs.in/163189/jxdmt
-金光布袋戏,https://cdn12.178.indevs.in/163189/jgbdx
 TVBS新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 中旺電視,http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
@@ -519,9 +541,7 @@ TVBS新聞台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 深圳國際,http://38.64.72.148/hls/modn/list/4007/playlist.m3u8
 海峽衛視,http://38.64.72.148/hls/modn/list/4009/playlist.m3u8
 漢天衛視,http://38.64.72.148/hls/modn/list/4025/playlist.m3u8
-KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 美國城市衛視,http://38.64.72.148/hls/modn/list/4028/playlist.m3u8
-LMN,http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
 CN卡通,http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 HBO王牌,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 Cinemax,http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
@@ -544,19 +564,15 @@ LIVE,http://211.72.174.95:8133/0.ts
 民视新闻台,http://211.72.174.95:8117/0.ts
 翡翠台,http://124.244.129.167:9004/0.ts
 翡翠台,http://qingyi.7766.org:9004/0.ts
-凤凰电影频道,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,https://cdn15.163189.xyz/163189/wxty
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 翡翠台,http://222.128.55.152:9080/live/gdfc.m3u8
 翡翠台,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
-翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
-翡翠台,https://php.946985.filegear-sg.me/mytv265.php?id=CJTV
 翡翠台,https://epg.pw/stream/b1bedc34e0cd84c712106b10fa7bd2055a46898678c37e35aebe43290c2c8a1f.m3u8
 無綫新聞台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=F6144U&tk=4U04NDOE13ra
-明珠台,http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 TVB Plus,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=aCMBgd&tk=SLK5QjnsRiya
 Now新聞台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=TkL6PN&tk=SLK5QjnsRiya
 ROCK Action,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=RhYj3n&tk=SLK5QjnsRiya
@@ -575,8 +591,6 @@ ViuTV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 寰宇新聞台,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新聞台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=a5BrR5&tk=4U04NDOE13ra
 天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=kr082FQvzN
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
@@ -615,12 +629,6 @@ Love Nature,https://bamus-lovenature-lg.amagi.tv/240p-cc/index.m3u8
 Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 tvN,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?tvN
 Animax (HK),http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
-NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
-NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
-NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
-Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
-TRACE Urban,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 中旺电视,http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
 美国城市,http://38.64.72.148/hls/modn/list/4028/chunklist1.m3u8
 美国城市,http://38.64.72.148:80/hls/modn/list/4028/chunklist1.m3u8
@@ -629,7 +637,6 @@ TRACE Urban,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
 汉天卫视,http://38.64.72.148/hls/modn/list/4025/chunklist1.m3u8
 东森AMERICA,http://38.64.72.148:80/hls/modn/list/2015/playlist.m3u8
-洛杉磯三藩市,http://38.64.72.148:80/hls/modn/list/4026/chunklist1.m3u8
 韩国Arirang (Opt-1),http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 美国Free IPTV,http://stream.srg-ssr.ch/m/rsj/mp3_128
 美国July.12.2018,http://stream.srg-ssr.ch/m/rsc_de/mp3_128
@@ -654,7 +661,6 @@ TRACE Urban,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 哥斯达黎加 Extrema TV,http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 马其顿 Sky Folk TV,http://skyfolk.mk/live.m3u8
 捷克Retro (Opt-1),http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-斯洛伐克TV 8,http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
 拉脱维亚RETV,http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
 拉脱维亚TV Net,http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
 希腊Ionian Channel,http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
@@ -680,10 +686,7 @@ TRACE Urban,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 荷兰Sol Música,https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 英国Trace Urban,https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/ts-eu-w1-n2/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
 猫和老鼠轮播,https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-尼克少儿,http://23.237.104.106:8080/USA_NICKELODEON/tracks-v1a1/mono.m3u8
 BOOMERANG,http://23.237.104.106:8080/USA_BOOMERANG/tracks-v1a1/mono.m3u8
-COMEDY CENTRAL,http://23.237.104.106:8080/USA_COMEDY_CENTRAL/tracks-v1a1/mono.m3u8
-Discovery,http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
 Animal lPlanet,http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
 BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
@@ -691,14 +694,12 @@ Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-loven
 美国NBA,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
 美国NBC体育,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 美国UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-🇦🇹奥地利Moviesphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 🇬🇧英国Sky Sports Premier League,https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186604.ts
 🇳🇬尼日利亚Pulse,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 🇿🇦南非Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 🇪🇸西班牙DW Español Ⓢ,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 🇲🇽墨西哥Alcarria TV,http://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 🇮🇹意大利Food Network,https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
-🇨🇷哥斯达黎加Canal 8,http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 🇹🇷土耳其TRT World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
 🇳🇱荷兰Omrop Fryslân,https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/playlist.m3u8
 🇬🇧英国Desi Plus,http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
@@ -713,6 +714,7 @@ Love Nature,https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-loven
 🇮🇳印度INDIA TODAY,https://feeds.intoday.in/hltapps/api/master.m3u8
 🇮🇳印度NDTV India,https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 🇮🇳印度NDTV 24x7,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
 🇨🇳港台综合,#genre#
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
