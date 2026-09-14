@@ -20,7 +20,17 @@ zybzk2688,https://cdn3.indevs.in/stream/live/typd/
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-
+凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.m3u8
+香港卫视,https://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,https://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8?hls_ctx=8o89406w
+无线新闻台,http://iactive-clink.com:8081/live/yifaTV-007.m3u8
+中天新闻,http://173.208.234.146/live/ctinews.m3u8
+美亚电影,http://173.208.234.146/live/mymovie.m3u8
+天映频道,http://173.208.234.146/live/typd.m3u8
+爆谷台,http://173.208.234.146/live/nowbg.m3u8
+星影台,http://173.208.234.146/live/nowxy.m3u8
+纬来日本,https://iptv.852851.xyz/l/ny8S9r2kwWW9-XgFuid6HAsRUczZUX7uj-07ltjCa2_o76oA_5yFozANqM2feOcB/index.m3u8
 翡翠台4K(字幕),https://cdn3.indevs.in/stream/tvb/fct4k/
 TVB Plus(字幕),https://cdn3.indevs.in/stream/tvb/tvbp/
 HOY TV,https://fast.hidns.vip/163189/hoy
@@ -45,7 +55,6 @@ HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
 港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
 港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
-
 广东珠江,https://2.fast.hidns.vip/163189/gdzj
 广东体育,https://2.fast.hidns.vip/163189/gdty
 龙华电影,https://8.fast.hidns.vip/163189/lhdy
@@ -79,26 +88,6 @@ TVB Plus(WebVTT字幕),https://10.fast.hidns.vip/163189/tvbp/
 广州新闻,https://168.sryze.cc/163189/gzxw
 广州南国都市,https://cdn15.163189.xyz/163189/ngds
 五星体育,https://cdn15.163189.xyz/163189/wxty
-民视影剧台,https://cdn12.178.indevs.in/163189/msyj
-公视戏剧,https://cdn12.178.indevs.in/163189/gsxj
-采昌影剧台,https://cdn12.178.indevs.in/163189/ccyj
-靖天映画,https://cdn12.178.indevs.in/163189/jtyh
-靖天戏剧台,https://cdn12.178.indevs.in/163189/jtxj
-靖天电影台,https://cdn12.178.indevs.in/163189/jtdy
-靖洋戏剧台,https://cdn12.178.indevs.in/163189/jyxj
-影迷数位电影台,https://cdn12.178.indevs.in/163189/ymswdyt
-amc电影台,https://cdn12.178.indevs.in/163189/amc
-CinemaWorld,https://cdn12.178.indevs.in/163189/cinemaworld
-My Cinema Europe,https://cdn12.178.indevs.in/163189/mce
-经典电影台,https://cdn12.178.indevs.in/163189/jddyt
-CMusic,https://cdn12.178.indevs.in/163189/cmusic
-DreamWorks梦工厂动画,https://cdn12.178.indevs.in/163189/dreamworks
-精选动漫台,https://cdn12.178.indevs.in/163189/jxdmt
-金光布袋戏,https://cdn12.178.indevs.in/163189/jgbdx
-民视影劇台,https://cdn12.178.indevs.in/163189/msyj
-靖天戲劇台,https://cdn12.178.indevs.in/163189/jtxj
-靖洋戲劇台,https://cdn12.178.indevs.in/163189/jyxj
-影迷数位电影台,https://cdn12.178.indevs.in/163189/ymswdyt
 Hope,http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 ZOO MOO,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
@@ -116,8 +105,8 @@ BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 NBA1,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8
-中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8
+
 🌩️云南电信,#genre#
 CCTV1,http://14.204.32.194:6410/00000003/2/H_CCTV1?virtualDomain=00000003.live_hls.zte.com
 CCTV2,http://14.204.32.194:6410/00000003/2/H_CCTV2?virtualDomain=00000003.live_hls.zte.com
