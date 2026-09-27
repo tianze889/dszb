@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "闲鱼【资源宝藏库】",
+      "name": "【资源宝藏库】",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
